@@ -16,6 +16,7 @@ const useSongData = ({ debouncedSearch, selectedLevels }) => {
     const [isLoading, setIsLoading] = useState(true);
     const [favorites, setFavorites] = useState(new Map());
     const [togglingFavoriteId, setTogglingFavoriteId] = useState(null);
+    const [fetchingFavoritesFor, setFetchingFavoritesFor] = useState(new Set());
 
     useEffect(() => {
         setPage(1);
@@ -39,8 +40,14 @@ const useSongData = ({ debouncedSearch, selectedLevels }) => {
 
                 if (newSongs.length > 0) {
                     const songIds = newSongs.map((s) => s.id);
+                    setFetchingFavoritesFor((prev) => new Set([...prev, ...songIds]));
                     const newFavorites = await fetchFavorites(songIds);
                     setFavorites((prev) => new Map([...(page === 1 ? [] : prev), ...newFavorites]));
+                    setFetchingFavoritesFor((prev) => {
+                        const newSet = new Set(prev);
+                        songIds.forEach((id) => newSet.delete(id));
+                        return newSet;
+                    });
                 }
             } catch (error) {
                 console.error('Error fetching songs:', error);
@@ -90,6 +97,7 @@ const useSongData = ({ debouncedSearch, selectedLevels }) => {
         favorites,
         togglingFavoriteId,
         handleToggleFavorite,
+        fetchingFavoritesFor,
     };
 };
 
@@ -103,6 +111,7 @@ export const SongList = ({ selectedLevels, debouncedSearch }) => {
         favorites,
         togglingFavoriteId,
         handleToggleFavorite,
+        fetchingFavoritesFor,
     } = useSongData({ debouncedSearch, selectedLevels });
 
     const hasMoreSongs = songs.length < totalSongs;
@@ -132,7 +141,7 @@ export const SongList = ({ selectedLevels, debouncedSearch }) => {
                                 ref={isLastElement ? lastSongElementRef : null}
                                 song={song}
                                 isFavorite={favorites.has(song.id)}
-                                isTogglingFavorite={togglingFavoriteId === song.id}
+                                isTogglingFavorite={togglingFavoriteId === song.id || fetchingFavoritesFor.has(song.id)}
                                 onToggleFavorite={handleToggleFavorite}
                             />
                         );
