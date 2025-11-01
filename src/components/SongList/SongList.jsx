@@ -1,4 +1,4 @@
-// SongItems.jsx
+// SongList.jsx
 import React, { useState, useEffect, useCallback } from 'react';
 import { SONGS_PER_PAGE } from '../../config/constants';
 import { SongItem } from '../SongItem/SongItem';
@@ -7,7 +7,7 @@ import { InfiniteLoader } from '../common/InfiniteLoader';
 import { FullPageLoader } from '../common/FullPageLoader';
 import { getSongs } from '../../api/SongService';
 import { useInfiniteScroll } from '../../hooks/useInfiniteScroll';
-import './SongItems.css';
+import './SongList.css';
 
 const useSongData = ({ debouncedSearch, selectedLevels }) => {
     const [songs, setSongs] = useState([]);
@@ -93,7 +93,7 @@ const useSongData = ({ debouncedSearch, selectedLevels }) => {
     };
 };
 
-export const SongItems = ({ selectedLevels, debouncedSearch }) => {
+export const SongList = ({ selectedLevels, debouncedSearch }) => {
     const {
         songs,
         page,

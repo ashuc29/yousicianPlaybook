@@ -8,7 +8,7 @@ export const FilterBar = ({ showFilters, onToggleFilters, selectedLevels, onLeve
     if (selectedLevels.size > 0) {
         const minLevel = Math.min(...selectedLevels);
         const maxLevel = Math.max(...selectedLevels);
-        rangeText = `${minLevel} - ${maxLevel}`;
+        rangeText = minLevel === maxLevel ? `${minLevel}` : `${minLevel} - ${maxLevel}`;
     }
     return (
         <div className="filter-bar">

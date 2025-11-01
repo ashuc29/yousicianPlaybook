@@ -5,8 +5,7 @@ import './LevelButton.css';
  * Level Filter Button Component
  */
 export const LevelButton = ({ level, isActive, onClick }) => {
-    const buttonClasses = `level-button ${isActive ? 'level-button--active' : 'level-button--inactive group'
-        }`;
+    const buttonClasses = `level-button ${isActive ? 'level-button--active' : 'level-button--inactive group'}`;
 
     return (
         <button

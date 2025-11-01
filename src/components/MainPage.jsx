@@ -4,7 +4,7 @@ import { useDebounce } from '../hooks/useDebounce';
 import { DEBOUNCE_DELAY } from '../config/constants';
 import { SongSearch } from './SongSearch/SongSearch';
 import { FilterBar } from './Filter/Filter';
-import { SongItems } from './SongItems/SongItems.jsx';
+import { SongList } from "./SongList/SongList";
 
 export function MainPage() {
     // --- State ---
@@ -37,7 +37,7 @@ export function MainPage() {
                 selectedLevels={selectedLevels}
                 onLevelToggle={handleLevelToggle}
             />
-            <SongItems
+            <SongList
                 selectedLevels={selectedLevels}
                 debouncedSearch={debouncedSearch}
             />
