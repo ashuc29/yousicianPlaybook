@@ -11,15 +11,12 @@ export const LevelIndicator = ({ level, maxLevel = 15, size = 32, strokeWidth = 
     const offset = circumference * (1 - (level / maxLevel));
 
     return (
-        // Relative container to stack the number on top of the SVG
         <div
             className="level-indicator-container"
             style={{ '--size': `${size}px`, '--level-color': color }}
         >
-            {/* The Level Number (sits on top) */}
             <span className="level-indicator-number">{level}</span>
 
-            {/* The SVG Rings (sits in the background) */}
             <svg
                 className="level-indicator-svg"
                 width={svgSize}

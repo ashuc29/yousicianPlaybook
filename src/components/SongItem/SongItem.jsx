@@ -5,9 +5,10 @@ import defaultSongImage from '../../assets/images/SongItem_2.png';
 import '../../styles/variable.css';
 import './SongItem.css';
 
+const classNames = (...classes) => classes.filter(Boolean).join(' ');
 
 export const SongItem = React.forwardRef(({ song, isFavorite, onToggleFavorite, isTogglingFavorite, isFiltered }, ref) => (
-    <li ref={ref} className={`song-item-container ${isFiltered ? 'filtered' : ''} ${isTogglingFavorite ? 'toggling-favorite' : ''}`}>
+    <li ref={ref} className={classNames('song-item-container', isFiltered && 'filtered', isTogglingFavorite && 'toggling-favorite')}>
         <img
             src={song.image || defaultSongImage}
             alt={`${song.title} artwork`}
@@ -26,9 +27,8 @@ export const SongItem = React.forwardRef(({ song, isFavorite, onToggleFavorite, 
             <FavoriteButton
                 isFavorite={isFavorite}
                 onClick={() => onToggleFavorite(song.id)}
+                disabled={isTogglingFavorite}
             />
         </div>
     </li>
 ));
-
-
