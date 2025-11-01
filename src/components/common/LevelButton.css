@@ -1,0 +1,11 @@
+.level-button {
+    @apply w-10 h-10 sm:w-11 sm:h-11 rounded-full font-bold flex-shrink-0 flex items-center justify-center transition-all;
+}
+
+.level-button--active {
+    @apply bg-white text-black;
+}
+
+.level-button--inactive {
+    @apply relative text-white hover:bg-white/10;
+}

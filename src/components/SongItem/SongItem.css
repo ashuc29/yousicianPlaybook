@@ -1,0 +1,165 @@
+.song-item-container {
+    background-color: var(--color-grey-medium);
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    /* 16px */
+    padding: 1rem;
+    /* 16px */
+    margin-bottom: 0.5rem;
+    /* 8px */
+}
+
+.song-item-container.filtered {
+    background-color: var(--color-bg-dark);
+}
+
+.song-item-wrapper {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.song-item-content {
+    width: 100%;
+    max-width: 56rem;
+    /* 896px, assuming 4xl is 56rem */
+}
+
+.song-item-image {
+    width: 4rem;
+    /* 64px */
+    height: 4rem;
+    /* 64px */
+    object-fit: cover;
+    flex-shrink: 0;
+}
+
+.song-item-details {
+    min-width: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.song-item-title {
+    font-size: 1.125rem;
+    /* 18px */
+    line-height: 1.75rem;
+    /* 28px */
+    font-weight: 600;
+    color: var(--color-white);
+}
+
+.song-item-artist-container {
+    display: flex;
+}
+
+.song-item-artist {
+    font-size: 0.875rem;
+    /* 14px */
+    line-height: 1.25rem;
+    /* 20px */
+    font-weight: 400;
+    color: var(--color-white);
+}
+
+.song-item-actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    /* 16px */
+    margin-left: auto;
+    padding-left: 0.5rem;
+    /* 8px */
+}
+
+@media (min-width: 768px) {
+    .song-item-image {
+        width: 5rem;
+        /* 80px */
+        height: 5rem;
+        /* 80px */
+    }
+
+    .song-item-title {
+        font-size: 1.25rem;
+        /* 20px */
+        line-height: 1.75rem;
+        /* 28px */
+    }
+
+    .song-item-actions {
+        gap: 1.5rem;
+        /* 24px */
+    }
+}
+
+.song-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 16px;
+    border-bottom: 1px solid #333;
+    list-style: none;
+}
+
+.song-details {
+    flex-grow: 1;
+}
+
+.song-title {
+    margin: 0;
+    font-size: 1.1rem;
+    font-weight: 500;
+}
+
+.song-artist {
+    margin: 4px 0 0;
+    color: #aaa;
+}
+
+.song-meta {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+}
+
+.song-level {
+    font-size: 0.9rem;
+    color: #ccc;
+    border: 1px solid #555;
+    padding: 4px 8px;
+    border-radius: 12px;
+}
+
+.favorite-button {
+    background: none;
+    border: none;
+    color: #e91e63;
+    /* A pinkish color for the heart */
+    cursor: pointer;
+    font-size: 1.5rem;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.favorite-button:disabled {
+    cursor: not-allowed;
+    color: #777;
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.spinner {
+    animation: spin 1s linear infinite;
+}

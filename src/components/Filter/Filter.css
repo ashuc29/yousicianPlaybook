@@ -1,0 +1,48 @@
+.filter-bar {
+    @apply w-full flex justify-center text-white py-6 px-4 md:px-8;
+}
+
+.filter-container {
+    @apply w-full max-w-4xl flex flex-col;
+}
+
+.filter-toggle-container {
+    @apply flex items-center self-end gap-2 mb-4;
+}
+
+.filter-label {
+    @apply text-sm font-semibold text-white;
+}
+
+.filter-button-range {
+    @apply flex items-center text-sm font-bold border border-white rounded-3xl overflow-hidden;
+}
+
+.range-text {
+    @apply px-3 py-1;
+}
+
+.filter-icon-wrapper {
+    @apply bg-white rounded-full border-white p-1.5 block;
+}
+
+.filter-icon {
+    @apply w-4 h-4;
+    background-image: url('../../assets/icons/filter.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+    display: inline-block;
+}
+
+.filter-icon.invert {
+    filter: invert(1);
+}
+
+.filter-button {
+    @apply text-sm font-bold border border-white rounded-full p-1.5;
+}
+
+.levels-container {
+    @apply flex gap-2 sm:gap-3 overflow-x-auto pb-2 sm:flex-wrap sm:overflow-x-visible;
+}

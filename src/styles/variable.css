@@ -1,0 +1,9 @@
+:root {
+  --color-bg-dark: #101010;
+  --color-grey-medium: #383635;
+  --color-grey-light: #939393;
+
+  --color-level-green: #6fc13e;
+  --color-level-orange: #ff8e00;
+  --color-level-red: #dc001c;
+}

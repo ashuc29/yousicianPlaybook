@@ -1,0 +1,3706 @@
+{
+  "songs": [
+    {
+      "id": "5b8e47deb3984c68ed8192e3",
+      "title": "Easter Oratorio (in Am)",
+      "artist": "Johann Sebastian Bach",
+      "images": "https://assignment.yousician.com/songs/images/586a75fa-99df-4ce0-af71-55f6a474c404.jpg",
+      "level": 6,
+      "search": "johann sebastian bach easter oratorio (in am)"
+    },
+    {
+      "id": "5b8f736fb3984c13548374af",
+      "title": "Fysyoni (in Bm)",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/2524751a-c107-40e5-8de8-08e68b9d8ca8.jpg",
+      "level": 10,
+      "search": "traditional fysyoni (in bm)"
+    },
+    {
+      "id": "5b8e471cb3984c68ed81926d",
+      "title": "Gettin' Along",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/90c50bda-6935-49df-b5db-bbb493af4fed.jpg",
+      "level": 12,
+      "search": "the yousicians gettin' along"
+    },
+    {
+      "id": "5b8e447eb3984c68ed8190bf",
+      "title": "Fysouni (in Bm)",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/4c08e106-c82e-4c61-ae7c-18068023297c.jpg",
+      "level": 3,
+      "search": "traditional fysouni (in bm)"
+    },
+    {
+      "id": "5b8e47a5b3984c68ed8192c3",
+      "title": "Fight For It All",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/465b9efc-34e2-4352-bafc-03a3cf405100.jpg",
+      "level": 10,
+      "search": "the yousicians fight for it all"
+    },
+    {
+      "id": "5b8e4819b3984c68ed819303",
+      "title": "Red River Valley",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/7c20bd2f-8c7b-4e28-baec-85dd6ea7fe15.jpg",
+      "level": 4,
+      "search": "traditional red river valley"
+    },
+    {
+      "id": "5bc86518e8dec3682785fe1f",
+      "title": "No More Mr. Nice Guy",
+      "artist": "Alice Cooper",
+      "images": "https://assignment.yousician.com/artists/images/c6278fbd-1980-4405-9fba-002d5874df05.jpg",
+      "level": 11,
+      "search": "alice cooper no more mr. nice guy"
+    },
+    {
+      "id": "5b8e4688b3984c68ed81920d",
+      "title": "Cowboy's Lament",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/17088882-2897-48f7-a4cd-96b8f90c224c.jpg",
+      "level": 3,
+      "search": "the yousicians cowboy's lament"
+    },
+    {
+      "id": "5b8e45e9b3984c68ed8191a9",
+      "title": "Try This At Home",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/6a2279da-bb84-4b53-aebc-3f250a00b6f8.jpg",
+      "level": 8,
+      "search": "the yousicians try this at home"
+    },
+    {
+      "id": "5b432177e8dec348bf66715f",
+      "title": "We Didn't Start The Fire",
+      "artist": "Billy Joel",
+      "images": "https://assignment.yousician.com/artists/images/af4025c7-4836-46eb-be15-66511ffcbe5d.jpg",
+      "level": 2,
+      "search": "billy joel we didn't start the fire"
+    },
+    {
+      "id": "5b8fb11ae8dec3365050e8f7",
+      "title": "Free Bird",
+      "artist": "Lynyrd Skynyrd",
+      "images": "https://assignment.yousician.com/artists/images/b2e90e48-ab35-4ad7-aac8-abaa32e01920.jpg",
+      "level": 7,
+      "search": "lynyrd skynyrd free bird"
+    },
+    {
+      "id": "5b8e4706b3984c68ed81925d",
+      "title": "Testarossa",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/7c0dfbb5-b76f-472c-9565-8e08252ff0ba.jpg",
+      "level": 8,
+      "search": "the yousicians testarossa"
+    },
+    {
+      "id": "5b8e4734b3984c68ed81927d",
+      "title": "With You",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/afd43061-e62c-4445-a1a7-3ccba868393e.jpg",
+      "level": 12,
+      "search": "the yousicians with you"
+    },
+    {
+      "id": "5b8e465ab3984c68ed8191ed",
+      "title": "IILWY",
+      "artist": "Rob Scallon",
+      "images": "https://assignment.yousician.com/artists/images/f96be747-12cc-412f-a921-2c1dacacaede.jpg",
+      "level": 10,
+      "search": "rob scallon iilwy"
+    },
+    {
+      "id": "5b8e44a7b3984c68ed8190d5",
+      "title": "Watch This Space",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/1b4ea0bd-90b1-4630-a42f-ce20c966158c.jpg",
+      "level": 8,
+      "search": "the yousicians watch this space"
+    },
+    {
+      "id": "5c0f6cfce8dec348a88f6324",
+      "title": "O Little Town Of Bethlehem",
+      "artist": "Lewis Redner",
+      "images": "https://assignment.yousician.com/songs/images/b4c77e60-44e7-4152-8176-0cb18c20fa03.png",
+      "level": 4,
+      "search": "lewis redner o little town of bethlehem"
+    },
+    {
+      "id": "5b8e45bfb3984c68ed819191",
+      "title": "Supercharged",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/59d7defd-1751-47c2-8143-9a60d13b9102.jpg",
+      "level": 6,
+      "search": "the yousicians supercharged"
+    },
+    {
+      "id": "5c3edc7ee8dec36be7a0fce1",
+      "title": "Cello Suite No. 1 Part 1 (in C, short)",
+      "artist": "Johann Sebastian Bach",
+      "images": "https://assignment.yousician.com/songs/images/20dd9032-cf06-438f-9ab6-9049e48807eb.jpg",
+      "level": 5,
+      "search": "johann sebastian bach cello suite no. 1 part 1 (in c, short)"
+    },
+    {
+      "id": "5ba584e4e8dec304cfedf57c",
+      "title": "I Should Spend More Time With You",
+      "artist": "Rob Scallon",
+      "images": "https://assignment.yousician.com/artists/images/f96be747-12cc-412f-a921-2c1dacacaede.jpg",
+      "level": 7,
+      "search": "rob scallon i should spend more time with you"
+    },
+    {
+      "id": "5bfea7b5e8dec331251ee183",
+      "title": "Whiskey In The Jar",
+      "artist": "Thin Lizzy",
+      "images": "https://assignment.yousician.com/artists/images/5ab65403-4b1a-4d24-9e8d-82016cf7fc75.jpg",
+      "level": 13,
+      "search": "thin lizzy whiskey in the jar"
+    },
+    {
+      "id": "5bff82fee8dec3312522774e",
+      "title": "Vulkanik",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/e9770c2e-4b00-4a6b-b652-15047d0f6de1.png",
+      "level": 4,
+      "search": "the yousicians vulkanik"
+    },
+    {
+      "id": "5bd2fce3e8dec3255a00d1c7",
+      "title": "Sweet Home Alabama (tutorial)",
+      "artist": "Lynyrd Skynyrd",
+      "images": "https://assignment.yousician.com/artists/images/b2e90e48-ab35-4ad7-aac8-abaa32e01920.jpg",
+      "level": 1,
+      "search": "lynyrd skynyrd sweet home alabama (tutorial)"
+    },
+    {
+      "id": "5bbda380e8dec362ef95a29c",
+      "title": "L'Amour Oriental",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/074df417-9ea9-4510-a205-5d42c212d850.jpg",
+      "level": 15,
+      "search": "traditional l'amour oriental"
+    },
+    {
+      "id": "5b8e47f6b3984c68ed8192f1",
+      "title": "Valse Lente",
+      "artist": "Oskar Merikanto",
+      "images": "https://assignment.yousician.com/songs/images/7f322bb4-bc2a-420d-b037-97916561bf05.jpg",
+      "level": 11,
+      "search": "oskar merikanto valse lente"
+    },
+    {
+      "id": "5b8e453eb3984c68ed81913d",
+      "title": "Tannhauser",
+      "artist": "Richard Wagner",
+      "images": "https://assignment.yousician.com/songs/images/9c7ad501-a79c-4fef-94e5-e1ce6e70e688.jpg",
+      "level": 6,
+      "search": "richard wagner tannhauser"
+    },
+    {
+      "id": "5c3edcc6e8dec36be7a0fcfe",
+      "title": "Cello Suite No. 1 Part 1 (in G, short)",
+      "artist": "Johann Sebastian Bach",
+      "images": "https://assignment.yousician.com/songs/images/def060e5-5218-4143-a004-99888712ccbc.jpg",
+      "level": 14,
+      "search": "johann sebastian bach cello suite no. 1 part 1 (in g, short)"
+    },
+    {
+      "id": "5be299ade8dec31c1f711d23",
+      "title": "The Excalibur",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/d9073d76-f333-42b7-a348-0e50a158d6d6.png",
+      "level": 11,
+      "search": "the yousicians the excalibur"
+    },
+    {
+      "id": "5b8e44deb3984c68ed8190f7",
+      "title": "The Big One",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/18fe47fc-8e3d-49e2-a93c-51ddb4e0657d.jpg",
+      "level": 14,
+      "search": "the yousicians the big one"
+    },
+    {
+      "id": "5b8e4757b3984c68ed819295",
+      "title": "Wolf",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/aef55a97-3871-45d9-8a48-501116d659f1.jpg",
+      "level": 7,
+      "search": "the yousicians wolf"
+    },
+    {
+      "id": "5b8e452db3984c68ed819131",
+      "title": "New Dawn",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/9cc3792b-9469-4af7-9487-be1962816f47.jpg",
+      "level": 8,
+      "search": "the yousicians new dawn"
+    },
+    {
+      "id": "5b8e4529b3984c68ed81912d",
+      "title": "Mama Don't Allow",
+      "artist": "Jo' Buddy",
+      "images": "https://assignment.yousician.com/songs/images/6bf9f3c0-a4d3-48cf-80c7-c10db1748630.jpg",
+      "level": 11,
+      "search": "jo' buddy mama don't allow"
+    },
+    {
+      "id": "5b8e47e8b3984c68ed8192e9",
+      "title": "One For Ziggy",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/350ee479-50de-4481-926a-6562103c72e0.jpg",
+      "level": 1,
+      "search": "the yousicians one for ziggy"
+    },
+    {
+      "id": "5bd96f9de8dec32376c434aa",
+      "title": "2nd Movement From Symphony 94 (short)",
+      "artist": "Joseph Haydn",
+      "images": "https://assignment.yousician.com/artists/images/64560e29-bd17-4cf9-ba65-607e7c02f1d7.jpg",
+      "level": 8,
+      "search": "joseph haydn 2nd movement from symphony 94 (short)"
+    },
+    {
+      "id": "5b0e9f7ee8dec30a7534b283",
+      "title": "American Pie",
+      "artist": "Don McLean",
+      "images": "https://assignment.yousician.com/artists/images/9b7d9b2f-3a2a-438a-b3ad-7d6578ea6bc5.jpg",
+      "level": 14,
+      "search": "don mclean american pie"
+    },
+    {
+      "id": "5b8e46fdb3984c68ed819257",
+      "title": "Soi Vienosti Murheeni Soitto",
+      "artist": "Oskar Merikanto",
+      "images": "https://assignment.yousician.com/songs/images/6845651b-b223-4175-808b-791e0bdd383a.jpg",
+      "level": 15,
+      "search": "oskar merikanto soi vienosti murheeni soitto"
+    },
+    {
+      "id": "5b8e46beb3984c68ed81922f",
+      "title": "Je Te Veux",
+      "artist": "Erik Satie",
+      "images": "https://assignment.yousician.com/songs/images/75308887-2d75-4d38-8648-0c9fe1a07680.jpg",
+      "level": 15,
+      "search": "erik satie je te veux"
+    },
+    {
+      "id": "5b8fbe02e8dec3365051652c",
+      "title": "The Thrill Is Gone",
+      "artist": "B.B. King",
+      "images": "https://assignment.yousician.com/artists/images/c6d9315b-c448-42a6-a666-65b035a49c73.jpg",
+      "level": 10,
+      "search": "b.b. king the thrill is gone"
+    },
+    {
+      "id": "5bd96f52e8dec32376c432fc",
+      "title": "2nd Movement From Symphony 94",
+      "artist": "Joseph Haydn",
+      "images": "https://assignment.yousician.com/artists/images/64560e29-bd17-4cf9-ba65-607e7c02f1d7.jpg",
+      "level": 14,
+      "search": "joseph haydn 2nd movement from symphony 94"
+    },
+    {
+      "id": "5b8f73feb3984c13548374cb",
+      "title": "Easter Oratorio (in Bm)",
+      "artist": "Johann Sebastian Bach",
+      "images": "https://assignment.yousician.com/songs/images/8aa8f8fc-23c1-49f6-bf4b-0b90ca5b9516.jpg",
+      "level": 5,
+      "search": "johann sebastian bach easter oratorio (in bm)"
+    },
+    {
+      "id": "5b8e4534b3984c68ed819135",
+      "title": "A Hundred Rabbits",
+      "artist": "Utopianisti",
+      "images": "https://assignment.yousician.com/artists/images/645014da-fd49-48c7-9e75-1c53583bb5ba.jpg",
+      "level": 9,
+      "search": "utopianisti a hundred rabbits"
+    },
+    {
+      "id": "5bec2245e8dec3180992fc65",
+      "title": "Anhelo",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/1b1fa7a7-79d9-4826-a397-aadb233859e0.png",
+      "level": 12,
+      "search": "the yousicians anhelo"
+    },
+    {
+      "id": "5b8e4652b3984c68ed8191e9",
+      "title": "Love On The Rocks",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/9ce60790-0c83-42d9-ac9a-901db84f17cd.jpg",
+      "level": 15,
+      "search": "the yousicians love on the rocks"
+    },
+    {
+      "id": "5c11033de8dec3290fb42e01",
+      "title": "God Rest Ye Merry Gentlemen",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/ca8f68fe-0226-4dbc-b60b-5dfbc38ea4d5.png",
+      "level": 3,
+      "search": "traditional god rest ye merry gentlemen"
+    },
+    {
+      "id": "5b8e4484b3984c68ed8190c3",
+      "title": "Whizzing Through The Day",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/1cfd1938-7eef-4ee9-bf8d-d180d5c2b2a1.jpg",
+      "level": 13,
+      "search": "the yousicians whizzing through the day"
+    },
+    {
+      "id": "5bfc95c5e8dec36b6586f87d",
+      "title": "Metal In Very Inappropriate Places",
+      "artist": "Rob Scallon",
+      "images": "https://assignment.yousician.com/artists/images/f96be747-12cc-412f-a921-2c1dacacaede.jpg",
+      "level": 13,
+      "search": "rob scallon metal in very inappropriate places"
+    },
+    {
+      "id": "5bd96fb5e8dec32376c439cf",
+      "title": "The Creation Overture",
+      "artist": "Joseph Haydn",
+      "images": "https://assignment.yousician.com/artists/images/64560e29-bd17-4cf9-ba65-607e7c02f1d7.jpg",
+      "level": 10,
+      "search": "joseph haydn the creation overture"
+    },
+    {
+      "id": "5b8e44fab3984c68ed81910d",
+      "title": "The Message",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/9b42f6cf-4a90-4d2f-884b-70d8897b67bf.jpg",
+      "level": 5,
+      "search": "the yousicians the message"
+    },
+    {
+      "id": "5b8e46f4b3984c68ed81924f",
+      "title": "Dr Gravity's Evil Plan",
+      "artist": "Utopianisti",
+      "images": "https://assignment.yousician.com/artists/images/645014da-fd49-48c7-9e75-1c53583bb5ba.jpg",
+      "level": 13,
+      "search": "utopianisti dr gravity's evil plan"
+    },
+    {
+      "id": "5c3de180e8dec334687420a0",
+      "title": "Cello Suite No. 1 Part 1 (in C, full)",
+      "artist": "Johann Sebastian Bach",
+      "images": "https://assignment.yousician.com/songs/images/895da778-6851-47e9-b9e0-a7079ece284f.jpg",
+      "level": 1,
+      "search": "johann sebastian bach cello suite no. 1 part 1 (in c, full)"
+    },
+    {
+      "id": "5b8e44d7b3984c68ed8190f1",
+      "title": "Changing Floors",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/5b20f03a-dced-4ad9-b0f9-de5e632b0c2c.jpg",
+      "level": 4,
+      "search": "the yousicians changing floors"
+    },
+    {
+      "id": "5b8fa5ccb3984c209a0aca6d",
+      "title": "What Rick Sent",
+      "artist": "Rob Scallon",
+      "images": "https://assignment.yousician.com/artists/images/f96be747-12cc-412f-a921-2c1dacacaede.jpg",
+      "level": 11,
+      "search": "rob scallon what rick sent"
+    },
+    {
+      "id": "5c3edd39e8dec36be7a0fd1b",
+      "title": "Violin Partita No. 1: Sarabande (in Am)",
+      "artist": "Johann Sebastian Bach",
+      "images": "https://assignment.yousician.com/songs/images/a40d2d0e-b00e-4239-893a-6258489c1430.jpg",
+      "level": 13,
+      "search": "johann sebastian bach violin partita no. 1: sarabande (in am)"
+    },
+    {
+      "id": "5c1106cfe8dec3290fb4589b",
+      "title": "Still Loving You (Am)",
+      "artist": "Scorpions",
+      "images": "https://assignment.yousician.com/artists/images/c04a2f39-7eb7-49d9-8169-8c2fce7e5753.jpg",
+      "level": 9,
+      "search": "scorpions still loving you (am)"
+    },
+    {
+      "id": "5b8e455db3984c68ed819151",
+      "title": "Gnossienne (in E)",
+      "artist": "Erik Satie",
+      "images": "https://assignment.yousician.com/songs/images/1e3ba584-864c-4633-8cf0-55b4fcd9da10.jpg",
+      "level": 8,
+      "search": "erik satie gnossienne (in e)"
+    },
+    {
+      "id": "5b8e4573b3984c68ed81915f",
+      "title": "Motor City Blues",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/46eaa172-e0fe-4fb5-b441-a0da1a94988a.jpg",
+      "level": 10,
+      "search": "the yousicians motor city blues"
+    },
+    {
+      "id": "5b8fa745b3984c209a0acb2f",
+      "title": "Arpeggio Workout",
+      "artist": "Stevie T",
+      "images": "https://assignment.yousician.com/artists/images/c23195a3-0b46-466d-b878-9e10bb534072.png",
+      "level": 11,
+      "search": "stevie t arpeggio workout"
+    },
+    {
+      "id": "5bd2fddde8dec3255a00f775",
+      "title": "The Scientist (tutorial)",
+      "artist": "Coldplay",
+      "images": "https://assignment.yousician.com/artists/images/ca9925b1-0e28-404b-a8f2-b9957ffb8f14.jpg",
+      "level": 10,
+      "search": "coldplay the scientist (tutorial)"
+    },
+    {
+      "id": "5b0e9a5de8dec30a75342a3e",
+      "title": "Mississippi Queen",
+      "artist": "Mountain",
+      "images": "https://assignment.yousician.com/artists/images/383b9a40-e04d-451c-a3fb-346185b3f629.png",
+      "level": 7,
+      "search": "mountain mississippi queen"
+    },
+    {
+      "id": "5b8f737bb3984c13548374b9",
+      "title": "Hava Nagila",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/6970ca15-91d6-4f4d-bd0f-cd9f4be6cab9.jpg",
+      "level": 11,
+      "search": "traditional hava nagila"
+    },
+    {
+      "id": "5b8e4579b3984c68ed819163",
+      "title": "Ottawa",
+      "artist": "Rob Scallon",
+      "images": "https://assignment.yousician.com/artists/images/f96be747-12cc-412f-a921-2c1dacacaede.jpg",
+      "level": 14,
+      "search": "rob scallon ottawa"
+    },
+    {
+      "id": "5c3714b5e8dec32c6453293c",
+      "title": "The Boys Are Back In Town",
+      "artist": "Thin Lizzy",
+      "images": "https://assignment.yousician.com/artists/images/5ab65403-4b1a-4d24-9e8d-82016cf7fc75.jpg",
+      "level": 12,
+      "search": "thin lizzy the boys are back in town"
+    },
+    {
+      "id": "5c3f2846e8dec36be7a2d144",
+      "title": "Nothin' But A Good Time (in A, short)",
+      "artist": "Poison",
+      "images": "https://assignment.yousician.com/artists/images/2b66ddb3-99d6-46ba-8f10-f73f6cc6cf4a.jpg",
+      "level": 6,
+      "search": "poison nothin' but a good time (in a, short)"
+    },
+    {
+      "id": "5b6da11de8dec35ef9692398",
+      "title": "Cupid's Chokehold",
+      "artist": "Gym Class Heroes",
+      "images": "https://assignment.yousician.com/artists/images/caee734b-ae44-4afc-9558-e216205a7151.jpg",
+      "level": 13,
+      "search": "gym class heroes cupid's chokehold"
+    },
+    {
+      "id": "5b911de8b3984c65134ccbef",
+      "title": "Wedding March",
+      "artist": "Felix Mendelssohn",
+      "images": "https://assignment.yousician.com/songs/images/c125bfcc-bda1-4388-a224-24655a3e1f57.jpg",
+      "level": 7,
+      "search": "felix mendelssohn wedding march"
+    },
+    {
+      "id": "5bef4291e8dec318099cff45",
+      "title": "More Than This",
+      "artist": "One Direction",
+      "images": "https://assignment.yousician.com/artists/images/96a3e7f6-38c2-4ed7-8aff-8eff8e7e7ef6.jpg",
+      "level": 2,
+      "search": "one direction more than this"
+    },
+    {
+      "id": "5ba4c936e8dec3722748b26e",
+      "title": "Gives You Hell",
+      "artist": "The All-American Rejects",
+      "images": "https://assignment.yousician.com/artists/images/3fb6c6a4-882f-4aaa-9db5-9c5a5e9a031e.jpg",
+      "level": 1,
+      "search": "the all-american rejects gives you hell"
+    },
+    {
+      "id": "5bfcd038e8dec36b658712a0",
+      "title": "Bendy Song",
+      "artist": "Stevie T",
+      "images": "https://assignment.yousician.com/artists/images/c23195a3-0b46-466d-b878-9e10bb534072.png",
+      "level": 10,
+      "search": "stevie t bendy song"
+    },
+    {
+      "id": "5b29e4c9e8dec32f61b9f720",
+      "title": "Seven Nation Army (short)",
+      "artist": "The White Stripes",
+      "images": "https://assignment.yousician.com/artists/images/d22aa739-c595-4af8-b581-7b21f15412dc.jpg",
+      "level": 10,
+      "search": "the white stripes seven nation army (short)"
+    },
+    {
+      "id": "5b0e99dee8dec30a75342a3c",
+      "title": "Take Me Out",
+      "artist": "Franz Ferdinand",
+      "images": "https://assignment.yousician.com/artists/images/d8d0dd52-b130-4dce-8a24-4703b755878b.jpg",
+      "level": 7,
+      "search": "franz ferdinand take me out"
+    },
+    {
+      "id": "5b0e9ac7e8dec30a75342a40",
+      "title": "Rocket Man",
+      "artist": "Elton John",
+      "images": "https://assignment.yousician.com/artists/images/862f15d8-6a5a-46fe-a7bc-12814f2b6eea.jpg",
+      "level": 1,
+      "search": "elton john rocket man"
+    },
+    {
+      "id": "5b0eb6fee8dec30a7535c377",
+      "title": "It Must Have Been Love",
+      "artist": "Roxette",
+      "images": "https://assignment.yousician.com/artists/images/7ba735f0-58f8-4352-a5ae-2cf3d29c0e94.jpg",
+      "level": 15,
+      "search": "roxette it must have been love"
+    },
+    {
+      "id": "5b0ebd24e8dec30a753629cf",
+      "title": "Love Will Tear Us Apart",
+      "artist": "Joy Division",
+      "images": "https://assignment.yousician.com/artists/images/268ad5b4-c1e8-4365-9116-66ddb095bd21.jpg",
+      "level": 5,
+      "search": "joy division love will tear us apart"
+    },
+    {
+      "id": "5b0fb745e8dec30a7536d592",
+      "title": "Youth",
+      "artist": "Daughter",
+      "images": "https://assignment.yousician.com/artists/images/19cbc78c-4d5f-4691-bda0-ca89105a3b65.jpg",
+      "level": 3,
+      "search": "daughter youth"
+    },
+    {
+      "id": "5b0fe099e8dec30a7537e753",
+      "title": "Crash Into Me",
+      "artist": "Dave Matthews Band",
+      "images": "https://assignment.yousician.com/artists/images/e899b77e-6a4a-4a84-9487-7f7e3c72e05a.jpg",
+      "level": 9,
+      "search": "dave matthews band crash into me"
+    },
+    {
+      "id": "5b14f34ee8dec30152a163d3",
+      "title": "Everybody Hurts",
+      "artist": "R.E.M.",
+      "images": "https://assignment.yousician.com/artists/images/e7cc5221-ba99-47ac-a98b-a93424175fee.jpg",
+      "level": 12,
+      "search": "r.e.m. everybody hurts"
+    },
+    {
+      "id": "5b8fa62cb3984c209a0acaa1",
+      "title": "Super Metal Audition",
+      "artist": "Rob Scallon",
+      "images": "https://assignment.yousician.com/artists/images/f96be747-12cc-412f-a921-2c1dacacaede.jpg",
+      "level": 15,
+      "search": "rob scallon super metal audition"
+    },
+    {
+      "id": "5bd2fe14e8dec3255a010289",
+      "title": "Dancing On My Own (tutorial)",
+      "artist": "Calum Scott",
+      "images": "https://assignment.yousician.com/artists/images/cc0b13db-366c-4bd5-9da2-e174e6d409fa.jpg",
+      "level": 9,
+      "search": "calum scott dancing on my own (tutorial)"
+    },
+    {
+      "id": "5b8e45adb3984c68ed819187",
+      "title": "Goose Blues",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/00843d04-d1b3-4253-b685-b091e9251f51.jpg",
+      "level": 7,
+      "search": "the yousicians goose blues"
+    },
+    {
+      "id": "5b14f37fe8dec30152a163d5",
+      "title": "Just Like Heaven",
+      "artist": "The Cure",
+      "images": "https://assignment.yousician.com/artists/images/d55d0c34-b0e5-4f4b-90ab-09228f417332.jpg",
+      "level": 12,
+      "search": "the cure just like heaven"
+    },
+    {
+      "id": "5bef43c3e8dec318099cff88",
+      "title": "Hey Laura",
+      "artist": "Gregory Porter",
+      "images": "https://assignment.yousician.com/artists/images/e844d957-dc3b-434e-b9ee-6e1414ec7b60.jpg",
+      "level": 11,
+      "search": "gregory porter hey laura"
+    },
+    {
+      "id": "5c0f6b92e8dec348a88f48f4",
+      "title": "Away In A Manger",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/ce313d55-5922-4c49-91e7-3ce33d499dcc.png",
+      "level": 9,
+      "search": "traditional away in a manger"
+    },
+    {
+      "id": "5b14f605e8dec30152a163e7",
+      "title": "Talk Dirty To Me",
+      "artist": "Poison",
+      "images": "https://assignment.yousician.com/artists/images/2b66ddb3-99d6-46ba-8f10-f73f6cc6cf4a.jpg",
+      "level": 5,
+      "search": "poison talk dirty to me"
+    },
+    {
+      "id": "5b14f7abe8dec30152a163ee",
+      "title": "Don't Close Your Eyes",
+      "artist": "Keith Whitley",
+      "images": "https://assignment.yousician.com/artists/images/4daed1f6-2ebb-4213-aa85-215aeb3f1e97.jpg",
+      "level": 3,
+      "search": "keith whitley don't close your eyes"
+    },
+    {
+      "id": "5bc864b1e8dec3682785fdcc",
+      "title": "Texas Flood",
+      "artist": "Stevie Ray Vaughan",
+      "images": "https://assignment.yousician.com/artists/images/4d817cf9-f2f0-4479-9f6b-73ba358620bf.jpg",
+      "level": 7,
+      "search": "stevie ray vaughan texas flood"
+    },
+    {
+      "id": "5b150016e8dec30152a16416",
+      "title": "Black",
+      "artist": "Pearl Jam",
+      "images": "https://assignment.yousician.com/artists/images/edd4d057-375b-47d5-92e4-50176a1ddbc1.jpg",
+      "level": 15,
+      "search": "pearl jam black"
+    },
+    {
+      "id": "5bd6e8e9e8dec37aab3e78db",
+      "title": "Younger Now Tutorial",
+      "artist": "Miley Cyrus",
+      "images": "https://assignment.yousician.com/artists/images/a16143de-eb97-4d96-a4e6-2f567b4b014c.jpg",
+      "level": 10,
+      "search": "miley cyrus younger now tutorial"
+    },
+    {
+      "id": "5b1520cfe8dec30152a1eec9",
+      "title": "The Look",
+      "artist": "Roxette",
+      "images": "https://assignment.yousician.com/artists/images/7ba735f0-58f8-4352-a5ae-2cf3d29c0e94.jpg",
+      "level": 9,
+      "search": "roxette the look"
+    },
+    {
+      "id": "5b8e47d9b3984c68ed8192df",
+      "title": "Wedding March",
+      "artist": "Erkki Melartin",
+      "images": "https://assignment.yousician.com/songs/images/c25ba703-0ba8-4fdc-9b53-040af7fe498f.jpg",
+      "level": 13,
+      "search": "erkki melartin wedding march"
+    },
+    {
+      "id": "5b1522bde8dec30152a1eed9",
+      "title": "Millionaire",
+      "artist": "Chris Stapleton",
+      "images": "https://assignment.yousician.com/artists/images/152037cb-6629-4d01-b7b3-ae7e0def956a.jpg",
+      "level": 1,
+      "search": "chris stapleton millionaire"
+    },
+    {
+      "id": "5b0e9e9de8dec30a7534a87d",
+      "title": "Yellow",
+      "artist": "Coldplay",
+      "images": "https://assignment.yousician.com/artists/images/ca9925b1-0e28-404b-a8f2-b9957ffb8f14.jpg",
+      "level": 5,
+      "search": "coldplay yellow"
+    },
+    {
+      "id": "5b15232de8dec30152a1eede",
+      "title": "It's Time",
+      "artist": "Imagine Dragons",
+      "images": "https://assignment.yousician.com/artists/images/2d7308f8-ccf8-4b80-bc40-ff5af4203b62.jpg",
+      "level": 8,
+      "search": "imagine dragons it's time"
+    },
+    {
+      "id": "5b152436e8dec30152a1eeef",
+      "title": "More Than Words",
+      "artist": "Extreme",
+      "images": "https://assignment.yousician.com/artists/images/e8202960-dd6f-458d-8cae-874133443da5.jpg",
+      "level": 4,
+      "search": "extreme more than words"
+    },
+    {
+      "id": "5b8e46a0b3984c68ed81921d",
+      "title": "Swanee River",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/5347962a-2b9a-4286-bbc8-ff0dc15231d7.jpg",
+      "level": 15,
+      "search": "traditional swanee river"
+    },
+    {
+      "id": "5b8e470db3984c68ed819263",
+      "title": "Baby Please Don't Go",
+      "artist": "Jo' Buddy",
+      "images": "https://assignment.yousician.com/songs/images/a81aeb3b-3334-4f59-8e07-0f04c0d8f4e7.jpg",
+      "level": 1,
+      "search": "jo' buddy baby please don't go"
+    },
+    {
+      "id": "5b0e81f6e8dec30a7532d502",
+      "title": "When We Were Young",
+      "artist": "Adele",
+      "images": "https://assignment.yousician.com/artists/images/95815ef6-cf7f-4209-8505-7d206977d2db.jpg",
+      "level": 2,
+      "search": "adele when we were young"
+    },
+    {
+      "id": "5b1525f4e8dec30152a1ef05",
+      "title": "I Bet My Life",
+      "artist": "Imagine Dragons",
+      "images": "https://assignment.yousician.com/artists/images/2d7308f8-ccf8-4b80-bc40-ff5af4203b62.jpg",
+      "level": 9,
+      "search": "imagine dragons i bet my life"
+    },
+    {
+      "id": "5b8e463cb3984c68ed8191d9",
+      "title": "Cielito Lindo (in C)",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/b035fff2-cf9c-4408-b2c9-378edc07f59a.jpg",
+      "level": 15,
+      "search": "traditional cielito lindo (in c)"
+    },
+    {
+      "id": "5b0e9786e8dec30a7534082b",
+      "title": "Summer Of '69",
+      "artist": "Bryan Adams",
+      "images": "https://assignment.yousician.com/artists/images/21157f64-db20-4cad-aea6-3fca75b6bcdc.jpg",
+      "level": 8,
+      "search": "bryan adams summer of '69"
+    },
+    {
+      "id": "5b152909e8dec30152a1ef1b",
+      "title": "Fear Of The Dark",
+      "artist": "Iron Maiden",
+      "images": "https://assignment.yousician.com/artists/images/e7d215c7-0063-4ff8-9a50-834b103b1e06.jpg",
+      "level": 4,
+      "search": "iron maiden fear of the dark"
+    },
+    {
+      "id": "5b8e458bb3984c68ed81916f",
+      "title": "Aussie Medley",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/9089399c-d1dd-432e-a7fb-1a99d2b76d6f.jpg",
+      "level": 15,
+      "search": "traditional aussie medley"
+    },
+    {
+      "id": "5b717808e8dec36155ecc32e",
+      "title": "Sailing",
+      "artist": "Christopher Cross",
+      "images": "https://assignment.yousician.com/artists/images/a5ce7746-0817-441d-a7cf-547c68509caf.jpg",
+      "level": 6,
+      "search": "christopher cross sailing"
+    },
+    {
+      "id": "5b8e4501b3984c68ed819113",
+      "title": "St Matthew Passion",
+      "artist": "Johann Sebastian Bach",
+      "images": "https://assignment.yousician.com/songs/images/4a75970f-4992-43e5-bbda-70aaf6510478.jpg",
+      "level": 11,
+      "search": "johann sebastian bach st matthew passion"
+    },
+    {
+      "id": "5b0e9cb7e8dec30a75342a42",
+      "title": "Brown Eyed Girl",
+      "artist": "Van Morrison",
+      "images": "https://assignment.yousician.com/artists/images/d8172d8d-b500-416b-9735-e28f7434fb49.jpg",
+      "level": 7,
+      "search": "van morrison brown eyed girl"
+    },
+    {
+      "id": "5b1f7079e8dec321633ff50b",
+      "title": "Simple Man (in Am)",
+      "artist": "Lynyrd Skynyrd",
+      "images": "https://assignment.yousician.com/artists/images/b2e90e48-ab35-4ad7-aac8-abaa32e01920.jpg",
+      "level": 3,
+      "search": "lynyrd skynyrd simple man (in am)"
+    },
+    {
+      "id": "5c6d3559e8dec373d75285de",
+      "title": "Spanish Castle Magic (in E)",
+      "artist": "Jimi Hendrix",
+      "images": "https://assignment.yousician.com/artists/images/64d8917c-bcf7-4a03-9a76-a34988e9d828.png",
+      "level": 5,
+      "search": "jimi hendrix spanish castle magic (in e)"
+    },
+    {
+      "id": "5bc864d1e8dec3682785fe0e",
+      "title": "Texas Flood (in G)",
+      "artist": "Stevie Ray Vaughan",
+      "images": "https://assignment.yousician.com/artists/images/4d817cf9-f2f0-4479-9f6b-73ba358620bf.jpg",
+      "level": 7,
+      "search": "stevie ray vaughan texas flood (in g)"
+    },
+    {
+      "id": "5b0e9ef0e8dec30a7534b27e",
+      "title": "Californication",
+      "artist": "Red Hot Chili Peppers",
+      "images": "https://assignment.yousician.com/artists/images/476b79e4-c2c9-40ae-94b7-72bd76e9f152.jpg",
+      "level": 7,
+      "search": "red hot chili peppers californication"
+    },
+    {
+      "id": "5b431e75e8dec348bf664fc7",
+      "title": "Here Without You (in Am)",
+      "artist": "3 Doors Down",
+      "images": "https://assignment.yousician.com/artists/images/77f116b8-953c-4eda-9b36-851073e32813.jpg",
+      "level": 9,
+      "search": "3 doors down here without you (in am)"
+    },
+    {
+      "id": "5c41b403e8dec35ffd13e1c9",
+      "title": "Refuse / Resist (D)",
+      "artist": "Sepultura",
+      "images": "https://assignment.yousician.com/artists/images/412f699f-7744-4703-991b-c50bca0937cb.jpg",
+      "level": 8,
+      "search": "sepultura refuse / resist (d)"
+    },
+    {
+      "id": "5b0eb289e8dec30a75357f40",
+      "title": "In Case You Didn't Know",
+      "artist": "Brett Young",
+      "images": "https://assignment.yousician.com/artists/images/94f79dbd-3195-47a6-9bfd-3dd4123ab58a.jpg",
+      "level": 7,
+      "search": "brett young in case you didn't know"
+    },
+    {
+      "id": "5b0eb2d3e8dec30a75357f42",
+      "title": "Home",
+      "artist": "Phillip Phillips",
+      "images": "https://assignment.yousician.com/artists/images/3dd62352-713b-4cec-9e26-27d266c17d0e.jpg",
+      "level": 4,
+      "search": "phillip phillips home"
+    },
+    {
+      "id": "5b431fc1e8dec348bf665005",
+      "title": "Pompeii",
+      "artist": "Bastille",
+      "images": "https://assignment.yousician.com/artists/images/b3ddc079-106e-43af-968a-c840f926c759.jpg",
+      "level": 14,
+      "search": "bastille pompeii"
+    },
+    {
+      "id": "5b0eb3d0e8dec30a75357f48",
+      "title": "Lean On Me",
+      "artist": "Bill Withers",
+      "images": "https://assignment.yousician.com/artists/images/4fee3ec9-a9d1-46ae-aead-d06cfa98a8cd.jpg",
+      "level": 11,
+      "search": "bill withers lean on me"
+    },
+    {
+      "id": "5b0eb36ee8dec30a75357f46",
+      "title": "On Top Of The World",
+      "artist": "Imagine Dragons",
+      "images": "https://assignment.yousician.com/artists/images/2d7308f8-ccf8-4b80-bc40-ff5af4203b62.jpg",
+      "level": 10,
+      "search": "imagine dragons on top of the world"
+    },
+    {
+      "id": "5b4321c0e8dec348bf6679ac",
+      "title": "Little Lies",
+      "artist": "Fleetwood Mac",
+      "images": "https://assignment.yousician.com/artists/images/3678479e-5974-40b8-999d-01f75cdc525b.jpg",
+      "level": 8,
+      "search": "fleetwood mac little lies"
+    },
+    {
+      "id": "5b0eb469e8dec30a75357f4a",
+      "title": "Ain't No Sunshine",
+      "artist": "Bill Withers",
+      "images": "https://assignment.yousician.com/artists/images/4fee3ec9-a9d1-46ae-aead-d06cfa98a8cd.jpg",
+      "level": 8,
+      "search": "bill withers ain't no sunshine"
+    },
+    {
+      "id": "5c41b436e8dec35ffd13e1d7",
+      "title": "Refuse / Resist (E)",
+      "artist": "Sepultura",
+      "images": "https://assignment.yousician.com/artists/images/412f699f-7744-4703-991b-c50bca0937cb.jpg",
+      "level": 14,
+      "search": "sepultura refuse / resist (e)"
+    },
+    {
+      "id": "5b0ebb7ce8dec30a753629c7",
+      "title": "Mr. Brightside",
+      "artist": "The Killers",
+      "images": "https://assignment.yousician.com/artists/images/5ba016e9-f6e0-4bfb-adc4-b6774f80815b.jpg",
+      "level": 13,
+      "search": "the killers mr. brightside"
+    },
+    {
+      "id": "5b432f22e8dec348bf678b10",
+      "title": "White Rabbit",
+      "artist": "Jefferson Airplane",
+      "images": "https://assignment.yousician.com/artists/images/0d9a9a7f-4e9b-470a-85fd-fda1c48155cd.jpg",
+      "level": 2,
+      "search": "jefferson airplane white rabbit"
+    },
+    {
+      "id": "5b0eb9fee8dec30a753607a8",
+      "title": "Malibu",
+      "artist": "Miley Cyrus",
+      "images": "https://assignment.yousician.com/artists/images/a16143de-eb97-4d96-a4e6-2f567b4b014c.jpg",
+      "level": 1,
+      "search": "miley cyrus malibu"
+    },
+    {
+      "id": "5ba35dfce8dec3589adde582",
+      "title": "Hungarian Dances 1 & 5 (in Gm)",
+      "artist": "Johannes Brahms",
+      "images": "https://assignment.yousician.com/songs/images/adda572c-4d7d-4f37-a1d9-db4d43e1f8a3.jpg",
+      "level": 2,
+      "search": "johannes brahms hungarian dances 1 & 5 (in gm)"
+    },
+    {
+      "id": "5b0ebd72e8dec30a753629d1",
+      "title": "Fireflies",
+      "artist": "Owl City",
+      "images": "https://assignment.yousician.com/artists/images/c222ba05-1395-4084-8c11-c6abf40a6993.jpg",
+      "level": 6,
+      "search": "owl city fireflies"
+    },
+    {
+      "id": "5b43355be8dec348bf67ff10",
+      "title": "This Love",
+      "artist": "Maroon 5",
+      "images": "https://assignment.yousician.com/artists/images/a99d406a-f02f-41d7-a323-b3c5d740f2d9.jpg",
+      "level": 10,
+      "search": "maroon 5 this love"
+    },
+    {
+      "id": "5b0ec725e8dec30a753629e5",
+      "title": "Simple Man",
+      "artist": "Lynyrd Skynyrd",
+      "images": "https://assignment.yousician.com/artists/images/b2e90e48-ab35-4ad7-aac8-abaa32e01920.jpg",
+      "level": 15,
+      "search": "lynyrd skynyrd simple man"
+    },
+    {
+      "id": "5b0ebdd7e8dec30a753629d3",
+      "title": "Listen To Your Heart (radio edit)",
+      "artist": "Roxette",
+      "images": "https://assignment.yousician.com/artists/images/7ba735f0-58f8-4352-a5ae-2cf3d29c0e94.jpg",
+      "level": 8,
+      "search": "roxette listen to your heart (radio edit)"
+    },
+    {
+      "id": "5b4340a0e8dec348bf68dabf",
+      "title": "All Out Of Love",
+      "artist": "Air Supply",
+      "images": "https://assignment.yousician.com/artists/images/b3aecfa6-3646-493e-bec5-02552967c11e.jpg",
+      "level": 1,
+      "search": "air supply all out of love"
+    },
+    {
+      "id": "5b14f1cae8dec30152a163c8",
+      "title": "Waterloo",
+      "artist": "ABBA",
+      "images": "https://assignment.yousician.com/artists/images/e2381902-7087-4319-bc44-a4a8ff255c12.jpg",
+      "level": 10,
+      "search": "abba waterloo"
+    },
+    {
+      "id": "5b0fea39e8dec30a7537e787",
+      "title": "Every Rose Has Its Thorn",
+      "artist": "Poison",
+      "images": "https://assignment.yousician.com/artists/images/2b66ddb3-99d6-46ba-8f10-f73f6cc6cf4a.jpg",
+      "level": 12,
+      "search": "poison every rose has its thorn"
+    },
+    {
+      "id": "5b4344c5e8dec348bf692b43",
+      "title": "La Bilirrubina",
+      "artist": "Juan Luis Guerra",
+      "images": "https://assignment.yousician.com/artists/images/cfafd443-1a3a-4afd-8667-fbe1721ebf67.jpg",
+      "level": 3,
+      "search": "juan luis guerra la bilirrubina"
+    },
+    {
+      "id": "5b14f2a7e8dec30152a163d1",
+      "title": "Dog Days Are Over",
+      "artist": "Florence + The Machine",
+      "images": "https://assignment.yousician.com/artists/images/c5fddbf4-2ea0-4989-ba14-f1b5426c3b2d.jpg",
+      "level": 8,
+      "search": "florence + the machine dog days are over"
+    },
+    {
+      "id": "5b0fec14e8dec30a7537e796",
+      "title": "Every Rose Has Its Thorn (in G)",
+      "artist": "Poison",
+      "images": "https://assignment.yousician.com/artists/images/2b66ddb3-99d6-46ba-8f10-f73f6cc6cf4a.jpg",
+      "level": 1,
+      "search": "poison every rose has its thorn (in g)"
+    },
+    {
+      "id": "5b434a09e8dec348bf69bfdb",
+      "title": "Friday I'm In Love",
+      "artist": "The Cure",
+      "images": "https://assignment.yousician.com/artists/images/d55d0c34-b0e5-4f4b-90ab-09228f417332.jpg",
+      "level": 5,
+      "search": "the cure friday i'm in love"
+    },
+    {
+      "id": "5b14f7f5e8dec30152a163f9",
+      "title": "Leave A Light On",
+      "artist": "Tom Walker",
+      "images": "https://assignment.yousician.com/artists/images/a594ae1b-8192-4aac-b4b5-aea434635810.jpg",
+      "level": 8,
+      "search": "tom walker leave a light on"
+    },
+    {
+      "id": "5b0fec58e8dec30a7537e7a1",
+      "title": "Sweet Caroline",
+      "artist": "Neil Diamond",
+      "images": "https://assignment.yousician.com/artists/images/77aaeb9c-b17d-4280-b9c2-58fe9bc6beac.jpg",
+      "level": 11,
+      "search": "neil diamond sweet caroline"
+    },
+    {
+      "id": "5b434b57e8dec348bf69caab",
+      "title": "Plush",
+      "artist": "Stone Temple Pilots",
+      "images": "https://assignment.yousician.com/artists/images/30429a50-e062-4fc3-9c6b-2869af4c41fa.jpg",
+      "level": 6,
+      "search": "stone temple pilots plush"
+    },
+    {
+      "id": "5b14f820e8dec30152a163fb",
+      "title": "Let You Down",
+      "artist": "NF",
+      "images": "https://assignment.yousician.com/artists/images/af11a935-48b6-463a-9ac3-5805f8a370b7.jpg",
+      "level": 6,
+      "search": "nf let you down"
+    },
+    {
+      "id": "5b14f474e8dec30152a163db",
+      "title": "Somebody Told Me",
+      "artist": "The Killers",
+      "images": "https://assignment.yousician.com/artists/images/5ba016e9-f6e0-4bfb-adc4-b6774f80815b.jpg",
+      "level": 2,
+      "search": "the killers somebody told me"
+    },
+    {
+      "id": "5b434cbbe8dec348bf6a0091",
+      "title": "On & On",
+      "artist": "Erykah Badu",
+      "images": "https://assignment.yousician.com/artists/images/92ea3e78-b98e-48b0-9fbf-1eaa3099cfce.jpg",
+      "level": 1,
+      "search": "erykah badu on & on"
+    },
+    {
+      "id": "5b14ff7ce8dec30152a1640d",
+      "title": "Uptown Girl",
+      "artist": "Billy Joel",
+      "images": "https://assignment.yousician.com/artists/images/af4025c7-4836-46eb-be15-66511ffcbe5d.jpg",
+      "level": 1,
+      "search": "billy joel uptown girl"
+    },
+    {
+      "id": "5b14f4b5e8dec30152a163dd",
+      "title": "From This Moment On",
+      "artist": "Shania Twain",
+      "images": "https://assignment.yousician.com/artists/images/07ecc09d-d1dc-4dec-9240-a38e7bb062bf.jpg",
+      "level": 3,
+      "search": "shania twain from this moment on"
+    },
+    {
+      "id": "5b434f9ae8dec348bf6a36c3",
+      "title": "Top Of The World",
+      "artist": "The Carpenters",
+      "images": "https://assignment.yousician.com/artists/images/6724e8e1-d84b-4106-b01c-61cd633cb3ca.jpg",
+      "level": 2,
+      "search": "the carpenters top of the world"
+    },
+    {
+      "id": "5b8fa623b3984c209a0aca9b",
+      "title": "What I Did With It",
+      "artist": "Rob Scallon",
+      "images": "https://assignment.yousician.com/artists/images/f96be747-12cc-412f-a921-2c1dacacaede.jpg",
+      "level": 3,
+      "search": "rob scallon what i did with it"
+    },
+    {
+      "id": "5b1510d7e8dec30152a1cb95",
+      "title": "Younger Now",
+      "artist": "Miley Cyrus",
+      "images": "https://assignment.yousician.com/artists/images/a16143de-eb97-4d96-a4e6-2f567b4b014c.jpg",
+      "level": 5,
+      "search": "miley cyrus younger now"
+    },
+    {
+      "id": "5b14f580e8dec30152a163e3",
+      "title": "Beauty And The Beast",
+      "artist": "Beauty and the Beast",
+      "images": "https://assignment.yousician.com/artists/images/303b25e2-1eca-4ea8-ab1c-7d1a1a247e44.png",
+      "level": 6,
+      "search": "beauty and the beast beauty and the beast"
+    },
+    {
+      "id": "5b6afab0e8dec33f0f5e70ef",
+      "title": "Move Along (in E)",
+      "artist": "The All-American Rejects",
+      "images": "https://assignment.yousician.com/artists/images/3fb6c6a4-882f-4aaa-9db5-9c5a5e9a031e.jpg",
+      "level": 4,
+      "search": "the all-american rejects move along (in e)"
+    },
+    {
+      "id": "5b15228ae8dec30152a1eed4",
+      "title": "Help Me Help You",
+      "artist": "Logan Paul",
+      "images": "https://assignment.yousician.com/artists/images/3d3efc27-82f1-4e20-9d41-674609c5535a.jpg",
+      "level": 9,
+      "search": "logan paul help me help you"
+    },
+    {
+      "id": "5b10f1f0e8dec30a7539ebf8",
+      "title": "Yellow (in C)",
+      "artist": "Coldplay",
+      "images": "https://assignment.yousician.com/artists/images/ca9925b1-0e28-404b-a8f2-b9957ffb8f14.jpg",
+      "level": 5,
+      "search": "coldplay yellow (in c)"
+    },
+    {
+      "id": "5b14feede8dec30152a16409",
+      "title": "Let's Stay Together",
+      "artist": "Al Green",
+      "images": "https://assignment.yousician.com/artists/images/94c6ccc1-dba7-4ff2-ba64-94246c318667.jpg",
+      "level": 5,
+      "search": "al green let's stay together"
+    },
+    {
+      "id": "5b6c3863e8dec347b474d841",
+      "title": "Born To Be Wild",
+      "artist": "Steppenwolf",
+      "images": "https://assignment.yousician.com/artists/images/7a94187c-a615-40de-a7c1-dea350d979bc.jpg",
+      "level": 2,
+      "search": "steppenwolf born to be wild"
+    },
+    {
+      "id": "5b1523d4e8dec30152a1eee9",
+      "title": "Under The Sea",
+      "artist": "The Little Mermaid",
+      "images": "https://assignment.yousician.com/artists/images/5190514e-156a-4081-81bb-bfd12497e767.png",
+      "level": 9,
+      "search": "the little mermaid under the sea"
+    },
+    {
+      "id": "5b1524cae8dec30152a1eef7",
+      "title": "More Than Words (in G)",
+      "artist": "Extreme",
+      "images": "https://assignment.yousician.com/artists/images/e8202960-dd6f-458d-8cae-874133443da5.jpg",
+      "level": 10,
+      "search": "extreme more than words (in g)"
+    },
+    {
+      "id": "5b6da20fe8dec35ef9692fd1",
+      "title": "Gimme Three Steps",
+      "artist": "Lynyrd Skynyrd",
+      "images": "https://assignment.yousician.com/artists/images/b2e90e48-ab35-4ad7-aac8-abaa32e01920.jpg",
+      "level": 3,
+      "search": "lynyrd skynyrd gimme three steps"
+    },
+    {
+      "id": "5b152631e8dec30152a1ef07",
+      "title": "I'm Still Standing",
+      "artist": "Elton John",
+      "images": "https://assignment.yousician.com/artists/images/862f15d8-6a5a-46fe-a7bc-12814f2b6eea.jpg",
+      "level": 2,
+      "search": "elton john i'm still standing"
+    },
+    {
+      "id": "5b152679e8dec30152a1ef0c",
+      "title": "Cosmic Love",
+      "artist": "Florence + The Machine",
+      "images": "https://assignment.yousician.com/artists/images/c5fddbf4-2ea0-4989-ba14-f1b5426c3b2d.jpg",
+      "level": 4,
+      "search": "florence + the machine cosmic love"
+    },
+    {
+      "id": "5b717949e8dec36155ecc388",
+      "title": "Harder To Breathe",
+      "artist": "Maroon 5",
+      "images": "https://assignment.yousician.com/artists/images/a99d406a-f02f-41d7-a323-b3c5d740f2d9.jpg",
+      "level": 7,
+      "search": "maroon 5 harder to breathe"
+    },
+    {
+      "id": "5b17523ce8dec306046302f2",
+      "title": "Mr. Brightside (in D)",
+      "artist": "The Killers",
+      "images": "https://assignment.yousician.com/artists/images/5ba016e9-f6e0-4bfb-adc4-b6774f80815b.jpg",
+      "level": 1,
+      "search": "the killers mr. brightside (in d)"
+    },
+    {
+      "id": "5b1527f6e8dec30152a1ef13",
+      "title": "Mamma Mia",
+      "artist": "ABBA",
+      "images": "https://assignment.yousician.com/artists/images/e2381902-7087-4319-bc44-a4a8ff255c12.jpg",
+      "level": 8,
+      "search": "abba mamma mia"
+    },
+    {
+      "id": "5b717a65e8dec36155eccfbe",
+      "title": "Riding With The King",
+      "artist": "Eric Clapton, B.B. King",
+      "images": "https://assignment.yousician.com/artists/images/22f4adc6-8426-4a8d-892a-a492c3423b26.jpg",
+      "level": 9,
+      "search": "eric clapton, b.b. king riding with the king"
+    },
+    {
+      "id": "5b430f25e8dec348bf65947a",
+      "title": "For The First Time",
+      "artist": "The Script",
+      "images": "https://assignment.yousician.com/artists/images/4c179d55-cdd8-4bfe-9d4f-12b54259e93d.jpg",
+      "level": 15,
+      "search": "the script for the first time"
+    },
+    {
+      "id": "5b8e44e4b3984c68ed8190ff",
+      "title": "Hava Nagila",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/f8f6108d-db97-4afc-81d8-7ef19df0e629.jpg",
+      "level": 5,
+      "search": "the yousicians hava nagila"
+    },
+    {
+      "id": "5b431054e8dec348bf65b4a8",
+      "title": "You're So Vain",
+      "artist": "Carly Simon",
+      "images": "https://assignment.yousician.com/artists/images/004edd19-3d54-469c-8925-c33d27185399.jpg",
+      "level": 9,
+      "search": "carly simon you're so vain"
+    },
+    {
+      "id": "5b8e46e5b3984c68ed819245",
+      "title": "Siegfried",
+      "artist": "Richard Wagner",
+      "images": "https://assignment.yousician.com/songs/images/396fbdde-690b-4b24-b4df-63e5da7130ea.jpg",
+      "level": 6,
+      "search": "richard wagner siegfried"
+    },
+    {
+      "id": "5b4335e4e8dec348bf680a00",
+      "title": "(Sittin' On) The Dock Of The Bay",
+      "artist": "Otis Redding",
+      "images": "https://assignment.yousician.com/artists/images/f64478ee-4986-4522-a235-2d1289a1674e.jpg",
+      "level": 4,
+      "search": "otis redding (sittin' on) the dock of the bay"
+    },
+    {
+      "id": "5b4332ede8dec348bf67ea2d",
+      "title": "She's Always A Woman",
+      "artist": "Billy Joel",
+      "images": "https://assignment.yousician.com/artists/images/af4025c7-4836-46eb-be15-66511ffcbe5d.jpg",
+      "level": 1,
+      "search": "billy joel she's always a woman"
+    },
+    {
+      "id": "5ba3bb26e8dec37227448230",
+      "title": "Won't Go Home Without You",
+      "artist": "Maroon 5",
+      "images": "https://assignment.yousician.com/artists/images/a99d406a-f02f-41d7-a323-b3c5d740f2d9.jpg",
+      "level": 5,
+      "search": "maroon 5 won't go home without you"
+    },
+    {
+      "id": "5b4340e0e8dec348bf68deb5",
+      "title": "Chan Chan",
+      "artist": "Buena Vista Social Club",
+      "images": "https://assignment.yousician.com/artists/images/6bb96a98-76ea-4654-9afe-a593bacb775d.jpg",
+      "level": 11,
+      "search": "buena vista social club chan chan"
+    },
+    {
+      "id": "5b434132e8dec348bf68debf",
+      "title": "Somebody To Love",
+      "artist": "Jefferson Airplane",
+      "images": "https://assignment.yousician.com/artists/images/0d9a9a7f-4e9b-470a-85fd-fda1c48155cd.jpg",
+      "level": 7,
+      "search": "jefferson airplane somebody to love"
+    },
+    {
+      "id": "5bb4c49be8dec378b6bf3894",
+      "title": "Dirty Work (in C)",
+      "artist": "Steely Dan",
+      "images": "https://assignment.yousician.com/artists/images/e46a8c00-03fd-4e72-b9ce-537c7123e95e.jpg",
+      "level": 15,
+      "search": "steely dan dirty work (in c)"
+    },
+    {
+      "id": "5b434248e8dec348bf68f41e",
+      "title": "I Was Made For Lovin' You (in Em)",
+      "artist": "KISS",
+      "images": "https://assignment.yousician.com/artists/images/e15e130e-c50f-455e-9b39-15ba80d315dd.jpg",
+      "level": 12,
+      "search": "kiss i was made for lovin' you (in em)"
+    },
+    {
+      "id": "5b434c57e8dec348bf69f58a",
+      "title": "Sailing (in C)",
+      "artist": "Rod Stewart",
+      "images": "https://assignment.yousician.com/artists/images/b02c03eb-3d43-4be0-9df6-9c7ccea10f18.jpg",
+      "level": 11,
+      "search": "rod stewart sailing (in c)"
+    },
+    {
+      "id": "5bef4822e8dec318099d0073",
+      "title": "I Get Around",
+      "artist": "The Beach Boys",
+      "images": "https://assignment.yousician.com/artists/images/0248383c-8c7d-491a-832d-47d06f80f2f2.jpg",
+      "level": 15,
+      "search": "the beach boys i get around"
+    },
+    {
+      "id": "5b434292e8dec348bf68fec9",
+      "title": "Lovefool",
+      "artist": "The Cardigans",
+      "images": "https://assignment.yousician.com/artists/images/63f1821f-2914-4799-9ff0-99652c6226b0.jpg",
+      "level": 14,
+      "search": "the cardigans lovefool"
+    },
+    {
+      "id": "5b62b892e8dec36eab54de0a",
+      "title": "California Dreamin' (in Dm)",
+      "artist": "The Mamas & The Papas",
+      "images": "https://assignment.yousician.com/artists/images/8816f997-bf88-48c0-b3eb-a103340a02b0.jpg",
+      "level": 12,
+      "search": "the mamas & the papas california dreamin' (in dm)"
+    },
+    {
+      "id": "5b43437ce8dec348bf691438",
+      "title": "Down",
+      "artist": "Marian Hill",
+      "images": "https://assignment.yousician.com/artists/images/a4ab2efb-a931-4a33-a511-aa9960f494d1.jpg",
+      "level": 14,
+      "search": "marian hill down"
+    },
+    {
+      "id": "5b6afa2be8dec33f0f5e6d48",
+      "title": "Move Along",
+      "artist": "The All-American Rejects",
+      "images": "https://assignment.yousician.com/artists/images/3fb6c6a4-882f-4aaa-9db5-9c5a5e9a031e.jpg",
+      "level": 3,
+      "search": "the all-american rejects move along"
+    },
+    {
+      "id": "5b8e4675b3984c68ed819201",
+      "title": "Mazel Tov",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/0d8baa34-a442-4a63-af26-f67c9f52929e.jpg",
+      "level": 9,
+      "search": "the yousicians mazel tov"
+    },
+    {
+      "id": "5c110384e8dec3290fb42e16",
+      "title": "Carol Of The Bells",
+      "artist": "Mykola Leontovych",
+      "images": "https://assignment.yousician.com/songs/images/5f71862e-c89a-43f5-bab4-5fa771ebb0fa.png",
+      "level": 10,
+      "search": "mykola leontovych carol of the bells"
+    },
+    {
+      "id": "5b434602e8dec348bf6949c7",
+      "title": "I Want Crazy - Encore",
+      "artist": "Hunter Hayes",
+      "images": "https://assignment.yousician.com/artists/images/4491e476-2a6f-4534-806f-58ff6fd0fcef.jpg",
+      "level": 4,
+      "search": "hunter hayes i want crazy - encore"
+    },
+    {
+      "id": "5b6e24aee8dec35ef96b08d3",
+      "title": "I Bet My Life (in D)",
+      "artist": "Imagine Dragons",
+      "images": "https://assignment.yousician.com/artists/images/2d7308f8-ccf8-4b80-bc40-ff5af4203b62.jpg",
+      "level": 6,
+      "search": "imagine dragons i bet my life (in d)"
+    },
+    {
+      "id": "5b8e4715b3984c68ed819269",
+      "title": "If I Were A Motor",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/dc040aba-e2cc-47c0-87eb-ead3b018bb63.jpg",
+      "level": 4,
+      "search": "the yousicians if i were a motor"
+    },
+    {
+      "id": "5c3f263fe8dec36be7a2d0d0",
+      "title": "Life Is A Highway",
+      "artist": "Tom Cochrane",
+      "images": "https://assignment.yousician.com/artists/images/86d9dd54-9896-4637-af30-1e3ef972aa6d.jpg",
+      "level": 2,
+      "search": "tom cochrane life is a highway"
+    },
+    {
+      "id": "5b434963e8dec348bf69aa6d",
+      "title": "Bad To The Bone",
+      "artist": "George Thorogood",
+      "images": "https://assignment.yousician.com/artists/images/cd019f1f-f0c0-4017-81c0-1f303334098c.jpg",
+      "level": 1,
+      "search": "george thorogood bad to the bone"
+    },
+    {
+      "id": "5b8f7369b3984c13548374ab",
+      "title": "Siegfrid",
+      "artist": "Richard Wagner",
+      "images": "https://assignment.yousician.com/songs/images/76d3f704-c9d9-4e13-982e-6680030cd14b.jpg",
+      "level": 11,
+      "search": "richard wagner siegfrid"
+    },
+    {
+      "id": "5c37563fe8dec31ef32f65d9",
+      "title": "Swing, Swing",
+      "artist": "The All-American Rejects",
+      "images": "https://assignment.yousician.com/artists/images/3fb6c6a4-882f-4aaa-9db5-9c5a5e9a031e.jpg",
+      "level": 6,
+      "search": "the all-american rejects swing, swing"
+    },
+    {
+      "id": "5b434d2be8dec348bf6a00ba",
+      "title": "Midnight Train To Georgia",
+      "artist": "Gladys Knight & The Pips",
+      "images": "https://assignment.yousician.com/artists/images/1e4f81e1-869c-4eaa-9877-a2f68f247ddc.jpg",
+      "level": 5,
+      "search": "gladys knight & the pips midnight train to georgia"
+    },
+    {
+      "id": "5b95acf8e8dec336505ed216",
+      "title": "I Want Crazy (in E)",
+      "artist": "Hunter Hayes",
+      "images": "https://assignment.yousician.com/artists/images/4491e476-2a6f-4534-806f-58ff6fd0fcef.jpg",
+      "level": 11,
+      "search": "hunter hayes i want crazy (in e)"
+    },
+    {
+      "id": "5c38180ee8dec31ef3322999",
+      "title": "The Boys Are Back In Town (in A)",
+      "artist": "Thin Lizzy",
+      "images": "https://assignment.yousician.com/artists/images/5ab65403-4b1a-4d24-9e8d-82016cf7fc75.jpg",
+      "level": 10,
+      "search": "thin lizzy the boys are back in town (in a)"
+    },
+    {
+      "id": "5b434f5de8dec348bf6a369b",
+      "title": "Wichita Lineman",
+      "artist": "Glenn Campbell",
+      "images": "https://assignment.yousician.com/artists/images/2c5f1ea7-e29c-416d-b838-310978ec6039.jpg",
+      "level": 3,
+      "search": "glenn campbell wichita lineman"
+    },
+    {
+      "id": "5ba3bb7fe8dec37227448ede",
+      "title": "Won't Go Home Without You (in E)",
+      "artist": "Maroon 5",
+      "images": "https://assignment.yousician.com/artists/images/a99d406a-f02f-41d7-a323-b3c5d740f2d9.jpg",
+      "level": 2,
+      "search": "maroon 5 won't go home without you (in e)"
+    },
+    {
+      "id": "5c3ef014e8dec36be7a13f6a",
+      "title": "Santeria (In F)",
+      "artist": "Sublime",
+      "images": "https://assignment.yousician.com/artists/images/99ccd7cd-7a7a-47e5-8afc-153a61784330.jpg",
+      "level": 10,
+      "search": "sublime santeria (in f)"
+    },
+    {
+      "id": "5b6c38f5e8dec347b474d85d",
+      "title": "It's The End Of The World As We Know It (And I Feel Fine)",
+      "artist": "R.E.M.",
+      "images": "https://assignment.yousician.com/artists/images/e7cc5221-ba99-47ac-a98b-a93424175fee.jpg",
+      "level": 5,
+      "search": "r.e.m. it's the end of the world as we know it (and i feel fine)"
+    },
+    {
+      "id": "5bb4be9ae8dec378b6bf0dd5",
+      "title": "Good Vibrations",
+      "artist": "The Beach Boys",
+      "images": "https://assignment.yousician.com/artists/images/0248383c-8c7d-491a-832d-47d06f80f2f2.jpg",
+      "level": 5,
+      "search": "the beach boys good vibrations"
+    },
+    {
+      "id": "5c3f25bee8dec36be7a2d0a8",
+      "title": "Father Of Mine (in C)",
+      "artist": "Everclear",
+      "images": "https://assignment.yousician.com/artists/images/c54efe52-bdae-449a-9204-53fd1463af06.jpg",
+      "level": 12,
+      "search": "everclear father of mine (in c)"
+    },
+    {
+      "id": "5b6da0b3e8dec35ef9690baa",
+      "title": "When I'm Gone",
+      "artist": "3 Doors Down",
+      "images": "https://assignment.yousician.com/artists/images/77f116b8-953c-4eda-9b36-851073e32813.jpg",
+      "level": 13,
+      "search": "3 doors down when i'm gone"
+    },
+    {
+      "id": "5bb4c2c7e8dec378b6bf1c9f",
+      "title": "Road Trippin'",
+      "artist": "Red Hot Chili Peppers",
+      "images": "https://assignment.yousician.com/artists/images/476b79e4-c2c9-40ae-94b7-72bd76e9f152.jpg",
+      "level": 7,
+      "search": "red hot chili peppers road trippin'"
+    },
+    {
+      "id": "5c3f299ee8dec36be7a2d19c",
+      "title": "Love And Happiness",
+      "artist": "Al Green",
+      "images": "https://assignment.yousician.com/artists/images/94c6ccc1-dba7-4ff2-ba64-94246c318667.jpg",
+      "level": 4,
+      "search": "al green love and happiness"
+    },
+    {
+      "id": "5b6da163e8dec35ef96923cf",
+      "title": "Shimmer",
+      "artist": "Fuel",
+      "images": "https://assignment.yousician.com/artists/images/624d65ec-9616-49b5-83c5-a08ec060b460.jpg",
+      "level": 2,
+      "search": "fuel shimmer"
+    },
+    {
+      "id": "5bb4c134e8dec378b6bf0e62",
+      "title": "Dani California",
+      "artist": "Red Hot Chili Peppers",
+      "images": "https://assignment.yousician.com/artists/images/476b79e4-c2c9-40ae-94b7-72bd76e9f152.jpg",
+      "level": 11,
+      "search": "red hot chili peppers dani california"
+    },
+    {
+      "id": "5be299e2e8dec31c1f711d33",
+      "title": "Waltz Into The Night",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/8d719206-32a3-411f-a4d5-c3794110cef9.png",
+      "level": 9,
+      "search": "the yousicians waltz into the night"
+    },
+    {
+      "id": "5b6e89abe8dec35ef96b1d8d",
+      "title": "Malibu (in G)",
+      "artist": "Miley Cyrus",
+      "images": "https://assignment.yousician.com/artists/images/a16143de-eb97-4d96-a4e6-2f567b4b014c.jpg",
+      "level": 4,
+      "search": "miley cyrus malibu (in g)"
+    },
+    {
+      "id": "5bb4c474e8dec378b6bf3886",
+      "title": "Tuesday's Gone (in G)",
+      "artist": "Lynyrd Skynyrd",
+      "images": "https://assignment.yousician.com/artists/images/b2e90e48-ab35-4ad7-aac8-abaa32e01920.jpg",
+      "level": 5,
+      "search": "lynyrd skynyrd tuesday's gone (in g)"
+    },
+    {
+      "id": "5c4863d1e8dec30b9320cb27",
+      "title": "Have Faith",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/138c2c60-253b-4851-98f2-776e621af650.jpg",
+      "level": 4,
+      "search": "the yousicians have faith"
+    },
+    {
+      "id": "5b7a6450e8dec343407b2059",
+      "title": "The One I Love",
+      "artist": "R.E.M.",
+      "images": "https://assignment.yousician.com/artists/images/e7cc5221-ba99-47ac-a98b-a93424175fee.jpg",
+      "level": 11,
+      "search": "r.e.m. the one i love"
+    },
+    {
+      "id": "5bb73e65e8dec3298d0f5136",
+      "title": "Good Vibrations (in Dm)",
+      "artist": "The Beach Boys",
+      "images": "https://assignment.yousician.com/artists/images/0248383c-8c7d-491a-832d-47d06f80f2f2.jpg",
+      "level": 7,
+      "search": "the beach boys good vibrations (in dm)"
+    },
+    {
+      "id": "5c5bf3d5e8dec3078bdc1781",
+      "title": "Try",
+      "artist": "P!nk",
+      "images": "https://assignment.yousician.com/artists/images/fc218712-1052-4cb5-9474-cf1bb788187e.jpg",
+      "level": 7,
+      "search": "p!nk try"
+    },
+    {
+      "id": "5bd81392e8dec37aab43086d",
+      "title": "Should've Been A Cowboy",
+      "artist": "Toby Keith",
+      "images": "https://assignment.yousician.com/artists/images/b8726d19-5e43-404c-ad7c-e03945621b46.jpg",
+      "level": 6,
+      "search": "toby keith should've been a cowboy"
+    },
+    {
+      "id": "5c191483e8dec3409f4381b3",
+      "title": "God Rest Ye Merry Gentlemen (in Am)",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/109a445b-312b-4f6e-8a9a-cb431db8a4bc.png",
+      "level": 15,
+      "search": "traditional god rest ye merry gentlemen (in am)"
+    },
+    {
+      "id": "5bc86738e8dec36827860b1d",
+      "title": "Don't Cry For Me Argentina",
+      "artist": "Evita",
+      "images": "https://assignment.yousician.com/artists/images/f4a06497-dfee-41dd-8749-67599c4fbd69.jpg",
+      "level": 3,
+      "search": "evita don't cry for me argentina"
+    },
+    {
+      "id": "5c5bf4aee8dec3078bdc17b9",
+      "title": "Back At One (in C)",
+      "artist": "Brian McKnight",
+      "images": "https://assignment.yousician.com/artists/images/78006d32-1ecb-42fc-b4e0-2847e22cb892.jpg",
+      "level": 7,
+      "search": "brian mcknight back at one (in c)"
+    },
+    {
+      "id": "5bfd0e66e8dec36b6587edfe",
+      "title": "Roots",
+      "artist": "Imagine Dragons",
+      "images": "https://assignment.yousician.com/artists/images/2d7308f8-ccf8-4b80-bc40-ff5af4203b62.jpg",
+      "level": 6,
+      "search": "imagine dragons roots"
+    },
+    {
+      "id": "5c41b39fe8dec35ffd13e1ad",
+      "title": "Territory (E)",
+      "artist": "Sepultura",
+      "images": "https://assignment.yousician.com/artists/images/412f699f-7744-4703-991b-c50bca0937cb.jpg",
+      "level": 14,
+      "search": "sepultura territory (e)"
+    },
+    {
+      "id": "5bd2fad9e8dec3255a00b243",
+      "title": "Seven Nation Army (tutorial)",
+      "artist": "The White Stripes",
+      "images": "https://assignment.yousician.com/artists/images/d22aa739-c595-4af8-b581-7b21f15412dc.jpg",
+      "level": 15,
+      "search": "the white stripes seven nation army (tutorial)"
+    },
+    {
+      "id": "5c63e361e8dec35657d9ac98",
+      "title": "Everybody Wants To Rule The World",
+      "artist": "Tears For Fears",
+      "images": "https://assignment.yousician.com/artists/images/5a2cc82e-0da8-4687-a1e3-9400aa05d7ea.png",
+      "level": 11,
+      "search": "tears for fears everybody wants to rule the world"
+    },
+    {
+      "id": "5b0eb31be8dec30a75357f44",
+      "title": "Adore You",
+      "artist": "Miley Cyrus",
+      "images": "https://assignment.yousician.com/artists/images/a16143de-eb97-4d96-a4e6-2f567b4b014c.jpg",
+      "level": 7,
+      "search": "miley cyrus adore you"
+    },
+    {
+      "id": "5bd2fd7ae8dec3255a00dafa",
+      "title": "Thunder (tutorial)",
+      "artist": "Imagine Dragons",
+      "images": "https://assignment.yousician.com/artists/images/2d7308f8-ccf8-4b80-bc40-ff5af4203b62.jpg",
+      "level": 10,
+      "search": "imagine dragons thunder (tutorial)"
+    },
+    {
+      "id": "5b434ac3e8dec348bf69bffc",
+      "title": "Don't Worry Be Happy (in C)",
+      "artist": "Bobby McFerrin",
+      "images": "https://assignment.yousician.com/artists/images/58327c03-964b-49cb-ad74-5ab8f71869a8.jpg",
+      "level": 8,
+      "search": "bobby mcferrin don't worry be happy (in c)"
+    },
+    {
+      "id": "5b10f25ee8dec30a7539ebfa",
+      "title": "Losing My Religion (in Gm)",
+      "artist": "R.E.M.",
+      "images": "https://assignment.yousician.com/artists/images/e7cc5221-ba99-47ac-a98b-a93424175fee.jpg",
+      "level": 13,
+      "search": "r.e.m. losing my religion (in gm)"
+    },
+    {
+      "id": "5b0ebbf7e8dec30a753629c9",
+      "title": "Chasing Cars",
+      "artist": "Snow Patrol",
+      "images": "https://assignment.yousician.com/artists/images/060bf1af-27d2-4cc8-907d-e041fa859b50.jpg",
+      "level": 14,
+      "search": "snow patrol chasing cars"
+    },
+    {
+      "id": "5b43444ae8dec348bf6929a7",
+      "title": "I Wanna Rock",
+      "artist": "Twisted Sister",
+      "images": "https://assignment.yousician.com/artists/images/c5b3bb3a-4b70-47d6-9f27-765b74b86031.jpg",
+      "level": 1,
+      "search": "twisted sister i wanna rock"
+    },
+    {
+      "id": "5c6d348ce8dec373d752857c",
+      "title": "Crosstown Traffic",
+      "artist": "Jimi Hendrix",
+      "images": "https://assignment.yousician.com/artists/images/64d8917c-bcf7-4a03-9a76-a34988e9d828.png",
+      "level": 11,
+      "search": "jimi hendrix crosstown traffic"
+    },
+    {
+      "id": "5b0ebc4be8dec30a753629cb",
+      "title": "Ruby",
+      "artist": "Kaiser Chiefs",
+      "images": "https://assignment.yousician.com/artists/images/f0b39ac1-d974-457a-b5eb-9f9f4fa86e93.jpg",
+      "level": 6,
+      "search": "kaiser chiefs ruby"
+    },
+    {
+      "id": "5c07bf81e8dec37f0b1e620e",
+      "title": "Rock And Roll All Nite",
+      "artist": "KISS",
+      "images": "https://assignment.yousician.com/artists/images/e15e130e-c50f-455e-9b39-15ba80d315dd.jpg",
+      "level": 8,
+      "search": "kiss rock and roll all nite"
+    },
+    {
+      "id": "5c6d34cfe8dec373d75285a2",
+      "title": "Fire",
+      "artist": "Jimi Hendrix",
+      "images": "https://assignment.yousician.com/artists/images/64d8917c-bcf7-4a03-9a76-a34988e9d828.png",
+      "level": 6,
+      "search": "jimi hendrix fire"
+    },
+    {
+      "id": "5b0fdff1e8dec30a7537e74f",
+      "title": "That Don't Impress Me Much",
+      "artist": "Shania Twain",
+      "images": "https://assignment.yousician.com/artists/images/07ecc09d-d1dc-4dec-9240-a38e7bb062bf.jpg",
+      "level": 1,
+      "search": "shania twain that don't impress me much"
+    },
+    {
+      "id": "5c07c073e8dec37f0b1e6242",
+      "title": "My Friends",
+      "artist": "Red Hot Chili Peppers",
+      "images": "https://assignment.yousician.com/artists/images/476b79e4-c2c9-40ae-94b7-72bd76e9f152.jpg",
+      "level": 1,
+      "search": "red hot chili peppers my friends"
+    },
+    {
+      "id": "5b0fef62e8dec30a7537e7a7",
+      "title": "Can't Stop",
+      "artist": "Red Hot Chili Peppers",
+      "images": "https://assignment.yousician.com/artists/images/476b79e4-c2c9-40ae-94b7-72bd76e9f152.jpg",
+      "level": 9,
+      "search": "red hot chili peppers can't stop"
+    },
+    {
+      "id": "5c1cb5d2e8dec3480caa329a",
+      "title": "Fur Elise (Challenge)",
+      "artist": "Ludwig Van Beethoven",
+      "images": "https://assignment.yousician.com/songs/images/47961cfd-1b47-445a-8d00-2413043aba4e.jpg",
+      "level": 2,
+      "search": "ludwig van beethoven fur elise (challenge)"
+    },
+    {
+      "id": "5bbda39ee8dec362ef95a2ac",
+      "title": "Major Swing",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/a7d3dfc7-666f-4d10-b9dd-167d1b149a56.jpg",
+      "level": 15,
+      "search": "the yousicians major swing"
+    },
+    {
+      "id": "5b14f219e8dec30152a163cd",
+      "title": "Man! I Feel Like A Woman!",
+      "artist": "Shania Twain",
+      "images": "https://assignment.yousician.com/artists/images/07ecc09d-d1dc-4dec-9240-a38e7bb062bf.jpg",
+      "level": 3,
+      "search": "shania twain man! i feel like a woman!"
+    },
+    {
+      "id": "5b8f73f4b3984c13548374c7",
+      "title": " Somewhere In Space",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/a781646c-6074-46b6-a831-ffe029a44630.jpg",
+      "level": 5,
+      "search": "the yousicians  somewhere in space"
+    },
+    {
+      "id": "5b14ffaae8dec30152a16411",
+      "title": "Clocks",
+      "artist": "Coldplay",
+      "images": "https://assignment.yousician.com/artists/images/ca9925b1-0e28-404b-a8f2-b9957ffb8f14.jpg",
+      "level": 7,
+      "search": "coldplay clocks"
+    },
+    {
+      "id": "5b6c3ab6e8dec347b474d8c8",
+      "title": "My Friends Over You",
+      "artist": "New Found Glory",
+      "images": "https://assignment.yousician.com/artists/images/5f2ba8ff-bb36-4072-bfa1-ff2e67fd8e18.jpg",
+      "level": 2,
+      "search": "new found glory my friends over you"
+    },
+    {
+      "id": "5b151d36e8dec30152a1eeb6",
+      "title": "Love The Way You Lie",
+      "artist": "Eminem",
+      "images": "https://assignment.yousician.com/artists/images/bfe35635-d2f0-4422-87bd-0803c300cc07.jpg",
+      "level": 8,
+      "search": "eminem love the way you lie"
+    },
+    {
+      "id": "5c2ccdffe8dec308f65bbc68",
+      "title": "Song Of The South",
+      "artist": "Alabama",
+      "images": "https://assignment.yousician.com/artists/images/e97cafc9-0067-4a22-9ecc-063ea17144bc.jpg",
+      "level": 8,
+      "search": "alabama song of the south"
+    },
+    {
+      "id": "5b8e474eb3984c68ed81928f",
+      "title": "Helsinkification",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/f1cb9316-9962-4c66-bf74-9d0108c70202.jpg",
+      "level": 13,
+      "search": "the yousicians helsinkification"
+    },
+    {
+      "id": "5b151e82e8dec30152a1eeb8",
+      "title": "Corazon Partio",
+      "artist": "Alejandro Sanz",
+      "images": "https://assignment.yousician.com/artists/images/fd922fb2-a66f-4693-9f2b-ad200c30706d.jpg",
+      "level": 2,
+      "search": "alejandro sanz corazon partio"
+    },
+    {
+      "id": "5c35cd03e8dec32c6450d247",
+      "title": "Party On The Boulevard",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/a8a84960-5948-49c0-998e-18a1ce801d3b.jpg",
+      "level": 8,
+      "search": "the yousicians party on the boulevard"
+    },
+    {
+      "id": "5b8e477eb3984c68ed8192ad",
+      "title": "Somewhere In Space",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/36062cd6-1842-40a5-82bf-31638defff8f.jpg",
+      "level": 7,
+      "search": "the yousicians somewhere in space"
+    },
+    {
+      "id": "5b15251fe8dec30152a1eef9",
+      "title": "Your Song",
+      "artist": "Elton John",
+      "images": "https://assignment.yousician.com/artists/images/862f15d8-6a5a-46fe-a7bc-12814f2b6eea.jpg",
+      "level": 5,
+      "search": "elton john your song"
+    },
+    {
+      "id": "5c383a9ae8dec31ef332306c",
+      "title": "Hemorrhage (In My Hands) (in Bm)",
+      "artist": "Fuel",
+      "images": "https://assignment.yousician.com/artists/images/624d65ec-9616-49b5-83c5-a08ec060b460.jpg",
+      "level": 14,
+      "search": "fuel hemorrhage (in my hands) (in bm)"
+    },
+    {
+      "id": "5b71767fe8dec36155ecb6eb",
+      "title": "Fireflies (in C, no vocal)",
+      "artist": "Owl City",
+      "images": "https://assignment.yousician.com/artists/images/c222ba05-1395-4084-8c11-c6abf40a6993.jpg",
+      "level": 8,
+      "search": "owl city fireflies (in c, no vocal)"
+    },
+    {
+      "id": "5b1525c0e8dec30152a1ef00",
+      "title": "Part Of Your World",
+      "artist": "The Little Mermaid",
+      "images": "https://assignment.yousician.com/artists/images/5190514e-156a-4081-81bb-bfd12497e767.png",
+      "level": 2,
+      "search": "the little mermaid part of your world"
+    },
+    {
+      "id": "5c384d34e8dec31ef3327656",
+      "title": "Magic Carpet Ride",
+      "artist": "Steppenwolf",
+      "images": "https://assignment.yousician.com/artists/images/7a94187c-a615-40de-a7c1-dea350d979bc.jpg",
+      "level": 3,
+      "search": "steppenwolf magic carpet ride"
+    },
+    {
+      "id": "5ca3011ce8dec32053a25ebd",
+      "title": "Landslide",
+      "artist": "Fleetwood Mac",
+      "images": "https://assignment.yousician.com/artists/images/3678479e-5974-40b8-999d-01f75cdc525b.jpg",
+      "level": 12,
+      "search": "fleetwood mac landslide"
+    },
+    {
+      "id": "5b434aa0e8dec348bf69bffa",
+      "title": "Don't Worry Be Happy",
+      "artist": "Bobby McFerrin",
+      "images": "https://assignment.yousician.com/artists/images/58327c03-964b-49cb-ad74-5ab8f71869a8.jpg",
+      "level": 4,
+      "search": "bobby mcferrin don't worry be happy"
+    },
+    {
+      "id": "5bc8642de8dec3682785e17a",
+      "title": "Don't Walk Away (in Dm)",
+      "artist": "Jade",
+      "images": "https://assignment.yousician.com/artists/images/2a9b7eb5-5f8f-4508-a904-2ebf9989bfa3.jpg",
+      "level": 4,
+      "search": "jade don't walk away (in dm)"
+    },
+    {
+      "id": "5b152780e8dec30152a1ef11",
+      "title": "Ship To Wreck",
+      "artist": "Florence + The Machine",
+      "images": "https://assignment.yousician.com/artists/images/c5fddbf4-2ea0-4989-ba14-f1b5426c3b2d.jpg",
+      "level": 14,
+      "search": "florence + the machine ship to wreck"
+    },
+    {
+      "id": "5c3ee8ede8dec36be7a12502",
+      "title": "Santeria",
+      "artist": "Sublime",
+      "images": "https://assignment.yousician.com/artists/images/99ccd7cd-7a7a-47e5-8afc-153a61784330.jpg",
+      "level": 15,
+      "search": "sublime santeria"
+    },
+    {
+      "id": "5ca30155e8dec32053a25ece",
+      "title": "Landslide (in C)",
+      "artist": "Fleetwood Mac",
+      "images": "https://assignment.yousician.com/artists/images/3678479e-5974-40b8-999d-01f75cdc525b.jpg",
+      "level": 12,
+      "search": "fleetwood mac landslide (in c)"
+    },
+    {
+      "id": "5b8e460db3984c68ed8191bb",
+      "title": "A.R.E.T.H.A.",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/18c01403-a34c-47d9-8288-0475db47e70e.jpg",
+      "level": 1,
+      "search": "the yousicians a.r.e.t.h.a."
+    },
+    {
+      "id": "5bd6d49ae8dec36b42dd228c",
+      "title": "Snow Tutorial",
+      "artist": "Red Hot Chili Peppers",
+      "images": "https://assignment.yousician.com/artists/images/476b79e4-c2c9-40ae-94b7-72bd76e9f152.jpg",
+      "level": 2,
+      "search": "red hot chili peppers snow tutorial"
+    },
+    {
+      "id": "5b7cd23ce8dec302711ebcf9",
+      "title": "Let You Down (in Em)",
+      "artist": "NF",
+      "images": "https://assignment.yousician.com/artists/images/af11a935-48b6-463a-9ac3-5805f8a370b7.jpg",
+      "level": 11,
+      "search": "nf let you down (in em)"
+    },
+    {
+      "id": "5c3f29cfe8dec36be7a2d19e",
+      "title": "Love And Happiness (in Am)",
+      "artist": "Al Green",
+      "images": "https://assignment.yousician.com/artists/images/94c6ccc1-dba7-4ff2-ba64-94246c318667.jpg",
+      "level": 7,
+      "search": "al green love and happiness (in am)"
+    },
+    {
+      "id": "5bc8639de8dec3682785c6b0",
+      "title": "Don't Walk Away",
+      "artist": "Jade",
+      "images": "https://assignment.yousician.com/artists/images/2a9b7eb5-5f8f-4508-a904-2ebf9989bfa3.jpg",
+      "level": 6,
+      "search": "jade don't walk away"
+    },
+    {
+      "id": "5b8e4406b3984c68ed81906f",
+      "title": "Cruise Patrol",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/0e1b33a3-fbfc-4425-a3c0-b96bfe593b8b.jpg",
+      "level": 4,
+      "search": "the yousicians cruise patrol"
+    },
+    {
+      "id": "5bc86759e8dec36827860b1f",
+      "title": "Don't Cry For Me Argentina (in C)",
+      "artist": "Evita",
+      "images": "https://assignment.yousician.com/artists/images/f4a06497-dfee-41dd-8749-67599c4fbd69.jpg",
+      "level": 15,
+      "search": "evita don't cry for me argentina (in c)"
+    },
+    {
+      "id": "5bc7097be8dec3542a587ae9",
+      "title": "Start Something New",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/7b9cfa12-0cf4-4dd0-acdb-490b36185d2c.jpg",
+      "level": 10,
+      "search": "the yousicians start something new"
+    },
+    {
+      "id": "5bd2fd9ae8dec3255a00e2e0",
+      "title": "I Bet My Life (tutorial)",
+      "artist": "Imagine Dragons",
+      "images": "https://assignment.yousician.com/artists/images/2d7308f8-ccf8-4b80-bc40-ff5af4203b62.jpg",
+      "level": 10,
+      "search": "imagine dragons i bet my life (tutorial)"
+    },
+    {
+      "id": "5b8f73d5b3984c13548374c3",
+      "title": "Gnossienne (in D)",
+      "artist": "Erik Satie",
+      "images": "https://assignment.yousician.com/songs/images/231b431a-6e0e-4752-be65-b20309daf51b.jpg",
+      "level": 7,
+      "search": "erik satie gnossienne (in d)"
+    },
+    {
+      "id": "5bd2fb61e8dec3255a00b25d",
+      "title": "Californication (tutorial)",
+      "artist": "Red Hot Chili Peppers",
+      "images": "https://assignment.yousician.com/artists/images/476b79e4-c2c9-40ae-94b7-72bd76e9f152.jpg",
+      "level": 12,
+      "search": "red hot chili peppers californication (tutorial)"
+    },
+    {
+      "id": "5c35cb9ce8dec32c6450c57a",
+      "title": "Back In The App",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/f2c2d2ce-ec41-420f-a7fd-67197753188b.jpg",
+      "level": 11,
+      "search": "the yousicians back in the app"
+    },
+    {
+      "id": "5bfbf6bbe8dec36b6585dd62",
+      "title": "Nothing Like Us",
+      "artist": "Justin Bieber",
+      "images": "https://assignment.yousician.com/artists/images/7e8ccc0d-4877-4681-9f6c-a3ff3dcd8f1d.jpg",
+      "level": 13,
+      "search": "justin bieber nothing like us"
+    },
+    {
+      "id": "5b8e480db3984c68ed8192fd",
+      "title": "La Cucaracha",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/fa11da91-b557-43ec-8b91-128aa5f9dc65.jpg",
+      "level": 1,
+      "search": "traditional la cucaracha"
+    },
+    {
+      "id": "5bd2fd4ee8dec3255a00daec",
+      "title": "Humble And Kind (tutorial)",
+      "artist": "Tim McGraw",
+      "images": "https://assignment.yousician.com/artists/images/61a2c3d2-61d5-4e15-8d16-e1b61a9455ff.jpg",
+      "level": 14,
+      "search": "tim mcgraw humble and kind (tutorial)"
+    },
+    {
+      "id": "5c5bf36de8dec3078bdc1765",
+      "title": "Iris",
+      "artist": "Goo Goo Dolls",
+      "images": "https://assignment.yousician.com/artists/images/62b0a531-e0cf-4be1-b291-e49db99ac576.jpg",
+      "level": 12,
+      "search": "goo goo dolls iris"
+    },
+    {
+      "id": "5b8e4828b3984c68ed81930b",
+      "title": "Aloha Oe (surf)",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/c682b398-344d-4b85-8ae3-b8a3cd889e0e.jpg",
+      "level": 6,
+      "search": "traditional aloha oe (surf)"
+    },
+    {
+      "id": "5bd2fe1de8dec3255a01028b",
+      "title": "Take Me Out (tutorial)",
+      "artist": "Franz Ferdinand",
+      "images": "https://assignment.yousician.com/artists/images/d8d0dd52-b130-4dce-8a24-4703b755878b.jpg",
+      "level": 10,
+      "search": "franz ferdinand take me out (tutorial)"
+    },
+    {
+      "id": "5c6d4030e8dec373d752d09d",
+      "title": "Spanish Castle Magic",
+      "artist": "Jimi Hendrix",
+      "images": "https://assignment.yousician.com/artists/images/64d8917c-bcf7-4a03-9a76-a34988e9d828.png",
+      "level": 15,
+      "search": "jimi hendrix spanish castle magic"
+    },
+    {
+      "id": "5c07be4de8dec37f0b1e5774",
+      "title": "Desire (in Am)",
+      "artist": "Years & Years",
+      "images": "https://assignment.yousician.com/artists/images/878274bd-99da-4446-94c0-d17cdcbae715.jpg",
+      "level": 8,
+      "search": "years & years desire (in am)"
+    },
+    {
+      "id": "5b8e44f5b3984c68ed819109",
+      "title": "The Inseparable",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/fc75f69f-671c-4693-8ab5-9cea2faff50c.jpg",
+      "level": 12,
+      "search": "the yousicians the inseparable"
+    },
+    {
+      "id": "5bd30cc9e8dec3255a023bf7",
+      "title": "Californication (short)",
+      "artist": "Red Hot Chili Peppers",
+      "images": "https://assignment.yousician.com/artists/images/476b79e4-c2c9-40ae-94b7-72bd76e9f152.jpg",
+      "level": 8,
+      "search": "red hot chili peppers californication (short)"
+    },
+    {
+      "id": "5b8f72c8b3984c1354837445",
+      "title": "The Gentle Art Of Pumping",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/4ae1c7fe-5c31-469a-88d6-d81bd12bb57c.png",
+      "level": 11,
+      "search": "the yousicians the gentle art of pumping"
+    },
+    {
+      "id": "5bd6e96ae8dec37aab3e78f9",
+      "title": "More Than You Know Tutorial",
+      "artist": "Axwell Λ Ingrosso",
+      "images": "https://assignment.yousician.com/artists/images/4b574e92-d159-4877-9bb7-c6b74f3de049.jpg",
+      "level": 12,
+      "search": "axwell λ ingrosso more than you know tutorial"
+    },
+    {
+      "id": "5b8e4592b3984c68ed819175",
+      "title": "Cat On The Loose",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/5006bbc8-f9ed-4e88-aee0-dd780dfda530.jpg",
+      "level": 11,
+      "search": "the yousicians cat on the loose"
+    },
+    {
+      "id": "5bd81463e8dec37aab4316da",
+      "title": "Grandma's Hands",
+      "artist": "Bill Withers",
+      "images": "https://assignment.yousician.com/artists/images/4fee3ec9-a9d1-46ae-aead-d06cfa98a8cd.jpg",
+      "level": 5,
+      "search": "bill withers grandma's hands"
+    },
+    {
+      "id": "5c1c9c54e8dec3480ca9880c",
+      "title": "Person Of The Hour",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/a2510c56-c297-4a36-b9ab-f0128f8481e4.png",
+      "level": 4,
+      "search": "the yousicians person of the hour"
+    },
+    {
+      "id": "5bfbfc24e8dec36b6585df02",
+      "title": "Seasons Of Love",
+      "artist": "RENT",
+      "images": "https://assignment.yousician.com/artists/images/8a5795c6-2df6-49a5-9249-42c0ad0dd2c4.jpg",
+      "level": 1,
+      "search": "rent seasons of love"
+    },
+    {
+      "id": "5b0e41e7e8dec30a75311abc",
+      "title": "A Thousand Miles",
+      "artist": "Vanessa Carlton",
+      "images": "https://assignment.yousician.com/artists/images/cf8a814b-c3fd-4c42-9f15-d02258c5768f.jpg",
+      "level": 2,
+      "search": "vanessa carlton a thousand miles"
+    },
+    {
+      "id": "5b0e9fdce8dec30a7534b285",
+      "title": "Banana Pancakes",
+      "artist": "Jack Johnson",
+      "images": "https://assignment.yousician.com/artists/images/1de3426d-afec-4253-ad38-8f1105a83fbd.jpg",
+      "level": 6,
+      "search": "jack johnson banana pancakes"
+    },
+    {
+      "id": "5b0e835ee8dec30a7532d511",
+      "title": "Turning Tables",
+      "artist": "Adele",
+      "images": "https://assignment.yousician.com/artists/images/95815ef6-cf7f-4209-8505-7d206977d2db.jpg",
+      "level": 4,
+      "search": "adele turning tables"
+    },
+    {
+      "id": "5bef48d6e8dec318099d009d",
+      "title": "Scar Tissue",
+      "artist": "Red Hot Chili Peppers",
+      "images": "https://assignment.yousician.com/artists/images/476b79e4-c2c9-40ae-94b7-72bd76e9f152.jpg",
+      "level": 6,
+      "search": "red hot chili peppers scar tissue"
+    },
+    {
+      "id": "5c04f66de8dec321381bac6d",
+      "title": "Whiskey In The Jar (in G)",
+      "artist": "Thin Lizzy",
+      "images": "https://assignment.yousician.com/artists/images/5ab65403-4b1a-4d24-9e8d-82016cf7fc75.jpg",
+      "level": 12,
+      "search": "thin lizzy whiskey in the jar (in g)"
+    },
+    {
+      "id": "5b0ebb2ee8dec30a753629c5",
+      "title": "Snow (Hey Oh)",
+      "artist": "Red Hot Chili Peppers",
+      "images": "https://assignment.yousician.com/artists/images/476b79e4-c2c9-40ae-94b7-72bd76e9f152.jpg",
+      "level": 15,
+      "search": "red hot chili peppers snow (hey oh)"
+    },
+    {
+      "id": "5c3edc4ce8dec36be7a0fcdc",
+      "title": "Cello Suite No. 1 Part 1 (in G, full)",
+      "artist": "Johann Sebastian Bach",
+      "images": "https://assignment.yousician.com/songs/images/751dc20e-4152-4de7-9e7e-318a8517670b.jpg",
+      "level": 5,
+      "search": "johann sebastian bach cello suite no. 1 part 1 (in g, full)"
+    },
+    {
+      "id": "5c07c1b7e8dec37f0b1e704f",
+      "title": "Wildest Dreams",
+      "artist": "Iron Maiden",
+      "images": "https://assignment.yousician.com/artists/images/e7d215c7-0063-4ff8-9a50-834b103b1e06.jpg",
+      "level": 11,
+      "search": "iron maiden wildest dreams"
+    },
+    {
+      "id": "5b0ebe83e8dec30a753629d5",
+      "title": "Ironic",
+      "artist": "Alanis Morissette",
+      "images": "https://assignment.yousician.com/artists/images/758e3464-dee8-4c8a-a612-c487be56f53b.jpg",
+      "level": 1,
+      "search": "alanis morissette ironic"
+    },
+    {
+      "id": "5c3edd6de8dec36be7a0fd20",
+      "title": "Violin Partita No. 1: Sarabande (in Dm)",
+      "artist": "Johann Sebastian Bach",
+      "images": "https://assignment.yousician.com/songs/images/b3f8ecc2-2c2e-4865-adfc-5529893f3622.jpg",
+      "level": 12,
+      "search": "johann sebastian bach violin partita no. 1: sarabande (in dm)"
+    },
+    {
+      "id": "5c2cb7d3e8dec308f65ad069",
+      "title": "Hemorrhage (In My Hands)",
+      "artist": "Fuel",
+      "images": "https://assignment.yousician.com/artists/images/624d65ec-9616-49b5-83c5-a08ec060b460.jpg",
+      "level": 14,
+      "search": "fuel hemorrhage (in my hands)"
+    },
+    {
+      "id": "5b0fe0d6e8dec30a7537e755",
+      "title": "Barracuda",
+      "artist": "Heart",
+      "images": "https://assignment.yousician.com/artists/images/c18bfbd9-45bc-492e-b023-883b6c360bd9.jpg",
+      "level": 12,
+      "search": "heart barracuda"
+    },
+    {
+      "id": "5c4045dce8dec33d3b16cd2f",
+      "title": "Still Loving You (Gm)",
+      "artist": "Scorpions",
+      "images": "https://assignment.yousician.com/artists/images/c04a2f39-7eb7-49d9-8169-8c2fce7e5753.jpg",
+      "level": 11,
+      "search": "scorpions still loving you (gm)"
+    },
+    {
+      "id": "5b179ec5e8dec30604638e7e",
+      "title": "Next To Me",
+      "artist": "Imagine Dragons",
+      "images": "https://assignment.yousician.com/artists/images/2d7308f8-ccf8-4b80-bc40-ff5af4203b62.jpg",
+      "level": 11,
+      "search": "imagine dragons next to me"
+    },
+    {
+      "id": "5b0fef03e8dec30a7537e7a5",
+      "title": "Better Together",
+      "artist": "Jack Johnson",
+      "images": "https://assignment.yousician.com/artists/images/1de3426d-afec-4253-ad38-8f1105a83fbd.jpg",
+      "level": 12,
+      "search": "jack johnson better together"
+    },
+    {
+      "id": "5b0ebae0e8dec30a75362998",
+      "title": "Kryptonite",
+      "artist": "3 Doors Down",
+      "images": "https://assignment.yousician.com/artists/images/77f116b8-953c-4eda-9b36-851073e32813.jpg",
+      "level": 1,
+      "search": "3 doors down kryptonite"
+    },
+    {
+      "id": "5b431ecbe8dec348bf664ff8",
+      "title": "Hasta La Raíz",
+      "artist": "Natalia Lafourcade",
+      "images": "https://assignment.yousician.com/artists/images/682d8bdc-db22-4a26-8259-db57c7afdf36.jpg",
+      "level": 9,
+      "search": "natalia lafourcade hasta la raíz"
+    },
+    {
+      "id": "5b0fefbae8dec30a7537e7ac",
+      "title": "Dancing On My Own",
+      "artist": "Calum Scott",
+      "images": "https://assignment.yousician.com/artists/images/cc0b13db-366c-4bd5-9da2-e174e6d409fa.jpg",
+      "level": 11,
+      "search": "calum scott dancing on my own"
+    },
+    {
+      "id": "5bff8344e8dec3312522775c",
+      "title": "Ladimagia",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/a8f1ee70-5d73-4a1f-8619-e0c850e9244d.png",
+      "level": 10,
+      "search": "the yousicians ladimagia"
+    },
+    {
+      "id": "5b0ebc82e8dec30a753629cd",
+      "title": "Thunder",
+      "artist": "Imagine Dragons",
+      "images": "https://assignment.yousician.com/artists/images/2d7308f8-ccf8-4b80-bc40-ff5af4203b62.jpg",
+      "level": 15,
+      "search": "imagine dragons thunder"
+    },
+    {
+      "id": "5b4334b2e8dec348bf67f4c6",
+      "title": "Tiny Dancer",
+      "artist": "Elton John",
+      "images": "https://assignment.yousician.com/artists/images/862f15d8-6a5a-46fe-a7bc-12814f2b6eea.jpg",
+      "level": 12,
+      "search": "elton john tiny dancer"
+    },
+    {
+      "id": "5bf508c1e8dec363e1377c9b",
+      "title": "Light The Spark",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/d56b7134-0f6e-4f67-97b9-ce1481302bb8.png",
+      "level": 8,
+      "search": "the yousicians light the spark"
+    },
+    {
+      "id": "5b14f256e8dec30152a163cf",
+      "title": "I Will Wait",
+      "artist": "Mumford & Sons",
+      "images": "https://assignment.yousician.com/artists/images/139c61b3-6808-44cc-9d22-9f018f7931b4.jpg",
+      "level": 7,
+      "search": "mumford & sons i will wait"
+    },
+    {
+      "id": "5c07c231e8dec37f0b1e877b",
+      "title": "God Only Knows",
+      "artist": "The Beach Boys",
+      "images": "https://assignment.yousician.com/artists/images/0248383c-8c7d-491a-832d-47d06f80f2f2.jpg",
+      "level": 11,
+      "search": "the beach boys god only knows"
+    },
+    {
+      "id": "5b0fe02be8dec30a7537e751",
+      "title": "You're Still The One",
+      "artist": "Shania Twain",
+      "images": "https://assignment.yousician.com/artists/images/07ecc09d-d1dc-4dec-9240-a38e7bb062bf.jpg",
+      "level": 14,
+      "search": "shania twain you're still the one"
+    },
+    {
+      "id": "5b434023e8dec348bf68d406",
+      "title": "Dirty Little Secret",
+      "artist": "The All-American Rejects",
+      "images": "https://assignment.yousician.com/artists/images/3fb6c6a4-882f-4aaa-9db5-9c5a5e9a031e.jpg",
+      "level": 12,
+      "search": "the all-american rejects dirty little secret"
+    },
+    {
+      "id": "5b14f41ae8dec30152a163d9",
+      "title": "Rocket Man (I Think It's Going To Be A Long Long Time)",
+      "artist": "Elton John",
+      "images": "https://assignment.yousician.com/artists/images/862f15d8-6a5a-46fe-a7bc-12814f2b6eea.jpg",
+      "level": 11,
+      "search": "elton john rocket man (i think it's going to be a long long time)"
+    },
+    {
+      "id": "5b0fee97e8dec30a7537e7a3",
+      "title": "Little Lion Man",
+      "artist": "Mumford & Sons",
+      "images": "https://assignment.yousician.com/artists/images/139c61b3-6808-44cc-9d22-9f018f7931b4.jpg",
+      "level": 12,
+      "search": "mumford & sons little lion man"
+    },
+    {
+      "id": "5b434404e8dec348bf692998",
+      "title": "Here Comes Your Man",
+      "artist": "Pixies",
+      "images": "https://assignment.yousician.com/artists/images/7f2e05ba-fc35-474d-9f45-3c70beccd0d4.jpg",
+      "level": 10,
+      "search": "pixies here comes your man"
+    },
+    {
+      "id": "5b0ea039e8dec30a7534cbc7",
+      "title": "Under The Bridge",
+      "artist": "Red Hot Chili Peppers",
+      "images": "https://assignment.yousician.com/artists/images/476b79e4-c2c9-40ae-94b7-72bd76e9f152.jpg",
+      "level": 10,
+      "search": "red hot chili peppers under the bridge"
+    },
+    {
+      "id": "5b14f543e8dec30152a163e1",
+      "title": "A Whole New World",
+      "artist": "Aladdin",
+      "images": "https://assignment.yousician.com/artists/images/af949e6c-cc0f-4775-b9ae-be42c497b148.png",
+      "level": 11,
+      "search": "aladdin a whole new world"
+    },
+    {
+      "id": "5b8e476fb3984c68ed8192a3",
+      "title": "Opa Opa Ta Bouzokia",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/435e148c-3207-49e6-ad15-db5dd358adb6.jpg",
+      "level": 8,
+      "search": "traditional opa opa ta bouzokia"
+    },
+    {
+      "id": "5b14f3bae8dec30152a163d7",
+      "title": "Show Me The Way",
+      "artist": "Peter Frampton",
+      "images": "https://assignment.yousician.com/artists/images/bf070619-322d-4f25-b233-e92bcbbc3a5e.jpg",
+      "level": 8,
+      "search": "peter frampton show me the way"
+    },
+    {
+      "id": "5b434567e8dec348bf693661",
+      "title": "California Dreamin'",
+      "artist": "The Mamas & The Papas",
+      "images": "https://assignment.yousician.com/artists/images/8816f997-bf88-48c0-b3eb-a103340a02b0.jpg",
+      "level": 11,
+      "search": "the mamas & the papas california dreamin'"
+    },
+    {
+      "id": "5bb47da7e8dec378b6bcec39",
+      "title": "Be My Sensei",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/15705db0-2f7a-49ed-a346-da44cc29662c.jpg",
+      "level": 14,
+      "search": "the yousicians be my sensei"
+    },
+    {
+      "id": "5b14f5ace8dec30152a163e5",
+      "title": "Detroit Rock City",
+      "artist": "KISS",
+      "images": "https://assignment.yousician.com/artists/images/e15e130e-c50f-455e-9b39-15ba80d315dd.jpg",
+      "level": 11,
+      "search": "kiss detroit rock city"
+    },
+    {
+      "id": "5b8e4633b3984c68ed8191d3",
+      "title": "Love Unorthodox",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/7ea9a097-a1dc-4db5-8f53-9c54e102821a.jpg",
+      "level": 7,
+      "search": "the yousicians love unorthodox"
+    },
+    {
+      "id": "5b14f6e7e8dec30152a163e9",
+      "title": "Talk Dirty To Me (in G)",
+      "artist": "Poison",
+      "images": "https://assignment.yousician.com/artists/images/2b66ddb3-99d6-46ba-8f10-f73f6cc6cf4a.jpg",
+      "level": 14,
+      "search": "poison talk dirty to me (in g)"
+    },
+    {
+      "id": "5b43463fe8dec348bf6949d9",
+      "title": "You Know You Like It",
+      "artist": "AlunaGeorge",
+      "images": "https://assignment.yousician.com/artists/images/85a17909-e60b-439a-b4ee-b4ea2648b039.jpg",
+      "level": 14,
+      "search": "alunageorge you know you like it"
+    },
+    {
+      "id": "5c875b9fe8dec31bd5da5424",
+      "title": "Leaving Of Liverpool",
+      "artist": "Traditional",
+      "images": null,
+      "level": 2,
+      "search": "traditional leaving of liverpool"
+    },
+    {
+      "id": "5b14fe3fe8dec30152a16405",
+      "title": "I Wanna Dance With Somebody (Who Loves Me)",
+      "artist": "Whitney Houston",
+      "images": "https://assignment.yousician.com/artists/images/d5f70885-c936-4980-a222-3bb3742579c8.jpg",
+      "level": 5,
+      "search": "whitney houston i wanna dance with somebody (who loves me)"
+    },
+    {
+      "id": "5b15202ee8dec30152a1eebf",
+      "title": "Yellow Ledbetter",
+      "artist": "Pearl Jam",
+      "images": "https://assignment.yousician.com/artists/images/edd4d057-375b-47d5-92e4-50176a1ddbc1.jpg",
+      "level": 2,
+      "search": "pearl jam yellow ledbetter"
+    },
+    {
+      "id": "5b4348c9e8dec348bf699f7d",
+      "title": "Rock You Like A Hurricane",
+      "artist": "Scorpions",
+      "images": "https://assignment.yousician.com/artists/images/c04a2f39-7eb7-49d9-8169-8c2fce7e5753.jpg",
+      "level": 10,
+      "search": "scorpions rock you like a hurricane"
+    },
+    {
+      "id": "5c88e1c3e8dec33925fb10cb",
+      "title": "Wind Of Change",
+      "artist": "Scorpions",
+      "images": "https://assignment.yousician.com/artists/images/c04a2f39-7eb7-49d9-8169-8c2fce7e5753.jpg",
+      "level": 5,
+      "search": "scorpions wind of change"
+    },
+    {
+      "id": "5b14feb6e8dec30152a16407",
+      "title": "Everywhere",
+      "artist": "Fleetwood Mac",
+      "images": "https://assignment.yousician.com/artists/images/3678479e-5974-40b8-999d-01f75cdc525b.jpg",
+      "level": 9,
+      "search": "fleetwood mac everywhere"
+    },
+    {
+      "id": "5b0e9728e8dec30a75340829",
+      "title": "Sweet Home Alabama",
+      "artist": "Lynyrd Skynyrd",
+      "images": "https://assignment.yousician.com/artists/images/b2e90e48-ab35-4ad7-aac8-abaa32e01920.jpg",
+      "level": 3,
+      "search": "lynyrd skynyrd sweet home alabama"
+    },
+    {
+      "id": "5b152559e8dec30152a1eefe",
+      "title": "I Will Survive",
+      "artist": "Gloria Gaynor",
+      "images": "https://assignment.yousician.com/artists/images/fc99d18c-f311-42dd-adc8-9d87d9dfecfa.jpg",
+      "level": 10,
+      "search": "gloria gaynor i will survive"
+    },
+    {
+      "id": "5b434915e8dec348bf69aa54",
+      "title": "Breakdown",
+      "artist": "Tom Petty And The Heartbreakers",
+      "images": "https://assignment.yousician.com/artists/images/da7fd5a8-95fa-42c8-a8de-b68d1953d7a2.jpg",
+      "level": 11,
+      "search": "tom petty and the heartbreakers breakdown"
+    },
+    {
+      "id": "5c920f7ee8dec35c78e48a39",
+      "title": "Mambo No. 184",
+      "artist": "The Yousicians",
+      "images": null,
+      "level": 12,
+      "search": "the yousicians mambo no. 184"
+    },
+    {
+      "id": "5b14ff27e8dec30152a1640b",
+      "title": "More Than You Know",
+      "artist": "Axwell Λ Ingrosso",
+      "images": "https://assignment.yousician.com/artists/images/4b574e92-d159-4877-9bb7-c6b74f3de049.jpg",
+      "level": 12,
+      "search": "axwell λ ingrosso more than you know"
+    },
+    {
+      "id": "5b8f7374b3984c13548374b3",
+      "title": "Cielito Lindo (in A)",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/89268da3-0745-4771-9fbd-5b427f977e2c.jpg",
+      "level": 5,
+      "search": "traditional cielito lindo (in a)"
+    },
+    {
+      "id": "5b152840e8dec30152a1ef15",
+      "title": "The Winner Takes It All",
+      "artist": "ABBA",
+      "images": "https://assignment.yousician.com/artists/images/e2381902-7087-4319-bc44-a4a8ff255c12.jpg",
+      "level": 6,
+      "search": "abba the winner takes it all"
+    },
+    {
+      "id": "5b434a33e8dec348bf69bfdd",
+      "title": "Friday I'm In Love (in E)",
+      "artist": "The Cure",
+      "images": "https://assignment.yousician.com/artists/images/d55d0c34-b0e5-4f4b-90ab-09228f417332.jpg",
+      "level": 15,
+      "search": "the cure friday i'm in love (in e)"
+    },
+    {
+      "id": "5b152066e8dec30152a1eec4",
+      "title": "Wanted",
+      "artist": "Hunter Hayes",
+      "images": "https://assignment.yousician.com/artists/images/4491e476-2a6f-4534-806f-58ff6fd0fcef.jpg",
+      "level": 13,
+      "search": "hunter hayes wanted"
+    },
+    {
+      "id": "5b178a0ce8dec306046302f7",
+      "title": "Detroit Rock City (in E)",
+      "artist": "KISS",
+      "images": "https://assignment.yousician.com/artists/images/e15e130e-c50f-455e-9b39-15ba80d315dd.jpg",
+      "level": 13,
+      "search": "kiss detroit rock city (in e)"
+    },
+    {
+      "id": "5b434d58e8dec348bf6a0b63",
+      "title": "Midnight Train To Georgia (in C)",
+      "artist": "Gladys Knight & The Pips",
+      "images": "https://assignment.yousician.com/artists/images/1e4f81e1-869c-4eaa-9877-a2f68f247ddc.jpg",
+      "level": 11,
+      "search": "gladys knight & the pips midnight train to georgia (in c)"
+    },
+    {
+      "id": "5b431e39e8dec348bf664c0e",
+      "title": "Here Without You ",
+      "artist": "3 Doors Down",
+      "images": "https://assignment.yousician.com/artists/images/77f116b8-953c-4eda-9b36-851073e32813.jpg",
+      "level": 14,
+      "search": "3 doors down here without you "
+    },
+    {
+      "id": "5b4349c2e8dec348bf69b518",
+      "title": "I Want To Hold Your Hand",
+      "artist": "The Beatles",
+      "images": "https://assignment.yousician.com/artists/images/2768fb2f-a4f7-4b4a-8101-39c750ca2b7c.jpg",
+      "level": 8,
+      "search": "the beatles i want to hold your hand"
+    },
+    {
+      "id": "5b179999e8dec30604638e66",
+      "title": "You're Welcome",
+      "artist": "Moana",
+      "images": "https://assignment.yousician.com/artists/images/41aa5e89-b64c-485a-8c61-a90fba608bae.png",
+      "level": 15,
+      "search": "moana you're welcome"
+    },
+    {
+      "id": "5b7178d0e8dec36155ecc366",
+      "title": "Tired Of Being Alone",
+      "artist": "Al Green",
+      "images": "https://assignment.yousician.com/artists/images/94c6ccc1-dba7-4ff2-ba64-94246c318667.jpg",
+      "level": 9,
+      "search": "al green tired of being alone"
+    },
+    {
+      "id": "5b433510e8dec348bf67f4ca",
+      "title": "She Will Be Loved",
+      "artist": "Maroon 5",
+      "images": "https://assignment.yousician.com/artists/images/a99d406a-f02f-41d7-a323-b3c5d740f2d9.jpg",
+      "level": 6,
+      "search": "maroon 5 she will be loved"
+    },
+    {
+      "id": "5c3d956ce8dec3346872762f",
+      "title": "Hemorrhage (In My Hands) (in Am)",
+      "artist": "Fuel",
+      "images": "https://assignment.yousician.com/artists/images/624d65ec-9616-49b5-83c5-a08ec060b460.jpg",
+      "level": 9,
+      "search": "fuel hemorrhage (in my hands) (in am)"
+    },
+    {
+      "id": "5b1e77d2e8dec321633e4bfe",
+      "title": "The Ballad Of Curtis Loew",
+      "artist": "Lynyrd Skynyrd",
+      "images": "https://assignment.yousician.com/artists/images/b2e90e48-ab35-4ad7-aac8-abaa32e01920.jpg",
+      "level": 15,
+      "search": "lynyrd skynyrd the ballad of curtis loew"
+    },
+    {
+      "id": "5b7baf1fe8dec36eeb97d0c7",
+      "title": "Somebody Told Me (in Bm)",
+      "artist": "The Killers",
+      "images": "https://assignment.yousician.com/artists/images/5ba016e9-f6e0-4bfb-adc4-b6774f80815b.jpg",
+      "level": 12,
+      "search": "the killers somebody told me (in bm)"
+    },
+    {
+      "id": "5b4342f3e8dec348bf69071d",
+      "title": "American Girl",
+      "artist": "Tom Petty And The Heartbreakers",
+      "images": "https://assignment.yousician.com/artists/images/da7fd5a8-95fa-42c8-a8de-b68d1953d7a2.jpg",
+      "level": 13,
+      "search": "tom petty and the heartbreakers american girl"
+    },
+    {
+      "id": "5c3f26e9e8dec36be7a2d0f0",
+      "title": "Vincent (Starry Starry Night)",
+      "artist": "Don McLean",
+      "images": "https://assignment.yousician.com/artists/images/9b7d9b2f-3a2a-438a-b3ad-7d6578ea6bc5.jpg",
+      "level": 10,
+      "search": "don mclean vincent (starry starry night)"
+    },
+    {
+      "id": "5b235ea1e8dec31361c24c0a",
+      "title": "Seven Nation Army",
+      "artist": "The White Stripes",
+      "images": "https://assignment.yousician.com/artists/images/d22aa739-c595-4af8-b581-7b21f15412dc.jpg",
+      "level": 12,
+      "search": "the white stripes seven nation army"
+    },
+    {
+      "id": "5bb4c3b6e8dec378b6bf37b6",
+      "title": "Tuesday's Gone",
+      "artist": "Lynyrd Skynyrd",
+      "images": "https://assignment.yousician.com/artists/images/b2e90e48-ab35-4ad7-aac8-abaa32e01920.jpg",
+      "level": 11,
+      "search": "lynyrd skynyrd tuesday's gone"
+    },
+    {
+      "id": "5b434482e8dec348bf6929ab",
+      "title": "I Stand Alone",
+      "artist": "Godsmack",
+      "images": "https://assignment.yousician.com/artists/images/27c18893-eda0-4d31-b1fb-47b4c3a9a4f9.jpg",
+      "level": 14,
+      "search": "godsmack i stand alone"
+    },
+    {
+      "id": "5c3f28e2e8dec36be7a2d16e",
+      "title": "All For You (in G)",
+      "artist": "Sister Hazel",
+      "images": "https://assignment.yousician.com/artists/images/ffa7c6f6-fd0b-486d-9bb4-993ccc8f51ae.jpg",
+      "level": 14,
+      "search": "sister hazel all for you (in g)"
+    },
+    {
+      "id": "5b67ff36e8dec31e2b2ec808",
+      "title": "The Mother We Share (in C)",
+      "artist": "CHVRCHES",
+      "images": "https://assignment.yousician.com/artists/images/2d106c70-331c-44ff-ab41-1db6a4a50cb9.jpg",
+      "level": 4,
+      "search": "chvrches the mother we share (in c)"
+    },
+    {
+      "id": "5c3748f6e8dec31ef32efc4e",
+      "title": "Si Tú Te Atreves",
+      "artist": "Luis Miguel",
+      "images": "https://assignment.yousician.com/artists/images/581beb77-0061-4a51-8ca0-4f313acd935e.jpg",
+      "level": 8,
+      "search": "luis miguel si tú te atreves"
+    },
+    {
+      "id": "5b4344f1e8dec348bf693458",
+      "title": "La Bilirrubina (in C)",
+      "artist": "Juan Luis Guerra",
+      "images": "https://assignment.yousician.com/artists/images/cfafd443-1a3a-4afd-8667-fbe1721ebf67.jpg",
+      "level": 2,
+      "search": "juan luis guerra la bilirrubina (in c)"
+    },
+    {
+      "id": "5c41b4b5e8dec35ffd13e1f3",
+      "title": "Seasons In The Abyss (E)",
+      "artist": "Slayer",
+      "images": "https://assignment.yousician.com/artists/images/ee312457-3839-4b79-877a-3d8a57a2f3b5.jpg",
+      "level": 15,
+      "search": "slayer seasons in the abyss (e)"
+    },
+    {
+      "id": "5b6da1b7e8dec35ef96923eb",
+      "title": "Humble And Kind",
+      "artist": "Tim McGraw",
+      "images": "https://assignment.yousician.com/artists/images/61a2c3d2-61d5-4e15-8d16-e1b61a9455ff.jpg",
+      "level": 15,
+      "search": "tim mcgraw humble and kind"
+    },
+    {
+      "id": "5c3ee0d0e8dec36be7a0fdda",
+      "title": "By The Way",
+      "artist": "Red Hot Chili Peppers",
+      "images": "https://assignment.yousician.com/artists/images/476b79e4-c2c9-40ae-94b7-72bd76e9f152.jpg",
+      "level": 4,
+      "search": "red hot chili peppers by the way"
+    },
+    {
+      "id": "5b434ba6e8dec348bf69cac9",
+      "title": "Highwayman",
+      "artist": "The Highwaymen",
+      "images": "https://assignment.yousician.com/artists/images/80edbda0-4e4d-4329-a172-fdafa405406e.jpg",
+      "level": 7,
+      "search": "the highwaymen highwayman"
+    },
+    {
+      "id": "5c41b571e8dec35ffd13e221",
+      "title": "South Of Heaven (E)",
+      "artist": "Slayer",
+      "images": "https://assignment.yousician.com/artists/images/ee312457-3839-4b79-877a-3d8a57a2f3b5.jpg",
+      "level": 14,
+      "search": "slayer south of heaven (e)"
+    },
+    {
+      "id": "5bc863d9e8dec3682785ccac",
+      "title": "Kickstarts",
+      "artist": "Example",
+      "images": "https://assignment.yousician.com/artists/images/a357e462-cd58-4ad2-b4af-977ff90a48d3.jpg",
+      "level": 2,
+      "search": "example kickstarts"
+    },
+    {
+      "id": "5c3f2944e8dec36be7a2d180",
+      "title": "All For You (in G, short)",
+      "artist": "Sister Hazel",
+      "images": "https://assignment.yousician.com/artists/images/ffa7c6f6-fd0b-486d-9bb4-993ccc8f51ae.jpg",
+      "level": 4,
+      "search": "sister hazel all for you (in g, short)"
+    },
+    {
+      "id": "5b434c30e8dec348bf69e03a",
+      "title": "Sailing",
+      "artist": "Rod Stewart",
+      "images": "https://assignment.yousician.com/artists/images/b02c03eb-3d43-4be0-9df6-9c7ccea10f18.jpg",
+      "level": 6,
+      "search": "rod stewart sailing"
+    },
+    {
+      "id": "5c41b5d3e8dec35ffd13e231",
+      "title": "South Of Heaven (Eb)",
+      "artist": "Slayer",
+      "images": "https://assignment.yousician.com/artists/images/ee312457-3839-4b79-877a-3d8a57a2f3b5.jpg",
+      "level": 3,
+      "search": "slayer south of heaven (eb)"
+    },
+    {
+      "id": "5b8e473bb3984c68ed819283",
+      "title": "Mo Li Hua",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/5fb1c583-d2c6-46e0-9a2e-33506dd9599e.jpg",
+      "level": 10,
+      "search": "traditional mo li hua"
+    },
+    {
+      "id": "5b434cece8dec348bf6a00b4",
+      "title": "Mother",
+      "artist": "Danzig",
+      "images": "https://assignment.yousician.com/artists/images/5b7915ae-7436-46ca-9b56-e1b162d191c1.jpg",
+      "level": 2,
+      "search": "danzig mother"
+    },
+    {
+      "id": "5c10a48ae8dec3290fb06c18",
+      "title": "Rock And Roll All Nite (in A)",
+      "artist": "KISS",
+      "images": "https://assignment.yousician.com/artists/images/e15e130e-c50f-455e-9b39-15ba80d315dd.jpg",
+      "level": 9,
+      "search": "kiss rock and roll all nite (in a)"
+    },
+    {
+      "id": "5b8fa75cb3984c209a0acb3f",
+      "title": "Shadowed By Darkness",
+      "artist": "Stevie T",
+      "images": "https://assignment.yousician.com/artists/images/c23195a3-0b46-466d-b878-9e10bb534072.png",
+      "level": 1,
+      "search": "stevie t shadowed by darkness"
+    },
+    {
+      "id": "5b434dc4e8dec348bf6a1653",
+      "title": "Mmm Mmm Mmm Mmm",
+      "artist": "Crash Test Dummies",
+      "images": "https://assignment.yousician.com/artists/images/227b6ed4-5039-4180-9f0e-8f453cf2b781.jpg",
+      "level": 7,
+      "search": "crash test dummies mmm mmm mmm mmm"
+    },
+    {
+      "id": "5c5a9ce4e8dec3078bd7a5e7",
+      "title": "Song For You",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/971c0db4-b059-451a-831d-dab16308ed18.jpg",
+      "level": 5,
+      "search": "the yousicians song for you"
+    },
+    {
+      "id": "5c1105f3e8dec3290fb45843",
+      "title": "God Only Knows (in G)",
+      "artist": "The Beach Boys",
+      "images": "https://assignment.yousician.com/artists/images/0248383c-8c7d-491a-832d-47d06f80f2f2.jpg",
+      "level": 10,
+      "search": "the beach boys god only knows (in g)"
+    },
+    {
+      "id": "5bac60b0e8dec33e932b178a",
+      "title": "La Llorona",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/c0b5a990-2df1-4ff8-b542-c6943f3e34d8.jpg",
+      "level": 3,
+      "search": "traditional la llorona"
+    },
+    {
+      "id": "5b434e03e8dec348bf6a1e9e",
+      "title": "Samba Pa Ti",
+      "artist": "Santana",
+      "images": "https://assignment.yousician.com/artists/images/dc2e858a-dbd6-4efb-8251-539d5e87c8a0.jpg",
+      "level": 14,
+      "search": "santana samba pa ti"
+    },
+    {
+      "id": "5c5bf117e8dec3078bdc16ed",
+      "title": "Badfish",
+      "artist": "Sublime",
+      "images": "https://assignment.yousician.com/artists/images/99ccd7cd-7a7a-47e5-8afc-153a61784330.jpg",
+      "level": 8,
+      "search": "sublime badfish"
+    },
+    {
+      "id": "5b0fe117e8dec30a7537e757",
+      "title": "You Are So Beautiful",
+      "artist": "Joe Cocker",
+      "images": "https://assignment.yousician.com/artists/images/a4421e77-189a-4546-8c6d-8ba91ef82e81.jpg",
+      "level": 3,
+      "search": "joe cocker you are so beautiful"
+    },
+    {
+      "id": "5bd067eee8dec3255af6bcbe",
+      "title": "Hard Rock Halloween",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/d6511cdc-d575-41c5-a99d-4bcf4270694e.png",
+      "level": 9,
+      "search": "the yousicians hard rock halloween"
+    },
+    {
+      "id": "5b434e45e8dec348bf6a2122",
+      "title": "Hard To Handle",
+      "artist": "Otis Redding",
+      "images": "https://assignment.yousician.com/artists/images/f64478ee-4986-4522-a235-2d1289a1674e.jpg",
+      "level": 1,
+      "search": "otis redding hard to handle"
+    },
+    {
+      "id": "5c5bf423e8dec3078bdc1791",
+      "title": "Mad World",
+      "artist": "Gary Jules (Feat. Michael Andrews)",
+      "images": "https://assignment.yousician.com/artists/images/b84b0577-768b-4c2d-841b-e9d177f02337.jpg",
+      "level": 4,
+      "search": "gary jules (feat. michael andrews) mad world"
+    },
+    {
+      "id": "5c5bf1d3e8dec3078bdc1716",
+      "title": "Back At One",
+      "artist": "Brian McKnight",
+      "images": "https://assignment.yousician.com/artists/images/78006d32-1ecb-42fc-b4e0-2847e22cb892.jpg",
+      "level": 2,
+      "search": "brian mcknight back at one"
+    },
+    {
+      "id": "5c04f6a9e8dec321381bac7d",
+      "title": "Bring Me The Sheriff",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/8b573efb-41a8-4c66-ba9f-bffc34461c5e.png",
+      "level": 2,
+      "search": "the yousicians bring me the sheriff"
+    },
+    {
+      "id": "5b434e7fe8dec348bf6a218b",
+      "title": "Shiny Happy People",
+      "artist": "R.E.M.",
+      "images": "https://assignment.yousician.com/artists/images/e7cc5221-ba99-47ac-a98b-a93424175fee.jpg",
+      "level": 3,
+      "search": "r.e.m. shiny happy people"
+    },
+    {
+      "id": "5c63e48ce8dec35657d9acdf",
+      "title": "Suzie Q",
+      "artist": "Creedence Clearwater Revival",
+      "images": "https://assignment.yousician.com/artists/images/8e645efa-e223-42e8-8bad-b1798375a6cd.png",
+      "level": 5,
+      "search": "creedence clearwater revival suzie q"
+    },
+    {
+      "id": "5c63e3c2e8dec35657d9aca8",
+      "title": "Ordinary People",
+      "artist": "John Legend",
+      "images": "https://assignment.yousician.com/artists/images/e7e5e9e3-f03f-4fe7-acae-70ac6671fa3f.png",
+      "level": 2,
+      "search": "john legend ordinary people"
+    },
+    {
+      "id": "5c4968e9e8dec32de765cadf",
+      "title": "Father Of Mine (in D)",
+      "artist": "Everclear",
+      "images": "https://assignment.yousician.com/artists/images/c54efe52-bdae-449a-9204-53fd1463af06.jpg",
+      "level": 3,
+      "search": "everclear father of mine (in d)"
+    },
+    {
+      "id": "5b434fd3e8dec348bf6a4c15",
+      "title": "It's My Life",
+      "artist": "No Doubt",
+      "images": "https://assignment.yousician.com/artists/images/3f08c7d7-52c5-488c-8d9f-0197902849ce.jpg",
+      "level": 1,
+      "search": "no doubt it's my life"
+    },
+    {
+      "id": "5c63e4d1e8dec35657d9acef",
+      "title": "More Than This",
+      "artist": "Roxy Music",
+      "images": "https://assignment.yousician.com/artists/images/8e3c4616-aa6d-4403-994d-0b94623d9735.png",
+      "level": 7,
+      "search": "roxy music more than this"
+    },
+    {
+      "id": "5c5bf449e8dec3078bdc179f",
+      "title": "Mad World (in Em)",
+      "artist": "Gary Jules (Feat. Michael Andrews)",
+      "images": "https://assignment.yousician.com/artists/images/b84b0577-768b-4c2d-841b-e9d177f02337.jpg",
+      "level": 1,
+      "search": "gary jules (feat. michael andrews) mad world (in em)"
+    },
+    {
+      "id": "5b45aaeae8dec365ca06e314",
+      "title": "Interstate Love Song",
+      "artist": "Stone Temple Pilots",
+      "images": "https://assignment.yousician.com/artists/images/30429a50-e062-4fc3-9c6b-2869af4c41fa.jpg",
+      "level": 8,
+      "search": "stone temple pilots interstate love song"
+    },
+    {
+      "id": "5c63e513e8dec35657d9acff",
+      "title": "Walking On Sunshine",
+      "artist": "Katrina And The Waves",
+      "images": "https://assignment.yousician.com/artists/images/e5fba1f9-0d3a-4cfc-b401-9479490d2c4b.png",
+      "level": 11,
+      "search": "katrina and the waves walking on sunshine"
+    },
+    {
+      "id": "5c4046f3e8dec33d3b16da45",
+      "title": "Still Loving You (Gm, short)",
+      "artist": "Scorpions",
+      "images": "https://assignment.yousician.com/artists/images/c04a2f39-7eb7-49d9-8169-8c2fce7e5753.jpg",
+      "level": 7,
+      "search": "scorpions still loving you (gm, short)"
+    },
+    {
+      "id": "5b62ebf7e8dec3112eef3908",
+      "title": "The Winner Takes It All (in G)",
+      "artist": "ABBA",
+      "images": "https://assignment.yousician.com/artists/images/e2381902-7087-4319-bc44-a4a8ff255c12.jpg",
+      "level": 1,
+      "search": "abba the winner takes it all (in g)"
+    },
+    {
+      "id": "5ba35c7de8dec3589addd4f3",
+      "title": "Hungarian Dances 1 & 5 (in Am)",
+      "artist": "Johannes Brahms",
+      "images": "https://assignment.yousician.com/songs/images/480fda46-ec25-4272-be99-6f2b6c8bf5bd.jpg",
+      "level": 7,
+      "search": "johannes brahms hungarian dances 1 & 5 (in am)"
+    },
+    {
+      "id": "5c6d0240e8dec373d74fe7a2",
+      "title": "Shortnin' Bread",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/737b2f29-f05e-4130-a81f-a414a082bf42.jpg",
+      "level": 5,
+      "search": "traditional shortnin' bread"
+    },
+    {
+      "id": "5b6c3a42e8dec347b474d8ac",
+      "title": "Eye In The Sky",
+      "artist": "The Alan Parsons Project",
+      "images": "https://assignment.yousician.com/artists/images/533da415-180d-45a8-a45c-ae572bb7e200.jpg",
+      "level": 10,
+      "search": "the alan parsons project eye in the sky"
+    },
+    {
+      "id": "5c404687e8dec33d3b16d9f7",
+      "title": "Still Loving You (Am, short)",
+      "artist": "Scorpions",
+      "images": "https://assignment.yousician.com/artists/images/c04a2f39-7eb7-49d9-8169-8c2fce7e5753.jpg",
+      "level": 12,
+      "search": "scorpions still loving you (am, short)"
+    },
+    {
+      "id": "5c6d3507e8dec373d75285b0",
+      "title": "Foxey Lady",
+      "artist": "Jimi Hendrix",
+      "images": "https://assignment.yousician.com/artists/images/64d8917c-bcf7-4a03-9a76-a34988e9d828.png",
+      "level": 1,
+      "search": "jimi hendrix foxey lady"
+    },
+    {
+      "id": "5b6d4597e8dec347b4779810",
+      "title": "Shut Up And Drive (in D)",
+      "artist": "Rihanna",
+      "images": "https://assignment.yousician.com/artists/images/5742cd1b-2527-489b-90b7-d138759cf0d8.jpg",
+      "level": 6,
+      "search": "rihanna shut up and drive (in d)"
+    },
+    {
+      "id": "5c875be2e8dec31bd5da5433",
+      "title": "Hot Asphalt",
+      "artist": "Traditional",
+      "images": null,
+      "level": 4,
+      "search": "traditional hot asphalt"
+    },
+    {
+      "id": "5c765a79e8dec36a98ee127e",
+      "title": "Unnatural Science",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/7f131a2a-3b45-4450-b46e-ed954959371c.jpg",
+      "level": 15,
+      "search": "the yousicians unnatural science"
+    },
+    {
+      "id": "5b7179b0e8dec36155eccf6e",
+      "title": "Click Click Boom",
+      "artist": "Saliva",
+      "images": "https://assignment.yousician.com/artists/images/8654d7d3-fbf8-4651-8f2b-012cce063e1d.jpg",
+      "level": 10,
+      "search": "saliva click click boom"
+    },
+    {
+      "id": "5bb4c437e8dec378b6bf3878",
+      "title": "Dirty Work",
+      "artist": "Steely Dan",
+      "images": "https://assignment.yousician.com/artists/images/e46a8c00-03fd-4e72-b9ce-537c7123e95e.jpg",
+      "level": 9,
+      "search": "steely dan dirty work"
+    },
+    {
+      "id": "5c7e63a0e8dec355adc08d00",
+      "title": "St. James Infirmary",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/1e36451f-22c6-44a8-a7ea-41197bbf959a.jpg",
+      "level": 7,
+      "search": "traditional st. james infirmary"
+    },
+    {
+      "id": "5c920f2ce8dec35c78e485a5",
+      "title": "Llora La Guitarra",
+      "artist": "The Yousicians",
+      "images": null,
+      "level": 4,
+      "search": "the yousicians llora la guitarra"
+    },
+    {
+      "id": "5b645471e8dec3112ef42395",
+      "title": "Clocks (in G)",
+      "artist": "Coldplay",
+      "images": "https://assignment.yousician.com/artists/images/ca9925b1-0e28-404b-a8f2-b9957ffb8f14.jpg",
+      "level": 14,
+      "search": "coldplay clocks (in g)"
+    },
+    {
+      "id": "5b3caa2ae8dec3534c7c11c5",
+      "title": "Dancing On My Own (in C)",
+      "artist": "Calum Scott",
+      "images": "https://assignment.yousician.com/artists/images/cc0b13db-366c-4bd5-9da2-e174e6d409fa.jpg",
+      "level": 13,
+      "search": "calum scott dancing on my own (in c)"
+    },
+    {
+      "id": "5b0e9d12e8dec30a75344c32",
+      "title": "The Scientist",
+      "artist": "Coldplay",
+      "images": "https://assignment.yousician.com/artists/images/ca9925b1-0e28-404b-a8f2-b9957ffb8f14.jpg",
+      "level": 15,
+      "search": "coldplay the scientist"
+    },
+    {
+      "id": "5c07be07e8dec37f0b1e5039",
+      "title": "Desire",
+      "artist": "Years & Years",
+      "images": "https://assignment.yousician.com/artists/images/878274bd-99da-4446-94c0-d17cdcbae715.jpg",
+      "level": 7,
+      "search": "years & years desire"
+    },
+    {
+      "id": "5bf508a0e8dec363e1377c95",
+      "title": "Worry Free",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/646074c7-b99a-4264-bc79-83f8c1755345.png",
+      "level": 6,
+      "search": "the yousicians worry free"
+    },
+    {
+      "id": "5b431dd5e8dec348bf663b0c",
+      "title": "Respect",
+      "artist": "Aretha Franklin",
+      "images": "https://assignment.yousician.com/artists/images/4d7216a2-e813-443d-a952-425d8d1e65c5.jpg",
+      "level": 9,
+      "search": "aretha franklin respect"
+    },
+    {
+      "id": "5ba35f55e8dec3589ade089a",
+      "title": "Poco Allegretto (3rd Symphony)",
+      "artist": "Johannes Brahms",
+      "images": "https://assignment.yousician.com/songs/images/646950a5-8536-47d1-ac01-99dd9d33cad3.jpg",
+      "level": 7,
+      "search": "johannes brahms poco allegretto (3rd symphony)"
+    },
+    {
+      "id": "5c07bf15e8dec37f0b1e61f2",
+      "title": "Born Under A Bad Sign",
+      "artist": "Cream",
+      "images": "https://assignment.yousician.com/artists/images/1c64fbbd-4a2d-4964-8417-b5dcf9b8fdd4.jpg",
+      "level": 3,
+      "search": "cream born under a bad sign"
+    },
+    {
+      "id": "5b431f30e8dec348bf664ffc",
+      "title": "We Built This City",
+      "artist": "Starship",
+      "images": "https://assignment.yousician.com/artists/images/e27c534b-94ee-4985-9196-71c91d27d71e.jpg",
+      "level": 14,
+      "search": "starship we built this city"
+    },
+    {
+      "id": "5bb47d48e8dec378b6bcec1b",
+      "title": "Dark Souls",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/71bc0a6b-6408-4bd4-9da6-8aeb5f879a4b.jpg",
+      "level": 12,
+      "search": "the yousicians dark souls"
+    },
+    {
+      "id": "5b4320a1e8dec348bf6664bc",
+      "title": "Pompeii (in C)",
+      "artist": "Bastille",
+      "images": "https://assignment.yousician.com/artists/images/b3ddc079-106e-43af-968a-c840f926c759.jpg",
+      "level": 10,
+      "search": "bastille pompeii (in c)"
+    },
+    {
+      "id": "5b0e9d99e8dec30a75346e3f",
+      "title": "Losing My Religion",
+      "artist": "R.E.M.",
+      "images": "https://assignment.yousician.com/artists/images/e7cc5221-ba99-47ac-a98b-a93424175fee.jpg",
+      "level": 8,
+      "search": "r.e.m. losing my religion"
+    },
+    {
+      "id": "5c374731e8dec31ef32efbec",
+      "title": "Tearin' Up My Heart",
+      "artist": "*NSYNC",
+      "images": "https://assignment.yousician.com/artists/images/3194c932-191a-45de-b002-f9b7d6c8940a.jpg",
+      "level": 10,
+      "search": "*nsync tearin' up my heart"
+    },
+    {
+      "id": "5b4341a7e8dec348bf68f411",
+      "title": "I Was Made For Lovin' You",
+      "artist": "KISS",
+      "images": "https://assignment.yousician.com/artists/images/e15e130e-c50f-455e-9b39-15ba80d315dd.jpg",
+      "level": 11,
+      "search": "kiss i was made for lovin' you"
+    },
+    {
+      "id": "5c3f2779e8dec36be7a2d118",
+      "title": "Nothin' But A Good Time",
+      "artist": "Poison",
+      "images": "https://assignment.yousician.com/artists/images/2b66ddb3-99d6-46ba-8f10-f73f6cc6cf4a.jpg",
+      "level": 4,
+      "search": "poison nothin' but a good time"
+    },
+    {
+      "id": "5b4343b4e8dec348bf691764",
+      "title": "Adorn",
+      "artist": "Miguel",
+      "images": "https://assignment.yousician.com/artists/images/9d277cdf-1f70-4fb2-9ed3-765b115b7e91.jpg",
+      "level": 14,
+      "search": "miguel adorn"
+    },
+    {
+      "id": "5c88e068e8dec33925fb0e10",
+      "title": "And I'm Telling You I'm Not Going",
+      "artist": "Dreamgirls",
+      "images": "https://assignment.yousician.com/artists/images/c472cd61-149b-4780-af34-05ed2ba33e99.png",
+      "level": 8,
+      "search": "dreamgirls and i'm telling you i'm not going"
+    },
+    {
+      "id": "5c3f27c7e8dec36be7a2d126",
+      "title": "Nothin' But A Good Time (in A)",
+      "artist": "Poison",
+      "images": "https://assignment.yousician.com/artists/images/2b66ddb3-99d6-46ba-8f10-f73f6cc6cf4a.jpg",
+      "level": 9,
+      "search": "poison nothin' but a good time (in a)"
+    },
+    {
+      "id": "5b434b04e8dec348bf69c000",
+      "title": "Shots",
+      "artist": "Imagine Dragons",
+      "images": "https://assignment.yousician.com/artists/images/2d7308f8-ccf8-4b80-bc40-ff5af4203b62.jpg",
+      "level": 5,
+      "search": "imagine dragons shots"
+    },
+    {
+      "id": "5c3f280ae8dec36be7a2d136",
+      "title": "Nothin' But A Good Time (short)",
+      "artist": "Poison",
+      "images": "https://assignment.yousician.com/artists/images/2b66ddb3-99d6-46ba-8f10-f73f6cc6cf4a.jpg",
+      "level": 12,
+      "search": "poison nothin' but a good time (short)"
+    },
+    {
+      "id": "5bec2279e8dec3180992fc75",
+      "title": "Buenos Aires",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/89793646-bcc1-4d75-992e-0d66ead854c4.png",
+      "level": 12,
+      "search": "the yousicians buenos aires"
+    },
+    {
+      "id": "5b434bece8dec348bf69d574",
+      "title": "Let's Get Loud",
+      "artist": "Jennifer Lopez",
+      "images": "https://assignment.yousician.com/artists/images/7eaa0cb9-4d0f-4bcb-bb7c-42b0c514fa29.jpg",
+      "level": 4,
+      "search": "jennifer lopez let's get loud"
+    },
+    {
+      "id": "5c88e221e8dec33925fb1be6",
+      "title": "I'm Yours (in C)",
+      "artist": "Jason Mraz",
+      "images": "https://assignment.yousician.com/artists/images/e16bf489-3c56-468f-9b5e-c751d4ad14c5.jpg",
+      "level": 8,
+      "search": "jason mraz i'm yours (in c)"
+    },
+    {
+      "id": "5c3f2a07e8dec36be7a2d1ae",
+      "title": "Love And Happiness (short)",
+      "artist": "Al Green",
+      "images": "https://assignment.yousician.com/artists/images/94c6ccc1-dba7-4ff2-ba64-94246c318667.jpg",
+      "level": 14,
+      "search": "al green love and happiness (short)"
+    },
+    {
+      "id": "5b434c87e8dec348bf69f5c8",
+      "title": "The Mother We Share",
+      "artist": "CHVRCHES",
+      "images": "https://assignment.yousician.com/artists/images/2d106c70-331c-44ff-ab41-1db6a4a50cb9.jpg",
+      "level": 3,
+      "search": "chvrches the mother we share"
+    },
+    {
+      "id": "5c94d079e8dec334fbc57d59",
+      "title": "Someone Like You REPLACE VOCALS!",
+      "artist": "Adele",
+      "images": "https://assignment.yousician.com/artists/images/95815ef6-cf7f-4209-8505-7d206977d2db.jpg",
+      "level": 10,
+      "search": "adele someone like you replace vocals!"
+    },
+    {
+      "id": "5c3f2a8be8dec36be7a2d1d8",
+      "title": "Creep",
+      "artist": "Stone Temple Pilots",
+      "images": "https://assignment.yousician.com/artists/images/30429a50-e062-4fc3-9c6b-2869af4c41fa.jpg",
+      "level": 7,
+      "search": "stone temple pilots creep"
+    },
+    {
+      "id": "5b434d8de8dec348bf6a1564",
+      "title": "Shut Up And Drive",
+      "artist": "Rihanna",
+      "images": "https://assignment.yousician.com/artists/images/5742cd1b-2527-489b-90b7-d138759cf0d8.jpg",
+      "level": 7,
+      "search": "rihanna shut up and drive"
+    },
+    {
+      "id": "5c3f2ac1e8dec36be7a2d1dc",
+      "title": "Creep (short)",
+      "artist": "Stone Temple Pilots",
+      "images": "https://assignment.yousician.com/artists/images/30429a50-e062-4fc3-9c6b-2869af4c41fa.jpg",
+      "level": 9,
+      "search": "stone temple pilots creep (short)"
+    },
+    {
+      "id": "5b71217ee8dec35ef96c2314",
+      "title": "Humble And Kind (in C)",
+      "artist": "Tim McGraw",
+      "images": "https://assignment.yousician.com/artists/images/61a2c3d2-61d5-4e15-8d16-e1b61a9455ff.jpg",
+      "level": 6,
+      "search": "tim mcgraw humble and kind (in c)"
+    },
+    {
+      "id": "5c41b4f4e8dec35ffd13e205",
+      "title": "Seasons In The Abyss (Eb)",
+      "artist": "Slayer",
+      "images": "https://assignment.yousician.com/artists/images/ee312457-3839-4b79-877a-3d8a57a2f3b5.jpg",
+      "level": 4,
+      "search": "slayer seasons in the abyss (eb)"
+    },
+    {
+      "id": "5c90285fe8dec3298e343dff",
+      "title": "Guitar In 60 Seconds",
+      "artist": "Rob Scallon",
+      "images": "https://assignment.yousician.com/artists/images/f96be747-12cc-412f-a921-2c1dacacaede.jpg",
+      "level": 1,
+      "search": "rob scallon guitar in 60 seconds"
+    },
+    {
+      "id": "5b7129fde8dec36155eb5a94",
+      "title": "I Will Wait (in C)",
+      "artist": "Mumford & Sons",
+      "images": "https://assignment.yousician.com/artists/images/139c61b3-6808-44cc-9d22-9f018f7931b4.jpg",
+      "level": 15,
+      "search": "mumford & sons i will wait (in c)"
+    },
+    {
+      "id": "5bd067c1e8dec3255af6bcae",
+      "title": "Hot For An App",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/b6be0ef1-2eef-49e3-9c3c-9aa6a5dbdd76.png",
+      "level": 3,
+      "search": "the yousicians hot for an app"
+    },
+    {
+      "id": "5b7174aae8dec36155ec9ea7",
+      "title": "Superstar",
+      "artist": "Lupe Fiasco",
+      "images": "https://assignment.yousician.com/artists/images/3b6dc93a-7b82-4414-b46e-3763673b8897.jpg",
+      "level": 7,
+      "search": "lupe fiasco superstar"
+    },
+    {
+      "id": "5c486409e8dec30b9320cb39",
+      "title": "Challenge Yourself",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/51fbd5db-3d65-41cb-bfb5-e2519c20d29b.jpg",
+      "level": 4,
+      "search": "the yousicians challenge yourself"
+    },
+    {
+      "id": "5b71787ee8dec36155ecc34a",
+      "title": "Do It Again",
+      "artist": "Steely Dan",
+      "images": "https://assignment.yousician.com/artists/images/e46a8c00-03fd-4e72-b9ce-537c7123e95e.jpg",
+      "level": 15,
+      "search": "steely dan do it again"
+    },
+    {
+      "id": "5c6d0280e8dec373d74fea1d",
+      "title": "My Grandfather's Clock",
+      "artist": "Henry Clay Work",
+      "images": "https://assignment.yousician.com/songs/images/8e1fc4a8-2cf7-4ec6-ad87-37f79dfbf2c1.jpg",
+      "level": 11,
+      "search": "henry clay work my grandfather's clock"
+    },
+    {
+      "id": "5b7179fde8dec36155eccfae",
+      "title": "Sunday Morning",
+      "artist": "Maroon 5",
+      "images": "https://assignment.yousician.com/artists/images/a99d406a-f02f-41d7-a323-b3c5d740f2d9.jpg",
+      "level": 12,
+      "search": "maroon 5 sunday morning"
+    },
+    {
+      "id": "5b7d01c2e8dec302711ef4dd",
+      "title": "A Thousand Miles (in C)",
+      "artist": "Vanessa Carlton",
+      "images": "https://assignment.yousician.com/artists/images/cf8a814b-c3fd-4c42-9f15-d02258c5768f.jpg",
+      "level": 5,
+      "search": "vanessa carlton a thousand miles (in c)"
+    },
+    {
+      "id": "5c6ea2b6e8dec3145da86687",
+      "title": "Voodoo Child (Slight Return) (in E)",
+      "artist": "Jimi Hendrix",
+      "images": "https://assignment.yousician.com/artists/images/64d8917c-bcf7-4a03-9a76-a34988e9d828.png",
+      "level": 1,
+      "search": "jimi hendrix voodoo child (slight return) (in e)"
+    },
+    {
+      "id": "5bd2fe44e8dec3255a0105b6",
+      "title": "I Will Survive (tutorial)",
+      "artist": "Gloria Gaynor",
+      "images": "https://assignment.yousician.com/artists/images/fc99d18c-f311-42dd-adc8-9d87d9dfecfa.jpg",
+      "level": 8,
+      "search": "gloria gaynor i will survive (tutorial)"
+    },
+    {
+      "id": "5c6ea305e8dec3145da86695",
+      "title": "Crosstown Traffic (in E)",
+      "artist": "Jimi Hendrix",
+      "images": "https://assignment.yousician.com/artists/images/64d8917c-bcf7-4a03-9a76-a34988e9d828.png",
+      "level": 3,
+      "search": "jimi hendrix crosstown traffic (in e)"
+    },
+    {
+      "id": "5c2cd3fce8dec308f65bd6e7",
+      "title": "Lick It Up",
+      "artist": "KISS",
+      "images": "https://assignment.yousician.com/artists/images/e15e130e-c50f-455e-9b39-15ba80d315dd.jpg",
+      "level": 13,
+      "search": "kiss lick it up"
+    },
+    {
+      "id": "5c3ee137e8dec36be7a0fdea",
+      "title": "By The Way (short)",
+      "artist": "Red Hot Chili Peppers",
+      "images": "https://assignment.yousician.com/artists/images/476b79e4-c2c9-40ae-94b7-72bd76e9f152.jpg",
+      "level": 9,
+      "search": "red hot chili peppers by the way (short)"
+    },
+    {
+      "id": "5c3ee50be8dec36be7a117b3",
+      "title": "Ever Fallen In Love (With Someone You Shouldn't've)?",
+      "artist": "Buzzcocks",
+      "images": "https://assignment.yousician.com/artists/images/71f0cc77-9661-4565-9fcd-c841f5f97ed0.jpg",
+      "level": 9,
+      "search": "buzzcocks ever fallen in love (with someone you shouldn't've)?"
+    },
+    {
+      "id": "5c3eefd1e8dec36be7a13f5c",
+      "title": "Father Of Mine",
+      "artist": "Everclear",
+      "images": "https://assignment.yousician.com/artists/images/c54efe52-bdae-449a-9204-53fd1463af06.jpg",
+      "level": 5,
+      "search": "everclear father of mine"
+    },
+    {
+      "id": "5c3f2686e8dec36be7a2d0e0",
+      "title": "Life Is A Highway (short)",
+      "artist": "Tom Cochrane",
+      "images": "https://assignment.yousician.com/artists/images/86d9dd54-9896-4637-af30-1e3ef972aa6d.jpg",
+      "level": 15,
+      "search": "tom cochrane life is a highway (short)"
+    },
+    {
+      "id": "5c3f28bae8dec36be7a2d160",
+      "title": "All For You",
+      "artist": "Sister Hazel",
+      "images": "https://assignment.yousician.com/artists/images/ffa7c6f6-fd0b-486d-9bb4-993ccc8f51ae.jpg",
+      "level": 6,
+      "search": "sister hazel all for you"
+    },
+    {
+      "id": "5c3f2917e8dec36be7a2d172",
+      "title": "All For You (short)",
+      "artist": "Sister Hazel",
+      "images": "https://assignment.yousician.com/artists/images/ffa7c6f6-fd0b-486d-9bb4-993ccc8f51ae.jpg",
+      "level": 6,
+      "search": "sister hazel all for you (short)"
+    },
+    {
+      "id": "5c98dfb3e8dec346a1b54cf4",
+      "title": "Wanted (short)",
+      "artist": "Hunter Hayes",
+      "images": "https://assignment.yousician.com/artists/images/4491e476-2a6f-4534-806f-58ff6fd0fcef.jpg",
+      "level": 2,
+      "search": "hunter hayes wanted (short)"
+    },
+    {
+      "id": "5c3f2a38e8dec36be7a2d1bc",
+      "title": "Love And Happiness (in Am, short)",
+      "artist": "Al Green",
+      "images": "https://assignment.yousician.com/artists/images/94c6ccc1-dba7-4ff2-ba64-94246c318667.jpg",
+      "level": 14,
+      "search": "al green love and happiness (in am, short)"
+    },
+    {
+      "id": "5c41b368e8dec35ffd13e19f",
+      "title": "Territory (D)",
+      "artist": "Sepultura",
+      "images": "https://assignment.yousician.com/artists/images/412f699f-7744-4703-991b-c50bca0937cb.jpg",
+      "level": 1,
+      "search": "sepultura territory (d)"
+    },
+    {
+      "id": "5c04f67ce8dec321381bac6f",
+      "title": "Life On Horseback",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/c5f2fe72-b4a8-489f-8644-c03f1be88e74.png",
+      "level": 3,
+      "search": "the yousicians life on horseback"
+    },
+    {
+      "id": "5c5aa9c3e8dec3078bd80e03",
+      "title": "Be My Baby",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/019f57f8-6653-4fba-8cb8-c025b5264405.jpg",
+      "level": 8,
+      "search": "the yousicians be my baby"
+    },
+    {
+      "id": "5c63e1ebe8dec35657d9ac3b",
+      "title": "Stepping Stone",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/12b69a6d-5d28-4230-bfc7-1f82ac37c955.jpg",
+      "level": 1,
+      "search": "the yousicians stepping stone"
+    },
+    {
+      "id": "5c63e24be8dec35657d9ac4d",
+      "title": "Shine A Light",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/5c94e450-9aea-4b55-a0a7-31795fd8e05a.jpg",
+      "level": 1,
+      "search": "the yousicians shine a light"
+    },
+    {
+      "id": "5c6d3426e8dec373d752849c",
+      "title": "Castles Made Of Sand",
+      "artist": "Jimi Hendrix",
+      "images": "https://assignment.yousician.com/artists/images/64d8917c-bcf7-4a03-9a76-a34988e9d828.png",
+      "level": 12,
+      "search": "jimi hendrix castles made of sand"
+    },
+    {
+      "id": "5c6d3226e8dec373d7524b24",
+      "title": "Voodoo Child (Slight Return)",
+      "artist": "Jimi Hendrix",
+      "images": "https://assignment.yousician.com/artists/images/64d8917c-bcf7-4a03-9a76-a34988e9d828.png",
+      "level": 5,
+      "search": "jimi hendrix voodoo child (slight return)"
+    },
+    {
+      "id": "5c765ab2e8dec36a98ee1344",
+      "title": "Xanada",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/74e17354-8426-4dcf-849c-93d3bd3da7d8.jpg",
+      "level": 4,
+      "search": "the yousicians xanada"
+    },
+    {
+      "id": "5c7e6351e8dec355adc08ce6",
+      "title": "Mardi Gras Song",
+      "artist": "Traditional",
+      "images": "https://assignment.yousician.com/songs/images/c7eaaada-d220-4ffa-9b23-0419f46e69ee.jpg",
+      "level": 2,
+      "search": "traditional mardi gras song"
+    },
+    {
+      "id": "5bac6055e8dec33e932b1770",
+      "title": "Vals Poetico",
+      "artist": "Felipe Villanueva",
+      "images": "https://assignment.yousician.com/songs/images/24c47eb9-e4ab-47d5-bc43-2921dfca2f7c.jpg",
+      "level": 3,
+      "search": "felipe villanueva vals poetico"
+    },
+    {
+      "id": "5bc6f6a6e8dec3542a5780a8",
+      "title": "Play It For Real",
+      "artist": "The Yousicians",
+      "images": "https://assignment.yousician.com/songs/images/bb367719-27bc-4cf5-a9b1-128bbe54d8d9.jpg",
+      "level": 3,
+      "search": "the yousicians play it for real"
+    },
+    {
+      "id": "5c88e0e5e8dec33925fb0e2f",
+      "title": "I'm Yours",
+      "artist": "Jason Mraz",
+      "images": "https://assignment.yousician.com/artists/images/e16bf489-3c56-468f-9b5e-c751d4ad14c5.jpg",
+      "level": 4,
+      "search": "jason mraz i'm yours"
+    }
+  ],
+  "favorites": [
+    {
+      "songId": "5b8e47deb3984c68ed8192e3",
+      "id": 1
+    }
+  ]
+}
