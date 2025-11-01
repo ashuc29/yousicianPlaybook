@@ -7,7 +7,7 @@ import './SongItem.css';
 
 const classNames = (...classes) => classes.filter(Boolean).join(' ');
 
-export const SongItem = React.forwardRef(({ song, isFavorite, onToggleFavorite, isTogglingFavorite, isFiltered }, ref) => (
+export const SongItem = React.forwardRef(({ song, isFavorite, onToggleFavorite = () => { }, isTogglingFavorite, isFiltered }, ref) => (
     <li ref={ref} className={classNames('song-item-container', isFiltered && 'filtered', isTogglingFavorite && 'toggling-favorite')}>
         <img
             src={song.image || defaultSongImage}
