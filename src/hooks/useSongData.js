@@ -12,12 +12,14 @@ export const useSongData = ({ debouncedSearch, selectedLevels }) => {
     const [togglingFavoriteId, setTogglingFavoriteId] = useState(null);
     const [fetchingFavoritesFor, setFetchingFavoritesFor] = useState(new Set());
 
+    // Reset songs and page when search term or selected levels change
     useEffect(() => {
         setPage(1);
         setSongs([]);
         setTotalSongs(0);
     }, [debouncedSearch, selectedLevels]);
 
+    // Fetch songs and favorites when page, search term, or selected levels change
     useEffect(() => {
         const fetchSongsAndFavorites = async () => {
             setIsLoading(true);
@@ -54,6 +56,7 @@ export const useSongData = ({ debouncedSearch, selectedLevels }) => {
         // eslint-disable-next-line react-hooks/exhaustive-deps
     }, [page, debouncedSearch, selectedLevels]);
 
+    // Handle favorite toggling
     const handleToggleFavorite = useCallback(async (songId) => {
         const isFavorite = favorites.has(songId);
         const favoriteId = favorites.get(songId);
