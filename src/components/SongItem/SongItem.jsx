@@ -6,8 +6,8 @@ import '../../styles/variable.css';
 import './SongItem.css';
 
 
-export const SongItem = React.forwardRef(({ song, isFavorite, onToggleFavorite, isFiltered }, ref) => (
-    <li ref={ref} className={`song-item-container ${isFiltered ? 'filtered' : ''}`}>
+export const SongItem = React.forwardRef(({ song, isFavorite, onToggleFavorite, isTogglingFavorite, isFiltered }, ref) => (
+    <li ref={ref} className={`song-item-container ${isFiltered ? 'filtered' : ''} ${isTogglingFavorite ? 'toggling-favorite' : ''}`}>
         <img
             src={song.image || defaultSongImage}
             alt={`${song.title} artwork`}
