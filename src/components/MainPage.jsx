@@ -11,7 +11,6 @@ export function MainPage() {
     const [searchQuery, setSearchQuery] = useState('');
     const [selectedLevels, setSelectedLevels] = useState(new Set());
     const [showFilters, setShowFilters] = useState(true);
-    const [theme, setTheme] = useState('dark');
 
     // --- Debounced Search ---
     const debouncedSearch = useDebounce(searchQuery, DEBOUNCE_DELAY);
@@ -29,12 +28,8 @@ export function MainPage() {
         });
     };
 
-    const toggleTheme = () => {
-        setTheme((prevTheme) => (prevTheme === 'dark' ? 'light' : 'dark'));
-    };
-
     return (
-        <div className="main-page-container" data-theme={theme}>
+        <div className="main-page-container">
             <SongSearch searchQuery={searchQuery} onSearchChange={setSearchQuery} />
             <FilterBar
                 showFilters={showFilters}
@@ -46,9 +41,6 @@ export function MainPage() {
                 selectedLevels={selectedLevels}
                 debouncedSearch={debouncedSearch}
             />
-            <button onClick={toggleTheme} className="theme-toggle-button">
-                Toggle Theme
-            </button>
         </div>
     );
 }

@@ -6,7 +6,6 @@
     align-items: center;
     justify-content: center;
     font-weight: bold;
-    color: var(--color-text);
 }
 
 .level-indicator-number {
@@ -24,7 +23,7 @@
 }
 
 .level-indicator-track {
-    stroke: var(--color-level-button-inactive-hover-bg);
+    stroke: rgba(255, 255, 255, 0.2);
 }
 
 .level-indicator-arc {

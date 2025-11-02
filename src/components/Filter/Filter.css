@@ -46,35 +46,3 @@
 .levels-container {
     @apply flex gap-2 sm:gap-3 overflow-x-auto pb-2 sm:flex-wrap sm:overflow-x-visible;
 }
-
-[data-theme="light"] .filter-bar {
-    @apply text-[var(--color-black)];
-}
-
-[data-theme="light"] .filter-label {
-    @apply text-[var(--color-black)];
-}
-
-[data-theme="light"] .filter-label.label-closed {
-    @apply text-[var(--color-black)];
-}
-
-[data-theme="light"] .filter-button-range {
-    @apply border-[var(--color-black)];
-}
-
-[data-theme="light"] .filter-icon-wrapper {
-    @apply bg-black;
-}
-
-[data-theme="light"] .filter-icon-wrapper .filter-icon {
-    filter: invert(1);
-}
-
-[data-theme="light"] .filter-icon.invert {
-    filter: invert(0);
-}
-
-[data-theme="light"] .filter-button {
-    @apply border-[var(--color-black)];
-}
