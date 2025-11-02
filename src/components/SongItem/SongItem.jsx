@@ -19,10 +19,9 @@ export const SongItem = React.forwardRef(({ song, isFavorite, onToggleFavorite =
             <h3 className="song-item-title">
                 {song.title}
             </h3>
-            <span className="song-item-artist">
-                {song.artist}
-            </span>
+            <span className="song-item-artist">{song.artist}</span>
         </div>
+
         <div className="song-item-actions">
             <LevelIndicator level={song.level} size={32} />
             <FavoriteButton
