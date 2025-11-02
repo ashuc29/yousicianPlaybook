@@ -16,10 +16,10 @@ export const SongItem = React.forwardRef(({ song, isFavorite, onToggleFavorite =
 
         />
         <div className="song-item-details">
-            <h3 className="song-item-title" title={song.title}>
+            <h3 className="song-item-title">
                 {song.title}
             </h3>
-            <span className="song-item-artist" title={song.artist}>
+            <span className="song-item-artist">
                 {song.artist}
             </span>
         </div>
