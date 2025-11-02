@@ -43,10 +43,11 @@
     font-weight: 600;
     color: var(--color-text);
     margin: 0;
-    white-space: normal;
-    -webkit-box-orient: vertical;
+    white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    width: 100%;
+
 }
 
 .song-item-artist-container {
@@ -105,12 +106,18 @@
         height: 5rem;
     }
 
+    .song-item-details {
+        /* No flex property needed */
+    }
+
     .song-item-title {
         font-size: 1.25rem;
         line-height: 1.75rem;
-        white-space: nowrap;
-        display: block;
-        height: 1.3em;
+        width: auto;
+    }
+
+    .song-item-artist {
+        width: auto;
     }
 
     .song-item-actions {

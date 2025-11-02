@@ -44,7 +44,7 @@
 }
 
 .levels-container {
-    @apply flex gap-2 sm:gap-3 overflow-x-auto pb-2 sm:flex-wrap sm:overflow-x-visible;
+    @apply grid grid-cols-5 gap-4 pb-2 mx-4 sm:flex sm:overflow-x-auto sm:flex-nowrap sm:mx-0;
 }
 
 [data-theme="light"] .filter-bar {
