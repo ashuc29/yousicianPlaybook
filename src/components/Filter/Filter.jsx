@@ -14,7 +14,7 @@ export const FilterBar = ({ showFilters, onToggleFilters, selectedLevels, onLeve
         <div className="filter-bar">
             <div className="filter-container">
                 <div className="filter-toggle-container">
-                    <span className='filter-label'>
+                    <span className={`filter-label ${!showFilters ? 'label-closed' : ''}`}>
                         {showFilters ? 'HIDE FILTER' : 'FILTER BY LEVEL'}
                     </span>
                     {!showFilters && rangeText ? (

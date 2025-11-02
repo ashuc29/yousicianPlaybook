@@ -1,9 +1,41 @@
 :root {
+  --color-bg: #000000;
   --color-bg-dark: #101010;
+  --color-bg-secondary: var(--color-grey-medium);
+  --color-text: #ffffff;
+  --color-text-secondary: var(--color-grey-light);
+  --color-border: #555;
+  --color-filter-icon-invert: invert(0);
+  --color-level-button-active-bg: #ffffff;
+  --color-level-button-active-text: #000000;
+  --color-level-button-inactive-text: #ffffff;
+  --color-level-button-inactive-hover-bg: rgba(255, 255, 255, 0.1);
+  --color-filter-button-border: #ffffff;
+  --color-toggling-favorite-bg: var(--color-grey-medium);
+  --color-toggling-favorite-spinner: var(--color-bg);
+
   --color-grey-medium: #383635;
   --color-grey-light: #939393;
 
   --color-level-green: #6fc13e;
   --color-level-orange: #ff8e00;
   --color-level-red: #dc001c;
+  --color-primary: #e91e63;
+}
+
+[data-theme='light'] {
+  --color-bg: #ffffff;
+  --color-bg-dark: #f0f0f0;
+  --color-bg-secondary: #e0e0e0;
+  --color-text: #101010;
+  --color-text-secondary: #5a5a5a;
+  --color-border: #dddddd;
+  --color-filter-icon-invert: invert(1);
+  --color-level-button-active-bg: #101010;
+  --color-level-button-active-text: #ffffff;
+  --color-level-button-inactive-text: #101010;
+  --color-level-button-inactive-hover-bg: rgba(0, 0, 0, 0.1);
+  --color-filter-button-border: #101010;
+  --color-toggling-favorite-bg: #e0e0e0;
+  --color-toggling-favorite-spinner: #ffffff;
 }

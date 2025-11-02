@@ -3,9 +3,15 @@
 }
 
 .level-button--active {
-    @apply bg-white text-black;
+    background-color: var(--color-level-button-active-bg);
+    color: var(--color-level-button-active-text);
 }
 
 .level-button--inactive {
-    @apply relative text-white hover:bg-white/10;
+    @apply relative hover:bg-white/10;
+    color: var(--color-level-button-inactive-text);
+}
+
+.level-button--inactive:hover {
+    background-color: var(--color-level-button-inactive-hover-bg);
 }
