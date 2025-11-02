@@ -39,6 +39,7 @@
 .song-item-details {
     min-width: 0;
     display: flex;
+    align-items: flex-start;
     flex-direction: column;
 }
 
@@ -49,6 +50,10 @@
     /* 28px */
     font-weight: 600;
     color: var(--color-white);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    width: 100%;
 }
 
 .song-item-artist-container {
@@ -188,5 +193,11 @@
 
     100% {
         transform: translate(-50%, -50%) rotate(360deg);
+    }
+}
+
+@media (max-width: 768px) {
+    .song-item-title {
+        font-size: 1rem;
     }
 }

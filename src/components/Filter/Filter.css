@@ -15,7 +15,7 @@
 }
 
 .filter-button-range {
-    @apply flex items-center text-sm font-bold border border-white rounded-3xl overflow-hidden;
+    @apply flex items-center text-sm font-bold border border-white rounded-3xl overflow-hidden leading-none;
 }
 
 .range-text {
@@ -40,9 +40,9 @@
 }
 
 .filter-button {
-    @apply text-sm font-bold border border-white rounded-full p-1.5;
+    @apply border border-white rounded-full p-1.5 leading-none;
 }
 
 .levels-container {
-    @apply flex gap-2 sm:gap-3 overflow-x-auto pb-2 sm:flex-wrap sm:overflow-x-visible;
+    @apply grid grid-cols-5 gap-4 pb-2 mx-4 sm:flex sm:overflow-x-auto sm:flex-nowrap sm:mx-0;
 }
