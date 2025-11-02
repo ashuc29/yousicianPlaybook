@@ -7,7 +7,7 @@
 }
 
 .filter-toggle-container {
-    @apply flex items-center self-end gap-2 mb-4;
+    @apply flex items-center self-end mb-4 gap-2;
 }
 
 .filter-label {
@@ -27,12 +27,8 @@
 }
 
 .filter-icon {
-    @apply w-4 h-4;
+    @apply w-4 h-4 inline-block bg-no-repeat bg-center bg-contain;
     background-image: url('../../assets/icons/filter.svg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: contain;
-    display: inline-block;
 }
 
 .filter-icon.invert {
@@ -45,4 +41,8 @@
 
 .levels-container {
     @apply grid grid-cols-5 gap-4 pb-2 mx-4 sm:flex sm:overflow-x-auto sm:flex-nowrap sm:mx-0;
+}
+
+.filter-clear-button {
+    @apply bg-transparent border-0 text-[var(--color-grey-light)] text-sm font-medium cursor-pointer py-1 px-2 transition-colors;
 }

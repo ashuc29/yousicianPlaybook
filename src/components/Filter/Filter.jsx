@@ -2,7 +2,7 @@ import { LevelButton } from '../common/LevelButton';
 import '../../styles/variable.css';
 import './Filter.css';
 
-export const FilterBar = ({ showFilters, onToggleFilters, selectedLevels, onLevelToggle }) => {
+export const FilterBar = ({ showFilters, onToggleFilters, selectedLevels, onLevelToggle, onClearLevels }) => {
     const levels = Array.from({ length: 15 }, (_, i) => i + 1);
     let rangeText = null;
     if (selectedLevels.size > 0) {
@@ -17,6 +17,14 @@ export const FilterBar = ({ showFilters, onToggleFilters, selectedLevels, onLeve
                     <span className='filter-label'>
                         {showFilters ? 'HIDE FILTER' : 'FILTER BY LEVEL'}
                     </span>
+                    {showFilters && selectedLevels.size > 0 && (
+                        <button
+                            onClick={onClearLevels}
+                            className="filter-clear-button"
+                        >
+                            Clear All
+                        </button>
+                    )}
                     {!showFilters && rangeText ? (
                         <button
                             onClick={onToggleFilters}

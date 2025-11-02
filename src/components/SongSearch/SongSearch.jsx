@@ -1,16 +1,17 @@
-import React, { useState } from 'react';
-import { Search } from 'lucide-react';
+import React from 'react';
+import { Search, X } from 'lucide-react';
 import './SongSearch.css';
 
-export function SongSearch({ onSearchChange }) {
-    const [searchQuery, setSearchQuery] = useState('');
+export function SongSearch({ searchQuery, onSearchChange }) {
+
 
     const handleInputChange = (event) => {
         const value = event.target.value;
-        setSearchQuery(value);
         onSearchChange(value);
     };
-
+    const handleClearSearch = () => {
+        onSearchChange('');
+    };
     return (
         <div className="song-search-banner">
             <div className="song-search-content">
@@ -29,6 +30,13 @@ export function SongSearch({ onSearchChange }) {
                         placeholder="Search for songs..."
                         className="search-input"
                     />
+                    {searchQuery && (
+                        <X
+                            className="search-icon-clear"
+                            size={24}
+                            onClick={handleClearSearch}
+                        />
+                    )}
                     <Search
                         className="search-icon"
                         size={24}
