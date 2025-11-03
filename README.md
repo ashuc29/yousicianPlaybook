@@ -12,7 +12,7 @@ A web application to browse, search, and filter songs from the Yousician library
 
 ## New Features
 
--   **Ligt Mode/Dark Mode**: A button in the top-right corner toggles between   light and dark mode.
+-   **Ligt Mode/Dark Mode**: A button in the top-right corner toggles between light and dark mode.
 -   **ClearAll for Search**: Clear Search: Instantly clear the search field with a single tap, improving usability for mobile users.
 -   **ClearAll for Filter**: Clear Search: Instantly clear the search field with a single tap.
 
@@ -35,7 +35,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Backend Setup (Mock API)
 
--   This project uses `json-server` to provide a mock API. The API      setup is located in the `/api` directory.
+-   This project uses `json-server` to provide a mock API. The API setup is located in the `/api` directory.
 
  **Navigate to the API directory:**
     

@@ -1,7 +1,4 @@
-// src/services/api.js
-
-const BASE_URL = "http://localhost:3004";
-
+import { API_URL } from '../config/constants';
 /**
  * A helper function to handle API responses.
  * It checks if the response was ok, and if so, returns the json.
@@ -44,7 +41,7 @@ export async function getSongs(options = {}) {
     }
 
     // 3. Make the fetch call
-    const url = `${BASE_URL}/songs?${params.toString()}`;
+    const url = `${API_URL}/songs?${params.toString()}`;
     console.log("Making API Request:", url); // Good for debugging
 
     const response = await fetch(url);
