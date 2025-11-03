@@ -2,8 +2,9 @@
 
 body {
     font-family: 'Montserrat';
-    background-color: #000000;
-    color: #ffffff;
-    margin: 0;
-    padding: 0;
+    @apply bg-black text-white m-0 p-0;
+}
+
+.footer-content {
+    @apply w-full bg-black text-white p-4 flex justify-center text-center;
 }
