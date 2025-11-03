@@ -54,7 +54,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 # Replace 'yousicianPlaybook' with the actual name of the unzipped folder
 cd path/to/yousicianPlaybook
 
--   Install all dependencies: The below command reads your package.json file and installs all the necessary packages from dependencies (like React, Lucide) and devDependencies (like Tailwind, Playwright).
+-   Install all dependencies: The below command reads your package.json file and installs all the necessary packages from dependencies (like React, Lucide) and devDependencies (like Tailwind).
 
 `npm install`
 -   Run the React application: This will start the development server.
