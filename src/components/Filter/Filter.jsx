@@ -1,4 +1,4 @@
-import { LevelButton } from '../common/LevelButton';
+import { LevelFilterButton } from '../common/LevelFilterButton';
 import '../../styles/variable.css';
 import './Filter.css';
 
@@ -49,7 +49,7 @@ export const FilterBar = ({ showFilters, onToggleFilters, selectedLevels, onLeve
                 {showFilters && (
                     <div className="levels-container">
                         {levels.map((level) => (
-                            <LevelButton
+                            <LevelFilterButton
                                 key={level}
                                 level={level}
                                 isActive={selectedLevels.has(level)}

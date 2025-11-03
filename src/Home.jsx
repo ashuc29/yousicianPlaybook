@@ -8,7 +8,7 @@ export function Home() {
                 <MainPage></MainPage>
             </main>
             <footer className='bg-black text-white space-y-2'>
-                <p> Developed by Ashwini Chandrahasa  Copyright © 2025 Yousician Company</p>
+                <p> Developed by Ashwini Chandrahasa  Copyright © 2025 Yousician Music Company</p>
             </footer>
         </div>
     );

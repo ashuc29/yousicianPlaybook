@@ -1,10 +1,10 @@
 import { LevelIndicator } from './LevelIndicator';
-import './LevelButton.css';
+import './LevelFilterButton.css';
 
 /**
  * Level Filter Button Component
  */
-export const LevelButton = ({ level, isActive, onClick }) => {
+export const LevelFilterButton = ({ level, isActive, onClick }) => {
     const buttonClasses = `level-button ${isActive ? 'level-button--active' : 'level-button--inactive group'}`;
 
     return (
