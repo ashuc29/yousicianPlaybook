@@ -5,6 +5,7 @@ import { DEBOUNCE_DELAY } from '../config/constants';
 import { SongSearch } from './SongSearch/SongSearch';
 import { FilterBar } from './Filter/Filter';
 import { SongList } from './SongList/SongList';
+import { Sun, Moon } from 'lucide-react';
 
 
 export function MainPage() {
@@ -41,7 +42,11 @@ export function MainPage() {
             <div className="header">
                 <SongSearch searchQuery={searchQuery} onSearchChange={setSearchQuery} />
                 <button onClick={toggleTheme} className="theme-toggle-button">
-                    Switch to {theme === 'dark' ? 'Light' : 'Dark'} Mode
+                    {theme === 'dark' ? (
+                        <Sun size={20} />
+                    ) : (
+                        <Moon size={20} />
+                    )}
                 </button>
             </div>
             <FilterBar

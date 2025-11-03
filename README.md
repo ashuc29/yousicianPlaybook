@@ -7,10 +7,14 @@ A web application to browse, search, and filter songs from the Yousician library
 -   **Song Discovery**: Browse a list of songs with infinite scrolling.
 -   **Favorites**: Mark and unmark songs as favorites.
 -   **Responsive UI**: A clean interface that works on different screen sizes.
+-   **Search**: Instantly search for songs by title.
+-   **Level Filtering**: Filter songs by one or more difficulty levels (1-15).
 
-## New Features added 
--   **Search**: Instantly search for songs by title, with an option to clear the search query.
--   **Level Filtering**: Filter songs by one or more difficulty levels (1-15), with an option to clear all selected filters.
+## New Features
+
+-   **Ligt Mode/Dark Mode**: A button in the top-right corner toggles between   light and dark mode.
+-   **ClearAll for Search**: Clear Search: Instantly clear the search field with a single tap, improving usability for mobile users.
+-   **ClearAll for Filter**: Clear Search: Instantly clear the search field with a single tap.
 
 ## Tech Stack
 
@@ -31,86 +35,112 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 ### Backend Setup (Mock API)
 
-This project uses `json-server` to provide a mock API. The API setup is located in the `/api` directory.
+-   This project uses `json-server` to provide a mock API. The API      setup is located in the `/api` directory.
 
-1.  **Navigate to the API directory:**
+ **Navigate to the API directory:**
     
-To start it, you must go inside the api folder, install the dependencies `npm install` and run:
+-   To start it, you must go inside the api folder, install the dependencies `npm install` and run:
 
 `npm run start-api`
 
-Now if you go to http://localhost:3004 you should see the default json server page.
+-   Now if you go to http://localhost:3004 you should see the default json server page.
 
-### Frontend Setup (Mock API)
+### Frontend Setup 
 
-1. Unzip the Project: First, unzip the project's ZIP file to a location on your computer.
+-   Unzip the Project to a location on your computer.
 
-2. Navigate to the project's root directory: Open your terminal or command prompt and move into the folder you just unzipped. This is the directory that contains the package.json file.
+-  Navigate to the project's root directory: Open your terminal or command prompt and move into the folder you just unzipped. This is the directory that contains the package.json file.
 
 # Replace 'yousicianPlaybook' with the actual name of the unzipped folder
 cd path/to/yousicianPlaybook
 
-3. Install all dependencies: The below command reads your package.json file and installs all the necessary packages from dependencies (like React, Lucide) and devDependencies (like Tailwind, Playwright).
+-   Install all dependencies: The below command reads your package.json file and installs all the necessary packages from dependencies (like React, Lucide) and devDependencies (like Tailwind, Playwright).
 
 `npm install`
-
-4. Run the React application: This will start the development server.
+-   Run the React application: This will start the development server.
 `npm start`
 
-5. View the app: Open http://localhost:3000 to view it in your browser. The page will reload automatically as you make changes to the code.
+-   This will launch the app in your default web browser, usually at:
+http://localhost:3000/
+The page will reload automatically as you make changes to the code.
 
-# Configuration - API Connection
-The React application is configured to connect to the mock API.
+**Configuration - API Connection**
 
-Default URL: By default, the app attempts to connect to http://localhost:3004. This matches the Backend Setup instructions and should work without any changes.
+-  The React application is configured to connect to the mock API.
 
-This project uses a central file called `constants` for managing application-wide settings, making it easy to adjust key values.
+-  Default URL: By default, the app attempts to connect to http://localhost:3004. This matches the Backend Setup instructions and should work without any changes.
 
-# Constants File (src/config/constants.js)
-A dedicated file, src/config/constants.js, has been created to store and export all important global constants. This includes:
+-   This project uses a central file called `constants` for managing application-wide settings, making it easy to adjust key values.
 
-API_URL: The base URL for the json-server backend.
+ **Navigate to the constants file:**
 
-SONGS_PER_PAGE: How many songs to load at a time for infinite scrolling.
+-   A dedicated file, src/config/constants.js, has been created to store and export all important global constants. This includes:
 
-DEBOUNCE_DELAY: The time (in milliseconds) to wait after a user stops typing before sending a search request.
+-  API_URL: The base URL for the json-server backend.
 
-# custom API URL and global constants
-If you need to change these values (for example, if you run your backend API on a different port), the recommended way is to create a .env file:
+-  SONGS_PER_PAGE: How many songs to load at a time for infinite scrolling.
 
-# Create a .env file
-Create a file named .env in the root of the project (the same directory as package.json).
+-  DEBOUNCE_DELAY: The time (in milliseconds) to wait after a user stops typing before sending a search request.
 
-# Add the variables you want to override. For example:
-# Changes the API endpoint
+# Customizing with a .env File - custom API URL and global constants
+
+-  If you need to change these values (for example, if you run your backend API on a different port), the recommended way is to create a .env file:
+
+**Create a .env file**
+
+-  Create a file named .env in the root of the project (the same directory as package.json).
+Add your overrides: Copy and paste the variables you want to change into this file, keeping the name the same but changing the value.
+
+-  Example: To change the API port from 3004 to 8080, your .env file would look like this:
+
+#The variable name (REACT_APP_API_URL) stays the same.
+#Only change the value to match your port.
 REACT_APP_API_URL=http://localhost:8080
 
-# Changes the number of songs loaded per page
-REACT_APP_SONGS_PER_PAGE=15
+**You can also override the other constants**
 
-# Changes the search delay
+REACT_APP_API_URL=http://localhost:8080
+REACT_APP_SONGS_PER_PAGE=15
 REACT_APP_DEBOUNCE_DELAY=300
 
-# Re-run the project
-After creating or changing the .env file, you must restart the React development server (stop npm start and run npm start again) for the new values to be loaded.
+**Re-run the project**
 
-# Cutsom Favicon
-The project uses a custom SVG icon (the green Yin Yang symbol) as its favicon. This is the icon you see in the browser tab.
+-  After creating or changing the .env file, you must restart the React development server (stop npm start and run npm start again) for the new values to be loaded.
 
-# File Location: 
-The icon file is located at public/favicon.svg.
+# Customization - Favicon
 
-# HTML Link: 
-This file is linked in the public/index.html file with the following line:
-<link rel="icon" href="%PUBLIC_URL%/favicon.svg" alt="favicon" />
+-  The project uses a custom SVG icon (the green Yin Yang symbol) as its favicon. This is the icon you see in the browser tab.
 
-# To replace icon in future 
-Get your new icon file (e.g., my-new-icon.png) and place it inside the public/ folder.
+-  The icon file is located at `public/favicon.svg`
 
-update the href link to point to your new image the index.html file
+-  This file is linked in the `public/index.html` file with the following line:
+   <link rel="icon" href="%PUBLIC_URL%/favicon.svg" alt="favicon" />
 
+**To replace icon in future**
 
+-  Get your new icon file (e.g., my-new-icon.png) and place it inside the `public/` folder
+update the href link to point to your new image in the index.html
 
+# Styling
+-  This project uses Tailwind CSS for most of its styling, along with a few global stylesheets.
 
+#### Global Colors (variable.css)
+-  To ensure color consistency and use the colors from the project instructions, a dedicated variable.css file is used (located in the styles folder).
 
+-  This file defines all the primary colors as CSS variables, which are then used throughout the application
+
+# Testing
+-  This project uses Jest and React Testing Library for unit and integration tests. These tests check individual components to ensure they work correctly.
+
+# How to Run Tests:
+-  To run the tests, use the following command in your terminal:
+`npm test`
+
+-  This command launches the test runner in interactive "watch mode." It will automatically re-run the tests every time you save a change to a file.
+
+# Project Notes - Song Images
+
+-  There was an issue loading images directly from the original API URLs. To fix this and ensure the application has a clean look, a single default placeholder image is used for all songs in the list.
+
+-  This placeholder image is included directly in the React application at `src/assets/images/SongItem_2.png` and is loaded for every song item.
     

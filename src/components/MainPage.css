@@ -25,3 +25,20 @@
 .main-page-container.dark .theme-toggle-button {
     @apply bg-gray-700 text-white border-gray-600;
 }
+
+
+.theme-toggle-button {
+    @apply absolute top-4 right-8 bg-gray-200 text-black border-gray-300 p-2 rounded-full cursor-pointer z-10 transition-colors duration-200;
+}
+
+.theme-toggle-button:hover {
+    @apply bg-white;
+}
+
+.main-page-container.dark .theme-toggle-button {
+    @apply bg-[var(--color-level-orange)] text-white border-[var(--color-level-orange)];
+}
+
+.main-page-container.dark .theme-toggle-button:hover {
+    @apply bg-[var(--color-level-orange)];
+}
