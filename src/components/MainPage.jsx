@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import './MainPage.css';
+import './MainPage.css'; // Re-import the CSS file
 import { useDebounce } from '../hooks/useDebounce';
 import { DEBOUNCE_DELAY } from '../config/constants';
 import { SongSearch } from './SongSearch/SongSearch';
@@ -12,6 +12,7 @@ export function MainPage() {
     const [searchQuery, setSearchQuery] = useState('');
     const [selectedLevels, setSelectedLevels] = useState(new Set());
     const [showFilters, setShowFilters] = useState(true);
+    const [theme, setTheme] = useState('dark');
     // --- Debounced Search ---
     const debouncedSearch = useDebounce(searchQuery, DEBOUNCE_DELAY);
 
@@ -31,9 +32,18 @@ export function MainPage() {
         setSelectedLevels(new Set());
     }
 
+    const toggleTheme = () => {
+        setTheme((prevTheme) => (prevTheme === 'light' ? 'dark' : 'light'));
+    };
+
     return (
-        <div className="main-page-container">
-            <SongSearch searchQuery={searchQuery} onSearchChange={setSearchQuery} />
+        <div className={`main-page-container ${theme}`}>
+            <div className="header">
+                <SongSearch searchQuery={searchQuery} onSearchChange={setSearchQuery} />
+                <button onClick={toggleTheme} className="theme-toggle-button">
+                    Switch to {theme === 'dark' ? 'Light' : 'Dark'} Mode
+                </button>
+            </div>
             <FilterBar
                 showFilters={showFilters}
                 onToggleFilters={() => setShowFilters((s) => !s)}

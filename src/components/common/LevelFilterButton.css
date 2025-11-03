@@ -3,9 +3,17 @@
 }
 
 .level-button--active {
+    @apply bg-black text-white;
+}
+
+.dark .level-button--active {
     @apply bg-white text-black;
 }
 
 .level-button--inactive {
-    @apply relative text-white hover:bg-white/10;
+    @apply relative text-black hover:bg-black/10;
+}
+
+.dark .level-button--inactive {
+    @apply text-white hover:bg-white/10;
 }

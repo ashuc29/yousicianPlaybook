@@ -1,5 +1,9 @@
 .filter-bar {
-    @apply w-full flex justify-center text-white py-6 px-4 md:px-8;
+    @apply w-full flex justify-center text-black py-6 px-4 md:px-8;
+}
+
+.dark .filter-bar {
+    @apply text-white;
 }
 
 .filter-container {
@@ -11,19 +15,43 @@
 }
 
 .filter-label {
-    @apply text-sm font-semibold text-white;
+    @apply text-sm font-semibold text-black;
+}
+
+.dark .filter-label {
+    @apply text-white;
 }
 
 .filter-button-range {
-    @apply flex items-center text-sm font-bold border border-white rounded-3xl overflow-hidden leading-none;
+    @apply flex items-center text-sm font-bold border border-black rounded-3xl overflow-hidden leading-none;
+}
+
+.dark .filter-button-range {
+    @apply border-white;
 }
 
 .range-text {
-    @apply px-3 py-1;
+    @apply px-3 py-1 text-black;
+}
+
+.dark .range-text {
+    @apply text-white;
 }
 
 .filter-icon-wrapper {
-    @apply bg-white rounded-full border-white p-1.5 block;
+    @apply bg-black rounded-full p-1.5 block;
+}
+
+.dark .filter-icon-wrapper {
+    @apply bg-white;
+}
+
+.filter-icon-wrapper .filter-icon {
+    filter: invert(1);
+}
+
+.dark .filter-icon-wrapper .filter-icon {
+    filter: none;
 }
 
 .filter-icon {
@@ -32,11 +60,19 @@
 }
 
 .filter-icon.invert {
+    filter: none;
+}
+
+.dark .filter-icon.invert {
     filter: invert(1);
 }
 
 .filter-button {
-    @apply border border-white rounded-full p-1.5 leading-none;
+    @apply border border-black rounded-full p-1.5 leading-none;
+}
+
+.dark .filter-button {
+    @apply border-white;
 }
 
 .levels-container {

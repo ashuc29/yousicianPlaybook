@@ -1,5 +1,27 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
 .main-page-container {
-    min-height: 100vh;
-    background-color: #000000;
-    font-family: 'Montserrat', sans-serif;
+    @apply min-h-screen bg-white text-black font-['Montserrat'] transition-colors duration-300;
+}
+
+.main-page-container.dark {
+    @apply bg-black text-white;
+}
+
+.header {
+    @apply top-0 left-0 right-0 flex justify-center items-center bg-gray-100 z-[100];
+}
+
+.main-page-container.dark .header {
+    @apply bg-[#1a1a1a];
+}
+
+.theme-toggle-button {
+    @apply absolute top-4 right-8 bg-gray-200 text-black border-gray-300 py-2 px-4 rounded-md cursor-pointer font-['Montserrat'] z-10;
+}
+
+.main-page-container.dark .theme-toggle-button {
+    @apply bg-gray-700 text-white border-gray-600;
 }

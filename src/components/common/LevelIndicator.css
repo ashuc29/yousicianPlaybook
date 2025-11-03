@@ -1,28 +1,26 @@
 .level-indicator-container {
     width: var(--size);
     height: var(--size);
-    position: relative;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    font-weight: bold;
+    @apply relative flex items-center justify-center font-bold;
 }
 
 .level-indicator-number {
-    position: relative;
-    z-index: 10;
+    @apply relative z-10 text-black;
+}
+
+.dark .level-indicator-number {
+    @apply text-white;
 }
 
 .level-indicator-svg {
-    transform: rotate(-90deg);
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
+    @apply absolute inset-0 -rotate-90;
 }
 
 .level-indicator-track {
+    stroke: rgba(0, 0, 0, 0.1);
+}
+
+.dark .level-indicator-track {
     stroke: rgba(255, 255, 255, 0.2);
 }
 

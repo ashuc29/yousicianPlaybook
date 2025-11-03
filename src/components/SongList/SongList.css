@@ -6,6 +6,10 @@
     margin-right: auto;
 }
 
+.light .song-items-container {
+    background-color: #ffffff;
+}
+
 .no-songs-container {
     text-align: center;
     padding-top: 5rem;
