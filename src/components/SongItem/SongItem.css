@@ -9,10 +9,17 @@
     @apply p-4 shadow;
 }
 
-.dark .song-item-container {
-    background-color: var(--color-bg-dark);
+.song-item-container:nth-child(even) {
+    background-color: #f7f7f7;
 }
 
+.dark .song-item-container {
+    background-color: #000000;
+}
+
+.dark .song-item-container:nth-child(even) {
+    background-color: var(--color-bg-dark)
+}
 
 .song-item-wrapper {
     width: 100%;
