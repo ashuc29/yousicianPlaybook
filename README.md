@@ -1,70 +1,116 @@
-# Getting Started with Create React App
+# Yousician Playbook
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A web application to browse, search, and filter songs from the Yousician library. Users can view song details, filter by level, and mark their favorite songs.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+-   **Song Discovery**: Browse a list of songs with infinite scrolling.
+-   **Favorites**: Mark and unmark songs as favorites.
+-   **Responsive UI**: A clean interface that works on different screen sizes.
 
-### `npm start`
+## New Features added 
+-   **Search**: Instantly search for songs by title, with an option to clear the search query.
+-   **Level Filtering**: Filter songs by one or more difficulty levels (1-15), with an option to clear all selected filters.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Tech Stack
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+-   **Frontend**: React, Create React App
+-   **Styling**: Tailwind CSS for utility-first styling, with global styles (`global.css`) and CSS variables for colors (`variable.css`).
+-   **Icons**: Lucide React
+-   **API**: Mock API using `json-server`
+-   **Unit & Integration Testing**: Jest, React Testing Library
 
-### `npm test`
+## Getting Started
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
 
-### `npm run build`
+### Prerequisites
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+-   Node.js (v16 or later)
+-   npm or yarn
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Backend Setup (Mock API)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This project uses `json-server` to provide a mock API. The API setup is located in the `/api` directory.
 
-### `npm run eject`
+1.  **Navigate to the API directory:**
+    
+To start it, you must go inside the api folder, install the dependencies `npm install` and run:
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+`npm run start-api`
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+Now if you go to http://localhost:3004 you should see the default json server page.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### Frontend Setup (Mock API)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+1. Unzip the Project: First, unzip the project's ZIP file to a location on your computer.
 
-## Learn More
+2. Navigate to the project's root directory: Open your terminal or command prompt and move into the folder you just unzipped. This is the directory that contains the package.json file.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+# Replace 'yousicianPlaybook' with the actual name of the unzipped folder
+cd path/to/yousicianPlaybook
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+3. Install all dependencies: The below command reads your package.json file and installs all the necessary packages from dependencies (like React, Lucide) and devDependencies (like Tailwind, Playwright).
 
-### Code Splitting
+`npm install`
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+4. Run the React application: This will start the development server.
+`npm start`
 
-### Analyzing the Bundle Size
+5. View the app: Open http://localhost:3000 to view it in your browser. The page will reload automatically as you make changes to the code.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+# Configuration - API Connection
+The React application is configured to connect to the mock API.
 
-### Making a Progressive Web App
+Default URL: By default, the app attempts to connect to http://localhost:3004. This matches the Backend Setup instructions and should work without any changes.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+This project uses a central file called `constants` for managing application-wide settings, making it easy to adjust key values.
 
-### Advanced Configuration
+# Constants File (src/config/constants.js)
+A dedicated file, src/config/constants.js, has been created to store and export all important global constants. This includes:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+API_URL: The base URL for the json-server backend.
 
-### Deployment
+SONGS_PER_PAGE: How many songs to load at a time for infinite scrolling.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+DEBOUNCE_DELAY: The time (in milliseconds) to wait after a user stops typing before sending a search request.
 
-### `npm run build` fails to minify
+# custom API URL and global constants
+If you need to change these values (for example, if you run your backend API on a different port), the recommended way is to create a .env file:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Create a .env file
+Create a file named .env in the root of the project (the same directory as package.json).
+
+# Add the variables you want to override. For example:
+# Changes the API endpoint
+REACT_APP_API_URL=http://localhost:8080
+
+# Changes the number of songs loaded per page
+REACT_APP_SONGS_PER_PAGE=15
+
+# Changes the search delay
+REACT_APP_DEBOUNCE_DELAY=300
+
+# Re-run the project
+After creating or changing the .env file, you must restart the React development server (stop npm start and run npm start again) for the new values to be loaded.
+
+# Cutsom Favicon
+The project uses a custom SVG icon (the green Yin Yang symbol) as its favicon. This is the icon you see in the browser tab.
+
+# File Location: 
+The icon file is located at public/favicon.svg.
+
+# HTML Link: 
+This file is linked in the public/index.html file with the following line:
+<link rel="icon" href="%PUBLIC_URL%/favicon.svg" alt="favicon" />
+
+# To replace icon in future 
+Get your new icon file (e.g., my-new-icon.png) and place it inside the public/ folder.
+
+update the href link to point to your new image the index.html file
+
+
+
+
+
+    
