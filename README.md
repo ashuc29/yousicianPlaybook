@@ -16,6 +16,12 @@ A web application to browse, search, and filter songs from the Yousician library
 -   **ClearAll for Search**: Clear Search: Instantly clear the search field with a single tap, improving usability for mobile users.
 -   **ClearAll for Filter**: Clear Search: Instantly clear the search field with a single tap.
 
+## API retry handling
+
+-  The mock API is intentionally "flaky" and will randomly fail to simulate real-world network issues. To manage this, the application automatically retries failed requests up to 4 times. This system uses "exponential backoff," waiting progressively longer between each attempt to ensure the app remains stable and resilient.
+
+-  This retry logic is implemented within the API service functions (e.g., getSongs and handleRequest) located in `src/api` folder.
+
 ## Tech Stack
 
 -   **Frontend**: React, Create React App
