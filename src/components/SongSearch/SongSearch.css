@@ -16,11 +16,11 @@
 }
 
 .song-search-title {
-    @apply text-3xl font-bold mb-4;
+    @apply text-xl md:text-3xl font-bold mb-4;
 }
 
 .song-search-subtitle {
-    @apply text-lg text-[#939393] mb-8 sm:text-xl;
+    @apply text-lg text-white mb-8 sm:text-xl;
 }
 
 .search-container {

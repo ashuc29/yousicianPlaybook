@@ -1,20 +1,32 @@
 import { API_URL } from '../config/constants';
 
-const handleRequest = async (url, options, errorMessage, errorValue) => {
-    try {
-        const response = await fetch(url, options);
-        if (!response.ok) {
-            throw new Error(errorMessage);
+const handleRequest = async (url, options, errorMessage, errorValue, retries = 4, backoff = 300) => {
+    for (let i = 0; i < retries; i++) {
+        try {
+            const response = await fetch(url, options);
+            if (!response.ok) {
+                // Only retry on 5xx server errors
+                if (response.status >= 500 && response.status < 600) {
+                    throw new Error(`Server error: ${response.status}`);
+                }
+                // For other errors (like 4xx), don't retry
+                throw new Error(errorMessage);
+            }
+            // For DELETE requests with no content
+            if (response.status === 204 || response.headers.get('content-length') === '0') {
+                return true;
+            }
+            return await response.json();
+        } catch (error) {
+            console.error(`${errorMessage} (attempt ${i + 1}/${retries}):`, error.message);
+            if (i === retries - 1) {
+                return errorValue; // Return error value after last attempt
+            }
+            // Wait before retrying, with increasing delay
+            await new Promise(res => setTimeout(res, backoff * (i + 1)));
         }
-        // For DELETE requests with no content
-        if (response.status === 204 || response.headers.get('content-length') === '0') {
-            return true;
-        }
-        return await response.json();
-    } catch (error) {
-        console.error(`${errorMessage}:`, error.message);
-        return errorValue;
     }
+    return errorValue; // Should be unreachable, but for safety
 };
 
 /**

@@ -44,16 +44,30 @@ export async function getSongs(options = {}) {
     const url = `${API_URL}/songs?${params.toString()}`;
     console.log("Making API Request:", url); // Good for debugging
 
-    const response = await fetch(url);
+    const retries = 4;
+    const backoff = 300;
+    for (let i = 0; i < retries; i++) {
+        try {
+            const response = await fetch(url);
 
-    // 4. IMPORTANT: We need the 'X-Total-Count' header for infinite scroll
-    // This tells us how many total songs there are
-    const totalCount = response.headers.get('X-Total-Count');
-    const data = await handleResponse(response);
+            // 4. IMPORTANT: We need the 'X-Total-Count' header for infinite scroll
+            // This tells us how many total songs there are
+            const totalCount = response.headers.get('X-Total-Count');
+            const data = await handleResponse(response);
 
-    // 5. Return the songs AND the total count
-    return {
-        songs: data,
-        totalCount: parseInt(totalCount, 10) || 0
-    };
+            // 5. Return the songs AND the total count
+            return {
+                songs: data,
+                totalCount: parseInt(totalCount, 10) || 0
+            };
+        } catch (error) {
+            console.error(`Failed to fetch songs (attempt ${i + 1}/${retries}):`, error.message);
+            if (i === retries - 1) {
+                throw error; // Rethrow error after last attempt
+            }
+            await new Promise(res => setTimeout(res, backoff * (i + 1)));
+        }
+    }
+    // This part should not be reached, but as a fallback:
+    return { songs: [], totalCount: 0 };
 }
